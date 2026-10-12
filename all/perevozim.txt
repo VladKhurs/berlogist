@@ -1,0 +1,2747 @@
+
+
+<div id="wrap">
+    <div id="top_action" class="wrapper">
+        <a href="javascript:;" class="closer close" title="Акция на заказ перевозки по МИНСКЕ и области"></a>
+        <div class="text">Только сегодня акция <span class="discount"><span class="num">-5%</span></span> на заказ
+            перевозки на завтра!
+        </div>
+    </div>
+    <!-- header begin -->
+    <header id="header">
+        <div class="wrapper">
+            <a href="" title="Грузоперевозки по Минску" class="logo"><img src="images/logo.png" alt="Грузоперевозки в Минске" title="Грузоперевозки по Минску" class="logos"></a>
+            <a href="tel:+375445992967" title="Узнать о скидке на грузоперевозки" class="telef">+375 (44) 599-29-67</a>
+            <div class="kruglos">круглосуточно</div>
+            <nav class="menu">
+                <ul>
+                    <li class="icon1"><a href="#услуги" title="Услуги Газели">Услуги</a></li>
+                    <li class="icon2"><a href="#цены" title="Цены на перевозки">Цены</a></li>
+                    <li class="icon3"><a href="#автопарк" title="Автопарк">Автопарк</a></li>
+                    <li class="icon5"><a href="#калькулятор" title="Калькулятор">Калькулятор</a></li>
+                </ul>
+            </nav>
+           <!-- <nav class="menu_two">
+                <span id="demo"></span>
+                <ul class="new_menu">
+                    <li class="parent">
+                        <a href="#" title="Грузоперевозки дешево">Для частных лиц</a><span class="strelka"></span>
+                        <div class="level2">
+                            <div class="left">
+                                <p class="kak_h3">Перевозки</p>
+                                <ul>
+                                    <li><a href="/перевозка-бытовой-техники/" title="Перевозка бытовой техники">Перевозка
+                                            бытовой техники</a></li>
+                                    <li><a href="/перевозка-мебели/" title="Перевозка мебели">Перевозка мебели</a></li>
+                                    <li><a href="/перевозка-сейфов/" title="Перевозка сейфов">Перевозка сейфов</a></li>
+                                    <li><a href="/перевозка-пианино-и-рояля/" title="Перевозка пианино и рояля">Перевозка
+                                            пианино и рояля</a></li>
+                                    <li><a href="/перевозка-стройматериалов/" title="Перевозка стройматериалов">Перевозка
+                                            стройматериалов</a></li>
+                                    <li><a href="/перевозка-антиквариата/" title="Перевозка антиквариата">Перевозка
+                                            антиквариата</a></li>
+                                    <li><a href="/перевозка-хрупких-грузов/" title="Перевозка хрупких грузов">Перевозка
+                                            хрупких грузов</a></li>
+                                </ul>
+                                <ul class="border">
+                                    <li><a href="/перевозка-шкафа/" title="Перевозка шкафа">Перевозка шкафа</a></li>
+                                    <li><a href="/перевозка-дивана/" title="Перевозка дивана">Перевозка дивана</a></li>
+                                    <li><a href="/перевозка-кровати/" title="Перевозка кровати">Перевозка кровати</a>
+                                    </li>
+                                    <li><a href="/перевозка-холодильника/" title="Перевозка холодильника">Перевозка
+                                            холодильника</a></li>
+                                    <li><a href="/перевозка-стиральной-машины/" title="Перевозка стиральной машины">Перевозка
+                                            стиральной машины</a></li>
+                                    <li><a href="/перевозка-стеллажей/" title="Перевозка стеллажей">Перевозка
+                                            стеллажей</a></li>
+                                    <li><a href="/перевозка-саженцев/" title="Перевозка саженцев">Перевозка саженцев</a>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="right">
+                                <p class="kak_h3">Услуги</p>
+                                <ul>
+                                    <li><a href="/заказ-газели/" title="Заказ Газели">Заказ Газели</a></li>
+                                    <li><a href="/машина-с-грузчиками/" title="Машина с грузчиками">Машина с
+                                            грузчиками</a></li>
+                                    <li><a href="/транспортные-услуги/" title="Транспортные услуги">Транспортные
+                                            услуги</a></li>
+                                    <li><a href="/грузовое-такси/" title="Грузовое такси">Грузовое такси</a></li>
+                                    <li><a href="/перевозка-грузов/" title="Перевозка грузов">Перевозка грузов</a></li>
+                                    <li><a href="/срочный-переезд/" title="Срочный переезд">Срочный переезд</a></li>
+                                </ul>
+                                <ul>
+                                    <li><a href="/переезд-квартиры/" title="Переезд квартиры">Переезд квартиры</a></li>
+                                    <li><a href="/переезд-на-дачу/" title="Переезд на дачу">Переезд на дачу</a></li>
+                                    <li><a href="/переезд-в-другой-город/" title="Переезд в другой город">Переезд в
+                                            другой город</a></li>
+                                    <li><a href="/переезд-под-ключ/" title="Переезд под ключ">Переезд под ключ</a></li>
+                                    <li><a href="/перевозка-личных-вещей/" title="Перевозка личных вещей">Перевозка
+                                            личных вещей</a></li>
+                                    <li><a href="/перевозка-мотоциклов/" title="Перевозка мотоциклов">Перевозка
+                                            мотоциклов</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="parent">
+                        <a href="#" title="Грузопереовзки офиса">Для бизнеса</a><span class="strelka"></span>
+                        <div class="level2 biznes">
+                            <div class="left">
+                                <p class="kak_h3">Перевозим</p>
+                                <ul>
+                                    <li><a href="/переезд-офиса/" title="Переезд офиса">Офисы</a></li>
+                                    <li><a href="/перевозка-банка/" title="Перевозка банка">Банки</a></li>
+                                    <li><a href="/перевозка-архива/" title="Перевозка архива">Архивы</a></li>
+                                    <li><a href="/переезд-склада/" title="Переезд склада">Склады</a></li>
+                                    <li><a href="/перевозка-магазина/" title="Перевозка магазина">Магазины</a></li>
+                                    <li><a href="/переезд-предприятия/" title="Переезд предприятия">Предприятия</a></li>
+                                </ul>
+                                <ul class="border">
+                                    <li><a href="/перевозка-аптеки-и-клиники/" title="Перевозка аптеки и клиники">Аптеки
+                                            и клиники</a></li>
+                                    <li><a href="/перевозка-ресторана-и-кафе/" title="Перевозка ресторана и кафе">Рестораны
+                                            и кафе</a></li>
+                                    <li><a href="/перевозка-библиотеки/" title="Перевозка библиотеки">Библиотеки</a>
+                                    </li>
+                                    <li><a href="/перевозка-гостиницы/" title="Перевозка гостиницы">Гостиницы</a></li>
+                                    <li><a href="/перевозка-детского-сада/" title="Перевозка детского сада">Детские
+                                            сады</a></li>
+                                    <li><a href="/перевозка-рефрижераторами/" title="Перевозка рефрижераторами">Рефрижераторами</a>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="right">
+                                </br>
+                                <ul>
+                                    <li><a href="/перевозка-автосервиса/" title="Перевозка автосервиса">Автосервисы</a>
+                                    </li>
+                                    <li><a href="/перевозка-салона-красоты/" title="Перевозка салона красоты">Салоны
+                                            красоты</a></li>
+                                    <li><a href="/перевозка-ювелирного-салона/" title="Перевозка ювелирного салона">Ювелирные
+                                            салоны</a></li>
+                                    <li><a href="/перевозка-станков/" title="Перевозка станков">Станки</a></li>
+                                    <li><a href="/перевозка-серверов/" title="Перевозка серверов">Серверы</a></li>
+                                    <li><a href="/перевозка-банкомата-и-терминала/"
+                                           title="Перевозка банкомата и терминала">Банкоматы и</br>терминалы</a></li>
+                                </ul>
+                                <ul>
+                                    <li><a href="/перевозка-оргтехники/" title="Перевозка оргтехники">Оргтехнику</a>
+                                    </li>
+                                    <li><a href="/перевозка-выставочного-стенда/" title="Перевозка выставочного стенда">Выставочные
+                                            стенды</a></li>
+                                    <li><a href="/перевозка-торгового-оборудования/"
+                                           title="Перевозка торгового оборудования">Торговое оборудование</a></li>
+                                    <li><a href="/перевозка-светового-оборудования/"
+                                           title="Перевозка светового оборудования">Световое оборудование</a></li>
+                                    <li><a href="/перевозка-полиграфического-оборудования/"
+                                           title="Перевозка полиграфического оборудования">Полиграфическое </br>
+                                            оборудование</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </li>
+                </ul>
+            </nav>-->
+            <div class="clear"></div>
+        </div>
+			<div class="mob_tel">
+				<p class="call_phone_1">
+				 <a href="" title="Грузоперевозки в Минске" class="logom"><img src="images/logom.png" alt="Грузоперевозки дешево" title="Грузоперевозки в Минске" class="logom"></a>
+				<a href="tel:+375445992967" class="block-mts w-inline-block"></a>
+				<a href="viber://chat?number=%2B375445669931" class="block-viber w-inline-block"></a>
+				<a href="https://wapp.click/+375445992967" class="block-wacap w-inline-block"></a>
+				<noindex><a href="https://www.instagram.com/fastcargo.by/" class="block-insta w-inline-block"></a></noindex>
+				</p>
+			</div>	
+    </header>
+    <!-- header end -->
+    <!-- content begin -->
+    <div id="content">
+        <!-- order_form_block -->
+        <div id="order_form_block">
+            <div class="wrapper">
+                <div class="text">
+                    <h1>Грузоперевозки <span class="p1">В МИНСКЕ И ОБЛАСТИ ПО НИЗКОЙ ЦЕНЕ</span></h1>
+                    <p class="p2">Закажите грузоперевозки на 10-15% дешевле, чем в  среднем по городу.</p>
+                    <p class="p3 pk3">СКИДКА 10%<br> <span>КВАРТИРНЫЙ ПЕРЕЕЗД</span></p>
+                    <p class="p3 mp3">СКИДКА 10%<br> <span>КВАРТИРНЫЙ ПЕРЕЕЗД</span> <br>Авто до 15 куб до 2т<br> + 2 грузчика</p>
+                    <div class="red_button">
+                        <button type="button" onclick="open_popup('#order_popup')">заказать сейчас</button>
+                    </div>
+
+                </div>
+                <div class="clear"></div>
+            </div>
+        </div>
+        <!-- order_form_block END-->
+
+        <!--text_block-->
+        <div class="text_block wrapper textmob">
+            <p>Ищете надежные грузоперевозки в Минске и области? Мы принимаем срочные и предварительные заявки на перевозки по Минску, включая квартирные и офисные переезды, а также вывоз диванов. Наши услуги охватывают перевозку любых грузов с профессиональными грузчиками, а также разборку и сборку мебели, а также предоставление упаковочных материалов для безопасной транспортировки.<br>
+
+            Почему выбирают именно нас? Мы предлагаем грузоперевозки по ценам на 10-15% ниже средних по Минску, что делает наши услуги особенно выгодными. Наши опытные операторы помогут подобрать оптимальный тариф, учитывая тип груза, район доставки и ваши индивидуальные пожелания. Автомобильные грузоперевозки доступны круглосуточно и в любую погоду, что обеспечивает гибкость и надежность сервиса.<br>
+
+            Если вам нужна недорогая автоперевозка из Минска, стоимость рассчитывается прямо на нашем сайте. Используйте наши тарифы для быстрого и точного определения стоимости грузоперевозки и планируйте переезд без лишних хлопот.</p>
+        </div>
+        <!--text_block END-->
+		<div id="services" class="mobcen">
+		 <div class="wrapper" id="mobcen">
+		 <div class="heading">ЦЕНЫ НА ГРУЗОПЕРЕВОЗКИ В МИНСК</div>
+                <ul class="list list2">
+                    <li><a href="#order_popup" type="button" onclick="open_tarif('АВТО ДО 10 куб - от 20 р.ч.')" title="Услуги грузчиков">
+                            <span><img src="pics/car-1.jpg" alt="Грузопереовзки дешево"></span>
+                            <span>АВТО ДО 10 куб</span> <br> <span class="price">Цена от 20 р.ч.</span>
+                        </a></li>
+                    <li><a href="#order_popup" type="button" onclick="open_tarif('АВТО ДО 15 куб - от 45 р.ч.')" title="Такелажные работы">
+                            <span><img src="pics/car-1.jpg" alt="Грузовое такси в Минске"></span>
+                            <span>АВТО ДО 15 куб</span> <br> <span class="price">Цена от 45 р.ч.</span>
+                        </a></li>
+                    <li><a href="#order_popup" type="button" onclick="open_tarif('АВТО ДО 20 куб - от 50 р.ч.')" title="Такелажные работы">
+                            <span><img src="pics/car-2.jpg" alt="Грузовое такси Минск"></span>
+                            <span>АВТО ДО 20 куб</span> <br> <span class="price">Цена от 50 р.ч.</span>
+                        </a></li>
+                    <li><a href="#order_popup" type="button" onclick="open_tarif('АВТО ДО 30 куб - от 90 р.ч.')" title="Такелажные работы">
+                            <span><img src="pics/car-3.jpg" alt="Грузоперевозки Минск"></span>
+                            <span>АВТО ДО 30 куб</span> <br> <span class="price">Цена от 90 р.ч.</span>
+                        </a></li>
+                    <li><a href="#order_popup" type="button" onclick="open_tarif('АВТО ДО 45 куб - от 110 р.ч.')" title="Такелажные работы">
+                            <span><img src="pics/car-4.jpg" alt="Грузоперевозки в Минске"></span>
+                            <span>АВТО ДО 45 куб</span> <br> <span class="price">Цена от 110 р.ч.</span>
+                        </a></li>
+                </ul>        </div></div>
+
+        <!--recomended-->
+        <div id="recomended" class="wrapper">
+            <div class="foto"><img src="pics/img1.jpg" alt="грузоперевозки рассрочка" title="грузоперевозки рассрочка"></div>
+            <div class="text">
+                <p class="h2">Нас рекомендуют <span class="percent">97<span class="perc">%</span></span> клиентов</p>
+                <p class="p1">Нам не приходится тратить огромные суммы на рекламу, ведь абсолютное большинство из тех, кто заказал у нас грузоперевозки по Минску, становятся нашими постоянными клиентами. Более 97% заказчиков готовы рекомендовать наши услуги родным, друзьям и коллегам. Чтобы отблагодарить постоянных клиентов, мы выполняем для них грузоперевозки по специальным сниженным тарифам.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <!--recomended END-->
+
+        <!--advantages-->
+        <div id="advantages">
+            <div class="wrapper">
+                <ul class="list">
+                    <li class="item item1">
+                        <div class="icon"></div>
+                        <p class="p1">от 20</p>
+                        <p class="p2">рублей - стоимость на 1 час</p>
+                        <p class="p3">(грузоперевозки до 15% дешевле, чем в других ТК в МИНСКЕ)</p>
+                    </li>
+                    <li class="item item2">
+                        <div class="icon"></div>
+                        <p class="p1">24</p>
+                        <p class="p2">часа в сутки </p>
+                        <p class="p3">(перевезем ваш груз в любое время суток)</p>
+                    </li>
+                    <li class="item item3">
+                        <div class="icon"></div>
+                        <p class="p1">105</p>
+                        <p class="p2">собственных грузовиков</p>
+                        <p class="p3">(быстро перевезем груз любого веса и объема)</p>
+                    </li>
+                    <li class="item item4">
+                        <div class="icon"></div>
+                        <p class="p1">9</p>
+                        <p class="p2">лет успешной работы</p>
+                        <p class="p3">(на рынке Минска и области)</p>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <!--advantages END-->
+
+        <!-- order_gazel-->
+        <div id="order_gazel">
+            <div class="wrapper">
+                <form action="/" method="post" id="order_gazel_form" novalidate="novalidate">
+                    <input type="hidden" name="gorod" value="">
+                    <div class="circle">
+                        <p class="p1">Заказать</p>
+                        <p class="p2">ГРУЗОВИК</p>
+                        <p class="p3">прямо сейчас:</p>
+                    </div>
+
+                    <input type="hidden" name="email">
+                    <input type="hidden" name="subject" value="Заказать авто прямо сейчас">
+                    <div class="center">
+                        <ul class="list">
+                            <li>
+                                <label class="change_checkbox hide_inp check"><span class="ch_box"></span>
+                                    <input type="radio" name="for_what" checked="" value="переезда по городу"> Для переезда
+                                    по <span id="city_place1">городу</span></label>
+                            </li>
+                            <li>
+                                <label class="change_checkbox hide_inp"><span class="ch_box"></span>
+                                    <input type="radio" name="for_what" value="доставки товаров"> Для доставки
+                                    товаров</label>
+                            </li>
+                            <li>
+                                <label class="change_checkbox hide_inp"><span class="ch_box"></span>
+                                    <input type="radio" name="for_what" value="грузоперевозки в область"> Для
+                                    грузоперевозки в область</label>
+                            </li>
+                            <li>
+                                <label class="change_checkbox hide_inp"><span class="ch_box"></span>
+                                    <input type="radio" name="for_what" value="перевозки мебели"> Для перевозки
+                                    мебели</label>
+                            </li>
+                            <li>
+                                <label class="change_checkbox hide_inp"><span class="ch_box"></span>
+                                    <input type="radio" name="for_what" value="прочих перевозок"> Для прочих
+                                    перевозок</label>
+                            </li>
+                        </ul>
+                        <p class="ring"><span class="star">*</span> Перезвоним через 3 минуты</p>
+                    </div>
+                    <div class="form_box">
+                        <dl>
+                            <dt class="dt1">Ваше имя:</dt>
+                            <dd class="dd1"><input type="text" name="name" class="input"></dd>
+                        </dl>
+                        <dl>
+                            <dt class="dt2"> Номер телефона:</dt>
+                            <dd class="dd2"><input type="tel" name="tel" class="input"></dd>
+                        </dl>
+                        <p class="p1">
+                            <label class="change_checkbox hide_inp"><span class="ch_box"></span>
+                                <input type="checkbox" name="gruzchiki" value="да"> Авто с грузчиками</label>
+                        </p>
+                        <div class="red_button">
+                            <button type="submit">отправить</button>
+                        </div>
+                        <!--                        <div class="input_check_sogl">-->
+                        <!--                            <label class=""><input id="checkbox_soglashenie" name="checkbox_soglashenie2" type="checkbox"-->
+                        <!--                                                   checked>-->
+                        <!--                                <span>Я соглашаюсь на обработку персональных данных.</span> <a href="/politika.pdf" target="_blank">Соглашение</a></label>-->
+                        <!--                        </div>-->
+                    </div>
+                </form>
+
+                <div class="clear"></div>
+            </div>
+        </div>
+        <!-- order_gazel END-->
+
+        <!--prices-->
+        <div id="prices">
+            <div class="wrapper">
+                <h2>Самые низкие цены в МИНСКЕ</h2>
+				<p>Перевозим все и всех! Вот уже более 15 лет мы безупречно оказываем транспортные услуги грузоперевозок для переезда частных клиентов. Также мы готовы предложить свои услуги и для бизнеса. Грузовой переезд с нашей компанией – это услуга, в которую все включено, а именно: транспорт для переезда, погрузка и перевозка груза, транспортировка грузов, подъем на этаж.</p>
+                <div class="banner">
+                    <div class="wrap">
+                        <div class="left">
+                            <p class="p2">Получить специальное предложение</p>
+                            <p class="p3">для корпоративных клиентов</p>
+                        </div>
+                        <div class="right">
+                            <p class="p4"><a href="tel:+375445992967" title="Получить предложение для корпоративных клиентов">+375 (44) 599-29-67</a></p>
+                            <p class="p5"> для юридических лиц</p>
+                        </div>
+                        <a href="javascript:;" class="link" onclick="open_popup('#spec_sentence_popup');" title="Грузоперевозки на Газели для корпоративных клиентов"></a>
+                    </div>
+                </div>
+				<p><br>Если вам нужна помощь в срочной транспортировке одного или нескольких габаритных предметов, смело обращайтесь в нашу компанию. Для мелких перевозок у нас предусмотрен компактный транспорт и выгодные тарифы. Мы делаем переезд проще! Заказ грузоперевозки можно оформить онлайн. Хотите сделать заказ грузовой машины для переезда с грузчиками, но не знаете, сколько это будет стоить? Наш сайт поможет рассчитать стоимость грузоперевозки онлайн - заполните форму и получите результат в 1 клик.</p>
+
+            </div>
+
+            <div class="tarifs-new-wrapper">
+                <div class="wrapper">
+                    <div class="tarifs-new">
+                        <div class="tabs">
+                            <div class="tab active" data-target="item-lite">Мини</div>
+                            <div class="tab" data-target="item-lite-plus">Мини+</div>
+                            <div class="tab" data-target="item-vygoda">Легко</div>
+                            <div class="tab" data-target="item-vygoda-plus">Легко+</div>
+                            <div class="tab" data-target="item-optima">Просто</div>
+                            <div class="tab" data-target="item-optima-plus">Просто+</div>
+                            <div class="tab" data-target="item-comfort">Максимум</div>
+                            <div class="tab" data-target="item-comfort-plus">Максимум+</div>
+                        </div>
+                        <div class="items">
+                            <div class="item active item-lite" style="background-image:url(avto_new/avto-do-1.png); ">
+                                <header>
+                                    <div class="title">Тариф <span>"Мини"</span></div>
+                                    <div class="label">самый популярный</div>
+                                </header>
+                                <div>
+                                    <ul>
+                                        <li>
+                                            <div class="line"><span class="name">Время</span></div>
+                                            <span class="value">min - 2 час</span></li>
+                                        <li>
+                                            <div class="line"><span class="name">Грузчики</span></div>
+                                            <span class="value">Без грузчика</span></li>
+                                        <li>
+                                            <div class="line"><span class="name">Стоимость</span></div>
+                                            <span class="value">20 руб</span></li>
+                                        <li>
+                                            <div class="line"><span class="name">Доп. час</span></div>
+                                            <span class="value">35 руб</span></li>
+                                    </ul>
+                                </div>
+                                <p class="car-name">Авто до 10 куб</p>
+                                <button type="button" onclick="open_tarif(&quot;Тариф МИНИ&quot;,20,&quot;tarif_mini&quot;)">заказать
+                                </button>
+                            </div>
+                            <div class="item active item-lite-plus" style="background-image:url(avto_new/avto-do-1.png); ">
+                                <header>
+                                    <div class="title">Тариф <span>"Мини+"</span></div>
+                                </header>
+                                <div>
+                                    <ul>
+                                        <li>
+                                            <div class="line"><span class="name">Время</span></div>
+                                            <span class="value">min - 2 часа</span></li>
+                                        <li>
+                                            <div class="line"><span class="name">Грузчики</span></div>
+                                            <span class="value">1 грузчик</span></li>
+                                        <li>
+                                            <div class="line"><span class="name">Стоимость</span></div>
+                                            <span class="value">60 руб</span></li>
+                                        <li>
+                                            <div class="line"><span class="name">Доп. час</span></div>
+                                            <span class="value">30 руб</span></li>
+                                    </ul>
+                                </div>
+                                <p class="car-name">Авто до 10 куб</p>
+                                <button type="button" onclick="open_tarif(&quot;Тариф ЛЕГКО&quot;,60,&quot;tarif_legko&quot;)">заказать
+                                </button>
+                            </div>
+                            <div class="item active item-vygoda" style="background-image:url(avto_new/avto-do-1.5.png); ">
+                                <header>
+                                    <div class="title">Тариф <span>"Легко"</span></div>
+                                </header>
+                                <div>
+                                    <ul>
+                                        <li>
+                                            <div class="line"><span class="name">Время</span></div>
+                                            <span class="value">min - 2 часа</span></li>
+                                        <li>
+                                            <div class="line"><span class="name">Грузчики</span></div>
+                                            <span class="value">1 человек</span></li>
+                                        <li>
+                                            <div class="line"><span class="name">Стоимость</span></div>
+                                            <span class="value">65 руб</span></li>
+                                        <li>
+                                            <div class="line"><span class="name">Доп. час</span></div>
+                                            <span class="value">20 руб</span></li>
+                                    </ul>
+                                </div>
+                                <p class="car-name">Авто до 15 куб</p>
+                                <button type="button" onclick="open_tarif(&quot;Тариф ЛЕГКО&quot;,65,&quot;tarif_legko&quot;)">заказать
+                                </button>
+                            </div>
+                            <div class="item active item-vygoda-plus" style="background-image:url(avto_new/avto-do-1.5.png); ">
+                                <header>
+                                    <div class="title">Тариф <span>"Легко+"</span></div>
+                                </header>
+                                <div>
+                                    <ul>
+                                        <li>
+                                            <div class="line"><span class="name">Время</span></div>
+                                            <span class="value">min - 2 часа</span></li>
+                                        <li>
+                                            <div class="line"><span class="name">Грузчики</span></div>
+                                            <span class="value">2 человека</span></li>
+                                        <li>
+                                            <div class="line"><span class="name">Стоимость</span></div>
+                                            <span class="value">75 руб</span></li>
+                                        <li>
+                                            <div class="line"><span class="name">Доп. час</span></div>
+                                            <span class="value">40 руб</span></li>
+                                    </ul>
+                                </div>
+                                <p class="car-name">Авто до 15 куб</p>
+                                <button type="button" onclick="open_tarif(&quot;Тариф ЛЕГКО+&quot;,75,&quot;tarif_legko_plus&quot;)">
+                                    заказать
+                                </button>
+                            </div>
+                            <div class="item active item-optima" style="background-image:url(avto_new/avto-do-5.png); ">
+                                <header>
+                                    <div class="title">Тариф <span>"Просто"</span></div>
+                                </header>
+                                <div>
+                                    <ul>
+                                        <li>
+                                            <div class="line"><span class="name">Время</span></div>
+                                            <span class="value">min - 2 часа</span></li>
+                                        <li>
+                                            <div class="line"><span class="name">Грузчики</span></div>
+                                            <span class="value">1 человек</span></li>
+                                        <li>
+                                            <div class="line"><span class="name">Стоимость</span></div>
+                                            <span class="value">70 руб</span></li>
+                                        <li>
+                                            <div class="line"><span class="name">Доп. час</span></div>
+                                            <span class="value">40 руб</span></li>
+                                    </ul>
+                                </div>
+                                <p class="car-name">Авто до 20 куб</p>
+                                <button type="button" onclick="open_tarif(&quot;Тариф ПРОСТО&quot;,70,&quot;tarif_prosto&quot;)">
+                                    заказать
+                                </button>
+                            </div>
+                            <div class="item active item-optima-plus" style="background-image:url(avto_new/avto-do-5.png); ">
+                                <header>
+                                    <div class="title">Тариф <span>"Просто+"</span></div>
+                                </header>
+                                <div>
+                                    <ul>
+                                        <li>
+                                            <div class="line"><span class="name">Время</span></div>
+                                            <span class="value">min - 2 часа</span></li>
+                                        <li>
+                                            <div class="line"><span class="name">Грузчики</span></div>
+                                            <span class="value">2 человека</span></li>
+                                        <li>
+                                            <div class="line"><span class="name">Стоимость</span></div>
+                                            <span class="value">85 руб</span></li>
+                                        <li>
+                                            <div class="line"><span class="name">Доп. час</span></div>
+                                            <span class="value">45 руб</span></li>
+                                    </ul>
+                                </div>
+                                <p class="car-name">Авто до 20 куб</p>
+                                <button type="button" onclick="open_tarif(&quot;Тариф ПРОСТО+&quot;,85,&quot;tarif_prosto_plus&quot;)">
+                                    заказать
+                                </button>
+                            </div>
+                            <div class="item active item-comfort" style="background-image:url(avto_new/avto-do-7.png); ">
+                                <header>
+                                    <div class="title">Тариф <span>"Максимум"</span></div>
+                                </header>
+                                <div>
+                                    <ul>
+                                        <li>
+                                            <div class="line"><span class="name">Время</span></div>
+                                            <span class="value">min - 4 часа</span></li>
+                                        <li>
+                                            <div class="line"><span class="name">Грузчики</span></div>
+                                            <span class="value">2 человека</span></li>
+                                        <li>
+                                            <div class="line"><span class="name">Стоимость</span></div>
+                                            <span class="value">240 руб</span></li>
+                                        <li>
+                                            <div class="line"><span class="name">Доп. час</span></div>
+                                            <span class="value">60 руб</span></li>
+                                    </ul>
+                                </div>
+                                <p class="car-name">Авто до 20 куб</p>
+                                <button type="button" onclick="open_tarif(&quot;Тариф МАКСИМУМ&quot;,240,&quot;tarif_maximum&quot;)">
+                                    заказать
+                                </button>
+                            </div>
+                            <div class="item active item-comfort-plus" style="background-image:url(avto_new/avto-do-7.png); ">
+                                <header>
+                                    <div class="title">Тариф <span>"Максимум+"</span></div>
+                                </header>
+                                <div>
+                                    <ul>
+                                        <li>
+                                            <div class="line"><span class="name">Время</span></div>
+                                            <span class="value">min - 4 часа</span></li>
+                                        <li>
+                                            <div class="line"><span class="name">Грузчики</span></div>
+                                            <span class="value">4 человека</span></li>
+                                        <li>
+                                            <div class="line"><span class="name">Стоимость</span></div>
+                                            <span class="value">320 руб</span></li>
+                                        <li>
+                                            <div class="line"><span class="name">Доп. час</span></div>
+                                            <span class="value">80 руб</span></li>
+                                    </ul>
+                                </div>
+                                <p class="car-name">Авто до 20 куб</p>
+                                <button type="button" onclick="open_tarif(&quot;Тариф МАКСИМУМ+&quot;,320,&quot;tarif_maximum_plus&quot;)">
+                                    заказать
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <!--prices END-->
+
+ <!-- why_so_cheep-->
+        <div id="services">
+            <div class="wrapper">
+                <h2>Почему перевозки у нас стоят дешевле</h2>
+                <p class="p1">У нас собственные автопарк!</p>
+                <p class="p2">Оставьте заявку на перевозки или узнайте тарифы на грузоперевозки на нашем сайте: вы убедитесь, что у нас в среднем на <strong>10-15% дешевле</strong>, чем у большинства конкурентов в регионе. Главные причины – это использование исключительно собственного автопарка, грамотное распределение заказов для сокращения расходов, отсутствие лишнего и ненужного персонала в штате.</p>
+                <p class="p2">В автопарке всегда есть свободные машины. Подадим машину через <strong>15 МИНУТ</strong>
+                    после оформления заказа. </p>
+                <div class="heading" id="serv1">УСЛУГИ ГРУЗОПЕРЕВОЗОК В МИНСКЕ:</div>
+                <ul class="list list1">
+                    <li><a href="#" title="Нанять авто для Грузоперевозки" onclick="list1('hire_gazel','Нанять авто для Грузоперевозки', 'Цена от 20 р.ч.')">
+                            <span><img src="pics/img_01.jpg" alt="грузоперевозки в Минске" title="Нанять авто для Грузоперевозки"></span>
+                            <span>Грузоперевозки<br> Минск</span>
+                            <span class="hint">
+      Предоставим стандартную или удлиненную машину для перевозок стройматериалов, мебели, промтоваров, продуктов питания.
+             <span class="price">Цена от 20 р.ч.</span>
+        </span>
+                        </a></li>
+                    <li><a href="#" title="Нанять авто для квартирного переезда" onclick="list1('hire_gazel','Нанять авто для квартирного переезда', 'Цена от 20 р.ч.')">
+                            <span><img src="pics/img_02.jpg" alt="грузоперевозки Минск" title="Нанять авто для квартирного переезда"></span>
+                            <span>Квартирный<br> переезд</span>
+                            <span class="hint">
+      Авто с жестким герметичным кузовом идеально подходит для транспортировки деликатных и хрупких вещей.
+         <span class="price">Цена от 20 р.ч.</span>
+        </span>
+                        </a></li>
+                    <li><a href="#" title="Нанять авто для перевозки мебели" onclick="list1('hire_gazel','Нанять авто для перевозки мебели', 'Цена от 20 р.ч.')">
+                            <span><img src="pics/img_03.jpg" alt="Грузоперевозки мебели в Минске" title="Нанять авто для перевозки мебели"></span>
+                            <span>Грузоперевозки<br> мебели</span>
+                            <span class="hint">
+     Фургон обеспечат безопасную перевозку корпусной или мягкой мебели, в том числе с дорогой кожаной обивкой.
+         <span class="price">Цена от 20 р.ч.</span>
+        </span>
+                        </a></li>
+                    <li><a href="#" title="Нанять авто для переезда на дачу" onclick="list1('hire_gazel','Нанять авто для переезда на дачу', 'Цена от 20 р.ч.')">
+                            <span><img src="pics/img_04.jpg" alt="грузоперевозки в рассрочку" title="Нанять авто для переезда на дачу"></span>
+                            <span>Дачного<br> переезда</span>
+                            <span class="hint">
+      Тентованная машина – лучший вариант для перевозки садового инвентаря, инструментов, стройматериалов, саженцев.
+         <span class="price">Цена от 20 р.ч.</span>
+        </span>
+                        </a></li>
+                    <li><a href="#" title="Нанять авто для перевозки вещей" onclick="list1('hire_gazel','Нанять авто для перевозки вещей', 'Цена от 20 р.ч.')">
+                            <span><img src="pics/img_05.jpg" alt="Перевозка вещей в Минске" title="Нанять авто для перевозки вещей"></span>
+                            <span>Грузоперевозки<br> вещей</span>
+                            <span class="hint">
+       Сообщите диспетчеру, сколько у вас вещей, и он быстро подберет оптимальную по типу кузова и вместимости авто.
+        <span class="price">Цена от 20 р.ч.</span>
+        </span>
+                        </a></li>
+
+                    <li><a href="#" title="Нанять авто для переезда офиса" onclick="list1('hire_gazel','Нанять авто для переезда офиса', 'Цена от 30 р.ч.')">
+                            <span><img src="pics/img_11.jpg" alt="Офисный переезд Минск" title="Нанять авто для переезда офиса"></span>
+                            <span>Офисный <br>
+переезд</span>
+                            <span class="hint">
+       Подберем авто оптимальной вместимости, чтобы вы могли  перевезти все офисное имущество по Минску или области за один рейс.
+         <span class="price">Цена от 30 р.ч.</span>
+        </span>
+                        </a></li>
+                    <li><a href="#" title="Нанять авто для перевозки торгового оборудования" onclick="list1('hire_gazel','Нанять авто для перевозки торгового оборудования', 'Цена по запросу')">
+                            <span><img src="pics/img_12.jpg" alt="Перевозки оборудования Минск" title="Нанять авто для перевозки торгового оборудования"></span>
+                            <span>Перевозка<br> торгового оборудования</span>
+                            <span class="hint">
+      В зависимости от габаритов, для этого подойдет тентованная машина со стандартным или удлиненным кузовом.
+         <span class="price">Цена по запросу</span>
+        </span>
+                        </a></li>
+                    <li><a href="#" title="Нанять авто для перевозки склада" onclick="list1('hire_gazel','Нанять авто для перевозки склада', 'Цена по запросу')">
+                            <span><img src="pics/img_13.jpg" alt="Грузоперевозки склада" title="Нанять авто для перевозки склада"></span>
+                            <span>Грузоперевозки <br> склада</span>
+                            <span class="hint">
+      Подадим сразу несколько удлиненных машин, чтобы организовать перевозку товарных остатков максимально быстро.
+        <span class="price">Цена по запросу</span>
+        </span>
+                        </a></li>
+                    <li><a href="#" title="Нанять авто для переезда банка" onclick="list1('hire_gazel','Нанять авто для переезда банка', 'Цена по запросу')">
+                            <span><img src="pics/img_14.jpg" alt="Грузоперевозки фото" title="Нанять авто для переезда банка"></span>
+                            <span>Грузоперевозки<br> банка</span>
+                            <span class="hint">
+       Безопасно доставить в новое помещение всю документацию и банковское оборудование позволит фургон или цельнометаллическая.
+        <span class="price">Цена по запросу</span>
+        </span>
+                        </a></li>
+                    <li><a href="#" title="Нанять авто для перевозки выставочного стенда" onclick="list1('hire_gazel','Нанять авто для перевозки выставочного стенда', 'Цена по запросу')">
+                            <span><img src="pics/img_15.jpg" alt="Грузоперевозки низкие цены" title="Нанять авто для перевозки выставочного стенда"></span>
+                            <span>Грузоперевозки<br> выставочных стендов</span>
+                            <span class="hint">
+      Для габаритных предметов закажите авто с удлиненным кузовом – фургон, тентованную или бортовую.
+         <span class="price">Цена по запросу</span>
+        </span>
+                        </a></li>
+                </ul>
+                <div class="heading">Дополнительные услуги:</div>
+                <ul class="list list2">
+                    <li><a href="javascript:;" title="Услуги грузчиков" onclick="list1('additional_services','Услуги грузчиков', 'Цена от 10 р.ч.')">
+                            <span><img src="pics/img_21.jpg" alt="Услуги грузчиков в Минске" title="Услуги грузчиков"></span>
+                            <span>услуги <br> грузчиков</span>
+                            <span class="hint">
+      Наши грузчики быстро и аккуратно загрузят ваши вещи в авто, а после доставки выгрузят и занесут в помещение.
+         <span class="price">Цена от 10 р.ч.</span>
+        </span>
+                        </a></li>
+                    <li><a href="javascript:;" title="Такелажные работы" onclick="list1('additional_services','Такелажные работы', 'Цена по запросу')">
+                            <span><img src="pics/img_22.jpg" alt="Такелажные работы в Минске" title="Такелажные работы"></span>
+                            <span>такелажные<br> работы</span>
+                            <span class="hint">
+      Обеспечим аккуратную погрузку/выгрузку массивных промышленных станков и оборудования, пианино и роялей, других предметов.
+             <span class="price">Цена по запросу</span>
+        </span>
+                        </a></li>
+                    <li><a href="javascript:;" title="Сборка и разборка мебели" onclick="list1('additional_services','Сборка/разборка мебели', 'Цена по запросу')">
+                            <span><img src="pics/img_23.jpg" alt="Сборка и разборка мебели в Минске" title="Сборка и разборка мебели"></span>
+                            <span>сборка/разборка<br> мебели</span>
+                            <span class="hint">
+      Работаем с любой мебелью – домашней и офисной, мягкой и корпусной. Аккуратно разберем и упакуем все элементы перед перевозкой.
+        <span class="price">Цена по запросу</span>
+        </span>
+                        </a></li>
+                    <li><a href="javascript:;" title="Коробки для переезда" onclick="list1('additional_services','Коробки для переезда', 'Цена по запросу')">
+                            <span><img src="pics/img_24.jpg" alt="Коробки для переезда в Минске" title="Коробки для переезда"></span>
+                            <span>упаковка для<br> переезда</span>
+                            <span class="hint">
+       Вы можете купить у нас картонные коробки, скотч, воздушно-пузырьковую и стрейч-пленку, защитные уголки и наполнители.
+         <span class="price">Цена по запросу</span>
+        </span>
+                        </a></li>
+                    <li><a href="javascript:;" title="Аренда спецтехники" onclick="list1('additional_services','Аренда спецтехники', 'Цена по запросу')">
+                            <span><img src="pics/img_25.jpg" alt="Аренда спецтехники в Минске" title="Аренда спецтехники"></span>
+                            <span>аренда<br> спецтехники</span>
+                            <span class="hint">
+      Предоставляем в аренду погрузочную и другую спецтехнику в Минске и Минской области.
+        <span class="price">Цена по запросу</span>
+        </span>
+                        </a></li>
+                </ul>
+            </div>
+        </div>
+        <!-- why_so_cheep END-->
+
+        <!--cupon_on_discount-->
+        <div id="cupon_on_discount">
+            <div class="wrapper">
+                <div class="text">
+                    <p class="h2">Постоянные Скидки</p>
+                    <p class="p2">Предоставим дополнительную скидку <strong>10%</strong> на услуги грузоперевозок по Минску.
+                       </p>
+                </div>
+                <div class="clear"></div>
+            </div>
+            <div class="yellow_block">
+			
+                <div class="wrapper">
+                    <img src="images/girl.png" alt="Грузоперевозки дивана" title="Скидка 10% на грузоперевозки в Минске" class="girl">
+                    <form action="/" method="post" id="free_evaluation_form" novalidate="novalidate">
+                        <div class="form_box">
+                            <p>Мы уверены, что наши предложения станут отличным подарком для вас!</p>
+                            <p><strong>- СКИДКА ПЕНСИОНЕРАМ</strong></p>
+                            <p><strong>- СКИДКА НОВОСЕЛАМ</strong></p>
+                            <p><strong>- СКИДКА ВЕТЕРАНАМ</strong></p>
+                            <dl>
+                                <dt class="dd3"><!--<span class="dog">@</span>--> Номер телефона:</dt>
+                                <dd class="dd3"><input type="text" name="tel" class="input"></dd>
+                            </dl>
+                            <div class="red_button">
+                                <button type="submit">получить скидку</button>
+                            </div>
+                            <!--                            <div class="input_check_sogl">-->
+                            <!--                                <label class=""><input id="checkbox_soglashenie" name="checkbox_soglashenie5" type="checkbox"-->
+                            <!--                                                       checked>-->
+                            <!--                                    <span>Я соглашаюсь на обработку персональных данных.</span> <a href="/politika.pdf" target="_blank">Соглашение</a></label>-->
+                            <!--                            </div>-->
+                            <div class="tels">
+                                <div class="txt">подробности<br> по телефону:</div>
+                                <a href="tel:+375445992967" title="Узнать о скидке" class="tel">+375 (44) 599-29-67</a>
+                            </div>
+                        </div>
+                    </form>
+                    <div class="clear"></div>
+                </div>
+            </div>
+        </div>
+        <!--cupon_on_discount END-->
+
+        <!--autopark-->
+        <div id="autopark">
+            <div class="wrapper">
+                <p class="h2">В нашем автопарке 110 машин</p>
+
+                <ul class="links_list">
+                                            <li class="active"><a href="#autopark-panel0" title="1 тонна">1 тонна</a>
+                        </li>
+                                                <li><a href="#autopark-panel1" title="1,5 тонны">1,5 тонны</a>
+                        </li>
+                                                <li><a href="#autopark-panel2" title="3 тонны">3 тонны</a>
+                        </li>
+                                                <li><a href="#autopark-panel3" title="5 тонн">5 тонн</a>
+                        </li>
+                                                <li><a href="#autopark-panel4" title="7 тонн">7 тонн</a>
+                        </li>
+                                                <li><a href="#autopark-panel5" title="20 тонн">20 тонн</a>
+                        </li>
+                                        </ul>
+
+                
+                    <div class="tab_block autopark-carousel active owl-carousel owl-theme" id="autopark-panel0" style="opacity: 1; display: block;">
+                                     
+                                                    <div class="owl-wrapper-outer"><div class="owl-wrapper" style="width: 1960px; left: 0px; display: block; transition: all; transform: translate3d(0px, 0px, 0px);"><div class="owl-item" style="width: 980px;"><div class="item">
+                                <div class="left">
+                                    <p class="foto"><img src="avto_new/avto-do-1.png" alt="грузоперевозки услуги" title="грузоперевозки услуги"></p>
+                                    <div class="sizes">
+                                        <div class="volume"><span class="num">7 </span>
+                                            м<sup>3</sup></div>
+                                        <div class="size height">1,75 м </div>
+                                        <div class="size width">1,8 м </div>
+                                        <div class="size length">1,8 м </div>
+                                       <!-- <dl>
+                                                                                            <dt>кол-во паллетов:</dt>
+                                                <dd>3</dd>
+                                                                                        <dt>грузоподъемность:</dt>
+                                            <dd>1 т</dd>
+                                        </dl>-->
+                                    </div>
+                                </div>
+                                <div class="right">
+                                    <p class="p1">АВТО ДО 10 куб</p>
+                                    <p class="p2">от <span class="num">20</span> руб./час</p>
+                                    <dl>
+                                        <dt><span class="white">Минимальное время в пределах Минска:</span></dt>
+                                        <dd>
+                                            <span class="num">1 </span>
+                                            ч
+                                        </dd>
+                                        <dt><span class="white">Километраж за пределами МКАДа:</span></dt>
+                                        <dd><span class="num">0.70</span>  руб./км</dd>
+                                        <dt><span class="white">Безналичный расчет:</span></dt>
+                                        <dd>
+                                            <span class="num">25 </span>
+                                            руб./час
+                                        </dd>
+                                        <dt><span class="white">Оплата минимум за:</span></dt>
+                                        <dd><span class="num">3</span> часа</dd>
+                                    </dl>
+                                    <p class="p3">Заказать <a href="tel:+375445992967" title="Заказать Ситроен Джампи">+375 (44) 599-29-67</a></p>
+                                    <p class="p4"><span class="exclamation">!</span> Можно заказать на сегодня
+                                        - <script language="javascript" type="text/javascript">var d = new Date();var month=new Array("января","февраля","марта","апреля","мая","июня","июля","августа","сентября","октября","ноября","декабря");document.write(d.getDate()+ " " + month[d.getMonth()]+ " " + d.getFullYear() + " г.");</script>12 октября 2026 г.</p>
+                                </div>
+                                <div class="clear"></div>
+                            </div></div></div></div>
+                                            <div class="owl-controls clickable" style="display: none;"><div class="owl-pagination"><div class="owl-page active"><span class=""></span></div></div><div class="owl-buttons"><div class="owl-prev"></div><div class="owl-next"></div></div></div></div>
+
+                    
+                    <div class="tab_block autopark-carousel  owl-carousel owl-theme" id="autopark-panel1" style="opacity: 0; display: block;">
+                                                   
+                                                    <div class="owl-wrapper-outer"><div class="owl-wrapper" style="width: 200px; left: 0px; display: block; transition: all; transform: translate3d(0px, 0px, 0px);"><div class="owl-item" style="width: 100px;"><div class="item">
+                                <div class="left">
+                                    <p class="foto"><img src="avto_new/avto-do-1.5.png" alt="грузоперевозки Минск" title="грузоперевозки дивана"></p>
+                                    <div class="sizes">
+                                        <div class="volume"><span class="num">14,3 </span>
+                                            м<sup>3</sup></div>
+                                        <div class="size height">2,2 м </div>
+                                        <div class="size width">2,1 м </div>
+                                        <div class="size length">4 м </div>
+                                        <!--<dl>
+                                                                                            <dt>кол-во паллетов:</dt>
+                                                <dd>6</dd>
+                                                                                        <dt>грузоподъемность:</dt>
+                                            <dd>1,5 т</dd>
+                                        </dl>-->
+                                    </div>
+                                </div>
+                                <div class="right">
+                                    <p class="p1">АВТО ДО 15 куб</p>
+                                    <p class="p2">от <span class="num">22</span> руб./час</p>
+                                    <dl>
+                                        <dt><span class="white">Минимальное время в пределах Минска:</span></dt>
+                                        <dd>
+                                            <span class="num">2 </span>
+                                            ч
+                                        </dd>
+                                        <dt><span class="white">Километраж за пределами МКАДа:</span></dt>
+                                        <dd><span class="num">0.80</span>  руб./км</dd>
+                                        <dt><span class="white">Безналичный расчет:</span></dt>
+                                        <dd>
+                                            <span class="num">30 </span>
+                                            руб./час
+                                        </dd>
+                                        <dt><span class="white">Оплата минимум за:</span></dt>
+                                        <dd><span class="num">3</span> часа</dd>
+                                    </dl>
+                                    <p class="p3">Заказать <a href="tel:+375445992967" title="Заказать Ситроен Джампер фургон">+375 (44) 599-29-67</a></p>
+                                    <p class="p4"><span class="exclamation">!</span> Можно заказать на сегодня
+                                        - <script language="javascript" type="text/javascript">var d = new Date();var month=new Array("января","февраля","марта","апреля","мая","июня","июля","августа","сентября","октября","ноября","декабря");document.write(d.getDate()+ " " + month[d.getMonth()]+ " " + d.getFullYear() + " г.");</script>12 октября 2026 г.</p>
+                                </div>
+                                <div class="clear"></div>
+                            </div></div></div></div>
+                                            <div class="owl-controls clickable" style="display: none;"><div class="owl-pagination"><div class="owl-page active"><span class=""></span></div></div><div class="owl-buttons"><div class="owl-prev"></div><div class="owl-next"></div></div></div></div>
+
+                    
+                    <div class="tab_block autopark-carousel  owl-carousel owl-theme" id="autopark-panel2" style="opacity: 0; display: block;">
+                                                    <div class="owl-wrapper-outer"><div class="owl-wrapper" style="width: 200px; left: 0px; display: block; transition: all; transform: translate3d(0px, 0px, 0px);"><div class="owl-item" style="width: 100px;"><div class="item">
+                                <div class="left">
+                                    <p class="foto"><img src="avto_new/avto-do-3.png" alt="квартирный перезд Минск" title="квартирный перезд в Минске"></p>
+                                    <div class="sizes">
+                                        <div class="volume"><span class="num">19,6 </span>
+                                            м<sup>3</sup></div>
+                                        <div class="size height">2,2 м </div>
+                                        <div class="size width">2,2 м </div>
+                                        <div class="size length">5 м </div>
+                                        <!--<dl>
+                                                                                            <dt>кол-во паллетов:</dt>
+                                                <dd>8</dd>
+                                                                                        <dt>грузоподъемность:</dt>
+                                            <dd>3 т</dd>
+                                        </dl>-->
+                                    </div>
+                                </div>
+                                <div class="right">
+                                    <p class="p1">АВТО ДО 20 куб</p>
+                                    <p class="p2">от <span class="num">30</span> руб./час</p>
+                                     <dl>
+                                        <dt><span class="white">Минимальное время в пределах Минска:</span></dt>
+                                        <dd>
+                                            <span class="num">2 </span>
+                                            ч
+                                        </dd>
+                                        <dt><span class="white">Километраж за пределами МКАДа:</span></dt>
+                                        <dd><span class="num">0.85</span>  руб./км</dd>
+                                        <dt><span class="white">Безналичный расчет:</span></dt>
+                                        <dd>
+                                            <span class="num">30 </span>
+                                            руб./час
+                                        </dd>
+                                        <dt><span class="white">Оплата минимум за:</span></dt>
+                                        <dd><span class="num">3</span> часа</dd>
+                                    </dl>
+                                    <p class="p3">Заказать <a href="tel:+375445992967" title="Заказать Хендай HD 78">+375 (44) 599-29-67</a></p>
+                                    <p class="p4"><span class="exclamation">!</span> Можно заказать на сегодня
+                                        - <script language="javascript" type="text/javascript">var d = new Date();var month=new Array("января","февраля","марта","апреля","мая","июня","июля","августа","сентября","октября","ноября","декабря");document.write(d.getDate()+ " " + month[d.getMonth()]+ " " + d.getFullYear() + " г.");</script>12 октября 2026 г.</p>
+                                </div>
+                                <div class="clear"></div>
+                            </div></div></div></div>
+                                            <div class="owl-controls clickable" style="display: none;"><div class="owl-pagination"><div class="owl-page active"><span class=""></span></div></div><div class="owl-buttons"><div class="owl-prev"></div><div class="owl-next"></div></div></div></div>
+
+                    
+                    <div class="tab_block autopark-carousel  owl-carousel owl-theme" id="autopark-panel3" style="opacity: 0; display: block;">
+                                
+                                                    <div class="owl-wrapper-outer"><div class="owl-wrapper" style="width: 200px; left: 0px; display: block; transition: all; transform: translate3d(0px, 0px, 0px);"><div class="owl-item" style="width: 100px;"><div class="item">
+                                <div class="left">
+                                    <p class="foto"><img src="avto_new/avto-do-5.png" alt="грузоперевозки Тент Минск" title="грузоперевозки Тент в Минске"></p>
+                                    <div class="sizes">
+                                        <div class="volume"><span class="num">28,7 </span>
+                                            м<sup>3</sup></div>
+                                        <div class="size height">2,4 м </div>
+                                        <div class="size width">2,4 м </div>
+                                        <div class="size length">6,2 м </div>
+                                        <!--<dl>
+                                                                                            <dt>кол-во паллетов:</dt>
+                                                <dd>15</dd>
+                                                                                        <dt>грузоподъемность:</dt>
+                                            <dd>7 т</dd>
+                                        </dl>-->
+                                    </div>
+                                </div>
+                                <div class="right">
+                                    <p class="p1">АВТО ДО 30 куб</p>
+                                    <p class="p2">от <span class="num">20</span> руб./час</p>
+                                    <dl>
+                                        <dt><span class="white">Минимальное время в пределах Минска:</span></dt>
+                                        <dd>
+                                            <span class="num">4 </span>
+                                            ч
+                                        </dd>
+                                        <dt><span class="white">Километраж за пределами МКАДа:</span></dt>
+                                        <dd><span class="num">1.20</span>  руб./км</dd>
+                                        <dt><span class="white">Безналичный расчет:</span></dt>
+                                        <dd>
+                                            <span class="num">40 </span>
+                                            руб./час
+                                        </dd>
+                                        <dt><span class="white">Оплата минимум за:</span></dt>
+                                        <dd><span class="num">5</span> часа</dd>
+                                    </dl>
+                                    <p class="p3">Заказать <a href="tel:+375445992967" title="Заказать Ман тент">+375 (44) 599-29-67</a></p>
+                                    <p class="p4"><span class="exclamation">!</span> Можно заказать на сегодня
+                                        - <script language="javascript" type="text/javascript">var d = new Date();var month=new Array("января","февраля","марта","апреля","мая","июня","июля","августа","сентября","октября","ноября","декабря");document.write(d.getDate()+ " " + month[d.getMonth()]+ " " + d.getFullYear() + " г.");</script>12 октября 2026 г.</p>
+                                </div>
+                                <div class="clear"></div>
+                            </div></div></div></div>
+                                            <div class="owl-controls clickable" style="display: none;"><div class="owl-pagination"><div class="owl-page active"><span class=""></span></div></div><div class="owl-buttons"><div class="owl-prev"></div><div class="owl-next"></div></div></div></div>
+
+                    
+                    <div class="tab_block autopark-carousel  owl-carousel owl-theme" id="autopark-panel4" style="opacity: 0; display: block;">
+                                                    <div class="owl-wrapper-outer"><div class="owl-wrapper" style="width: 200px; left: 0px; display: block; transition: all; transform: translate3d(0px, 0px, 0px);"><div class="owl-item" style="width: 100px;"><div class="item">
+                                <div class="left">
+                                    <p class="foto"><img src="avto_new/avto-do-7.png" alt="грузоперевозки Изотерм Минск" title="грузоперевозки Изотерм в Минске"></p>
+                                    <div class="sizes">
+                                        <div class="volume"><span class="num">34,4 </span>
+                                            м<sup>3</sup></div>
+                                        <div class="size height">2,4 м </div>
+                                        <div class="size width">2,4 м </div>
+                                        <div class="size length">6,2 м </div>
+                                        <!--<dl>
+                                                                                            <dt>кол-во паллетов:</dt>
+                                                <dd>15</dd>
+                                                                                        <dt>грузоподъемность:</dt>
+                                            <dd>7 т</dd>
+                                        </dl>-->
+                                    </div>
+                                </div>
+                                <div class="right">
+                                    <p class="p1">АВТО ДО 20 куб</p>
+                                    <p class="p2">от <span class="num">40</span> руб./час</p>
+                                    <dl>
+                                        <dt><span class="white">Минимальное время в пределах Минска:</span></dt>
+                                        <dd>
+                                            <span class="num">4 </span>
+                                            ч
+                                        </dd>
+                                        <dt><span class="white">Километраж за пределами МКАДа:</span></dt>
+                                        <dd><span class="num">1.30</span>  руб./км</dd>
+                                        <dt><span class="white">Безналичный расчет:</span></dt>
+                                        <dd>
+                                            <span class="num">45 </span>
+                                            руб./час
+                                        </dd>
+                                        <dt><span class="white">Оплата минимум за:</span></dt>
+                                        <dd><span class="num">5</span> часа</dd>
+                                    </dl>
+                                    <p class="p3">Заказать <a href="tel:+375445992967" title="Заказать Даф/Скания/Ман фургон">+375 (44) 599-29-67</a></p>
+                                    <p class="p4"><span class="exclamation">!</span> Можно заказать на сегодня
+                                        - <script language="javascript" type="text/javascript">var d = new Date();var month=new Array("января","февраля","марта","апреля","мая","июня","июля","августа","сентября","октября","ноября","декабря");document.write(d.getDate()+ " " + month[d.getMonth()]+ " " + d.getFullYear() + " г.");</script>12 октября 2026 г.</p>
+                                </div>
+                                <div class="clear"></div>
+                            </div></div></div></div>
+                                            <div class="owl-controls clickable" style="display: none;"><div class="owl-pagination"><div class="owl-page active"><span class=""></span></div></div><div class="owl-buttons"><div class="owl-prev"></div><div class="owl-next"></div></div></div></div>
+
+                    
+                    <div class="tab_block autopark-carousel  owl-carousel owl-theme" id="autopark-panel5" style="opacity: 0; display: block;">
+                                                    <div class="owl-wrapper-outer"><div class="owl-wrapper" style="width: 200px; left: 0px; display: block; transition: all; transform: translate3d(0px, 0px, 0px);"><div class="owl-item" style="width: 100px;"><div class="item">
+                                <div class="left">
+                                    <p class="foto"><img src="avto_new/avto-do-20.png" alt="грузоперевозки заказать" title="грузоперевозки дешево"></p>
+                                    <div class="sizes">
+                                        <div class="volume"><span class="num">44,7 </span>
+                                            м<sup>3</sup></div>
+                                        <div class="size height">2,5 м </div>
+                                        <div class="size width">2,45 м </div>
+                                        <div class="size length">13,5 м </div>
+                                        <!--<dl>
+                                                                                            <dt>кол-во паллетов:</dt>
+                                                <dd>32</dd>
+                                                                                        <dt>грузоподъемность:</dt>
+                                            <dd>20 т</dd>
+                                        </dl>-->
+                                    </div>
+                                </div>
+                                <div class="right">
+                                    <p class="p1">АВТО ДО 45 куб</p>
+                                    <p class="p2">от <span class="num">45</span> руб./час</p>
+                                    <dl>
+                                        <dt><span class="white">Минимальное время в пределах Минска:</span></dt>
+                                        <dd>
+                                            <span class="num">4 </span>
+                                            ч
+                                        </dd>
+                                        <dt><span class="white">Километраж за пределами МКАДа:</span></dt>
+                                        <dd><span class="num">1.40</span>  руб./км</dd>
+                                        <dt><span class="white">Безналичный расчет:</span></dt>
+                                        <dd>
+                                            <span class="num">55 </span>
+                                            руб./час
+                                        </dd>
+                                        <dt><span class="white">Оплата минимум за:</span></dt>
+                                        <dd><span class="num">5</span> часа</dd>
+                                    </dl>
+                                    <p class="p3">Заказать <a href="tel:+375445992967" title="Заказать Даф/Скания/Ман тент">+375 (44) 599-29-67</a></p>
+                                    <p class="p4"><span class="exclamation">!</span> Можно заказать на сегодня
+                                        - <script language="javascript" type="text/javascript">var d = new Date();var month=new Array("января","февраля","марта","апреля","мая","июня","июля","августа","сентября","октября","ноября","декабря");document.write(d.getDate()+ " " + month[d.getMonth()]+ " " + d.getFullYear() + " г.");</script>12 октября 2026 г.</p>
+                                </div>
+                                <div class="clear"></div>
+                            </div></div></div></div>
+                                            <div class="owl-controls clickable" style="display: none;"><div class="owl-pagination"><div class="owl-page active"><span class=""></span></div></div><div class="owl-buttons"><div class="owl-prev"></div><div class="owl-next"></div></div></div></div>
+
+                    
+            </div>
+        </div>
+        <!--autopark END-->
+
+        <!--gazel_with_loaders-->
+        <div id="gazel_with_loaders">
+            <div class="wrapper">
+                <h2>Грузоперевозки с грузчиками – это удобно и недорого</h2>
+                <p class="p1">Профессиональные опытные грузчики грамотно упакуют ваши вещи перед перевозкой, аккуратно загрузят в авто, закрепят в кузове для безопасной транспортировки. 
+                У нас – самые недорогие услуги грузчиков и аренды авто в Минске и области: оставьте заявку на перевозку, и вы убедитесь в этом сами!</p>
+                <ul class="list">
+                    <li>
+                        <p class="foto"><img src="pics/img3.jpg" alt="Перевезти холодильник" title="Перевезти холодильник Минск"></p>
+                        <p>Наши грузчики<br> умеют обращаться<br> с хрупкими предметами</p>
+                    </li>
+                    <li>
+                        <p class="foto"><img src="pics/img4.jpg" alt="Перевезти диван" title="Перевезти диван Минск"></p>
+                        <p>Рабочие в чистой униформе,<br> вежливые<br> и ответственные</p>
+                    </li>
+                    <li>
+                        <p class="foto"><img src="pics/img5.jpg" alt="Перевезти вещи Минск" title="Перевезти вещи"></p>
+                        <p>Приезжаем на заказ с инструментами и упаковкой</p>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <!--gazel_with_loaders END-->
+
+        <!-- cost_on_loaders_work begin-->
+        <div id="cost_on_loaders_work">
+            <div class="wrapper">
+                <div class="heading">УЗНАТЬ СТОИМОСТЬ</div>
+
+                <form action="/" method="post" id="loaders_work_form" novalidate="novalidate">
+                    <input type="hidden" name="gorod" value="">
+                    <input type="hidden" name="email">
+                    <input type="hidden" name="subject" value="ЗАКАЗАТЬ АВТО С ГРУЗЧИКАМИ">
+                    <div class="form_box">
+
+                        <dl>
+                            <dt class="dt1">Ваше имя:</dt>
+                            <dd class="dd1"><input type="text" name="name" class="input"></dd>
+                        </dl>
+                        <dl>
+                            <dt class="dt2"> Номер телефона:</dt>
+                            <dd class="dd2"><input type="tel" name="tel" class="input"></dd>
+                        </dl>
+
+                        <div class="tels">
+                            <div class="txt">подробности<br> по телефону:</div>
+                            <a href="tel:+375445992967" class="tel" title="Узнать стоимость на услуги грузчиков">+375 (44) 599-29-67</a>
+                        </div>
+                    </div>
+                    <div class="right">
+                        <div class="red_button">
+                            <button type="submit">Отправить</button>
+                            <img src="images/loader.png" title="Узнать стоимость на услуги грузчиков" alt="Услуги грузчиков в Минске" class="loader"></div>
+                        <p class="ring"><span class="star">*</span> Перезвоним сразу же!</p>
+                        <!--                        <div class="input_check_sogl">-->
+                        <!--                            <label class=""><input id="checkbox_soglashenie" name="checkbox_soglashenie6" type="checkbox"-->
+                        <!--                                                   checked>-->
+                        <!--                                <span>Я соглашаюсь на обработку персональных данных.</span> <a href="/politika.pdf" target="_blank">Соглашение</a></label>-->
+                        <!--                        </div>-->
+                    </div>
+
+                </form>
+
+                <div class="clear"></div>
+            </div>
+        </div>
+        <!-- cost_on_loaders_work END-->
+
+      <div id="zakazat_gazel_s_gruzchikami">
+        <div class="wrapper">
+          <h2>ФОТО ВЫПОЛНЕННЫХ ГРУЗОПЕРЕВОЗОК В МИНСКЕ</h2>
+		  <p><br></p>
+          <center><div class="blocki">
+            <div class="blocki1"><img class="raboty" src="/images/foto-rabot-1.jpg" alt="вывоз мусора дешево">
+            </div>
+            <div class="blocki2"><img class="raboty" src="/images/foto-rabot-2.jpg" alt="грузоперевозки квартира">
+            </div>
+            <div class="blocki3"><img class="raboty" src="/images/foto-rabot-3.jpg" alt="грузоперевозки Дивана">
+            </div>
+          </div>
+		  <br>
+          <div class="blocki">
+            <div class="blocki1"><img class="raboty" src="/images/foto-rabot-4.jpg" alt="грузоперевозки вещей">
+            </div>
+            <div class="blocki2"><img class="raboty" src="/images/foto-rabot-5.jpg" alt="вывоз мусора цены">
+            </div>
+            <div class="blocki3"><img class="raboty" src="/images/foto-rabot-6.jpg" alt="грузоперевозки делла">
+            </div>
+          </div>
+		  <br>
+          <div class="blocki">
+            <div class="blocki1"><img class="raboty" src="/images/foto-rabot-7.jpg" alt="грузоперевозки по Беларуси">
+            </div>
+            <div class="blocki2"><img class="raboty" src="/images/foto-rabot-8.jpg" alt="грузоперевозки 20 тонн">
+            </div>
+            <div class="blocki3"><img class="raboty" src="/images/foto-rabot-9.jpg" alt="грузчики дешево">
+            </div>
+          </div></center>
+          <div class="clear"></div>
+        </div>
+      </div>
+
+
+	<div id="deshevle_ne_byvaet">
+        <div class="wrapper">
+          <div class="title">Дешевле</div>
+          <div class="label">не бывает!</div>
+          <div class="clear"></div>
+          <p class="p1">Перевезти: <br>Диван или холодильник, или шкаф и т.д.</p>
+          <p class="p2">от 50 руб.</p>
+          <ul class="p3">
+            <li>2 часа работы</li>
+            <li>+ грузчики</li>
+          </ul>
+          <div class="clear"></div>
+        </div>
+      </div>
+
+        <!-- calculation begin-->
+        <div id="calculation">
+            <div class="wrapper">
+                <div class="heading">Рассчитайте стоимость перевозки</div>
+
+                <form action="/" method="post" id="calculation_form" novalidate="novalidate">
+                    <input type="hidden" name="subject" value="РАССЧЕТ СТОИМОСТИ ПЕРЕВОЗКИ">
+                    <div class="left">
+                        <div class="input2">
+                            <label class="name" for="otkuda">Откуда:</label>
+                            <input type="text" class="inp" id="otkuda" name="from" value="">
+                        </div>
+
+                        <div class="input2 input4">
+                            <label class="name" for="kuda2">Куда:</label>
+                            <input type="text" class="inp" id="kuda2" name="where" value="">
+                        </div>
+
+                        <div class="auto_choice">
+
+                            <input type="hidden" name="car_price">
+                            <input type="hidden" name="car_type">
+
+
+                            <p class="p1">Выбрать автомобиль:</p>
+                            <ul class="links_list">
+                                                                    <li class="active"><a href="#autopark-0" title="1 тонна">1 тонна</a>
+                                    </li>
+                                                                        <li><a href="#autopark-1" title="1,5 тонны">1,5 тонны</a>
+                                    </li>
+                                                                        <li><a href="#autopark-2" title="3 тонны">3 тонны</a>
+                                    </li>
+                                                                        <li><a href="#autopark-3" title="5 тонн">5 тонн</a>
+                                    </li>
+                                                                        <li><a href="#autopark-4" title="7 тонн">7 тонн</a>
+                                    </li>
+                                                                        <li><a href="#autopark-5" title="20 тонн">20 тонн</a>
+                                    </li>
+                                                                </ul>
+
+
+                            <div class="tabs_content">
+                                                                    <!--tab -->
+                                    <div class="tab_block autopark-carousel2 owl-carousel owl-theme active" id="autopark-0" style="opacity: 1; display: block;">
+
+                                                
+                                                                                    <div class="owl-wrapper-outer"><div class="owl-wrapper" style="width: 1000px; left: 0px; display: block; transition: all; transform: translate3d(0px, 0px, 0px);"><div class="owl-item" style="width: 500px;"><div class="item">
+                                                <input type="hidden" name="car" value="до 10 куб">
+                                                <input type="hidden" name="price" value="20">
+                                                <input type="hidden" name="min_vremia_mkad" value="1">
+                                                <input type="hidden" name="dop_chas" value="20">
+                                                <input type="hidden" name="vyez_ttk" value="20">
+
+
+                                                <div class="foto">
+                                                    <img src="avto_new/avto-do-1.png" alt="грузоперевозки заказать">
+                                                </div>
+                                                <div class="info">
+                                                    <p class="p2">Авто до 10 куб</p>
+                                                    <p class="p3">
+                                                        7  м<sup>3</sup> до
+                                                        1 тонны <br>
+                                                        длина 1,8 м <br>
+                                                        высота 1,75 м <br>
+                                                        ширина 1,8 м
+														</p>
+                                                </div>
+                                                <div class="clear"></div>
+                                            </div></div></div></div>
+                                                                            <div class="owl-controls clickable" style="display: none;"><div class="owl-pagination"><div class="owl-page active"><span class=""></span></div></div><div class="owl-buttons"><div class="owl-prev"></div><div class="owl-next"></div></div></div></div>
+                                    <!--tab END -->
+                                                                        <!--tab -->
+                                    <div class="tab_block autopark-carousel2  owl-carousel owl-theme" id="autopark-1" style="opacity: 0; display: none;">
+
+                                                
+                                                                                    <div class="owl-wrapper-outer"><div class="owl-wrapper" style="width: 200px; left: 0px; display: block; transition: all; transform: translate3d(0px, 0px, 0px);"><div class="owl-item" style="width: 100px;"><div class="item">
+                                                <input type="hidden" name="car" value="до 15 куб">
+                                                <input type="hidden" name="price" value="45">
+                                                <input type="hidden" name="min_vremia_mkad" value="2">
+                                                <input type="hidden" name="dop_chas" value="25">
+                                                <input type="hidden" name="vyez_ttk" value="25">
+
+
+                                                <div class="foto">
+                                                    <img src="avto_new/avto-do-1.5.png" alt="грузоперевозки мебели">
+                                                </div>
+                                                <div class="info">
+                                                    <p class="p2">Авто до 15 куб</p>
+                                                    <p class="p3">
+                                                        14,3  м<sup>3</sup> до
+                                                        1.20 тонны <br>
+                                                        длина 4,1 м <br>
+                                                        высота 2,1 м <br>
+                                                        ширина 2,13 м
+														</p>
+                                                </div>
+                                                <div class="clear"></div>
+                                            </div></div></div></div>
+                                                                            <div class="owl-controls clickable" style="display: none;"><div class="owl-pagination"><div class="owl-page active"><span class=""></span></div></div><div class="owl-buttons"><div class="owl-prev"></div><div class="owl-next"></div></div></div></div>
+                                    <!--tab END -->
+                                                                        <!--tab -->
+                                    <div class="tab_block autopark-carousel2  owl-carousel owl-theme" id="autopark-2" style="opacity: 0; display: none;">
+
+                                                                                    <div class="owl-wrapper-outer"><div class="owl-wrapper" style="width: 200px; left: 0px; display: block; transition: all; transform: translate3d(0px, 0px, 0px);"><div class="owl-item" style="width: 100px;"><div class="item">
+                                                <input type="hidden" name="car" value="до 20 куб">
+                                                <input type="hidden" name="price" value="60">
+                                                <input type="hidden" name="min_vremia_mkad" value="2">
+                                                <input type="hidden" name="dop_chas" value="30">
+                                                <input type="hidden" name="vyez_ttk" value="30">
+
+
+                                                <div class="foto">
+                                                    <img src="avto_new/avto-do-3.png" alt="грузоперевозки фото">
+                                                </div>
+                                                <div class="info">
+                                                    <p class="p2">Авто до 20 куб</p>
+                                                    <p class="p3">
+                                                        19,6  м<sup>3</sup> до
+                                                        3 тонн <br>
+                                                        длина 5 м <br>
+                                                        высота 2,2 м <br>
+                                                        ширина 2,2 м
+														</p>
+                                                </div>
+                                                <div class="clear"></div>
+                                            </div></div></div></div>
+                                                                            <div class="owl-controls clickable" style="display: none;"><div class="owl-pagination"><div class="owl-page active"><span class=""></span></div></div><div class="owl-buttons"><div class="owl-prev"></div><div class="owl-next"></div></div></div></div>
+                                    <!--tab END -->
+                                                                        <!--tab -->
+                                    <div class="tab_block autopark-carousel2  owl-carousel owl-theme" id="autopark-3" style="opacity: 0; display: none;">
+
+                                                
+                                                                                    <div class="owl-wrapper-outer"><div class="owl-wrapper" style="width: 200px; left: 0px; display: block; transition: all; transform: translate3d(0px, 0px, 0px);"><div class="owl-item" style="width: 100px;"><div class="item">
+                                                <input type="hidden" name="car" value="до 30 куб">
+                                                <input type="hidden" name="price" value="160">
+                                                <input type="hidden" name="min_vremia_mkad" value="4">
+                                                <input type="hidden" name="dop_chas" value="40">
+                                                <input type="hidden" name="vyez_ttk" value="40">
+
+
+                                                <div class="foto">
+                                                    <img src="avto_new/avto-do-5.png" alt="грузоперевозки офиса">
+                                                </div>
+                                                <div class="info">
+                                                    <p class="p2">Авто до 30 куб</p>
+                                                    <p class="p3">
+                                                        28,7  м<sup>3</sup> до
+                                                        7 тонн <br>
+                                                        длина 6,2 м <br>
+                                                        высота 2,4 м <br>
+                                                        ширина 2,4 м                                                                                                                    <br> кол-во паллетов 15                                                                                                            </p>
+                                                </div>
+                                                <div class="clear"></div>
+                                            </div></div></div></div>
+                                                                            <div class="owl-controls clickable" style="display: none;"><div class="owl-pagination"><div class="owl-page active"><span class=""></span></div></div><div class="owl-buttons"><div class="owl-prev"></div><div class="owl-next"></div></div></div></div>
+                                    <!--tab END -->
+                                                                        <!--tab -->
+                                    <div class="tab_block autopark-carousel2  owl-carousel owl-theme" id="autopark-4" style="opacity: 0; display: none;">
+
+                                                                                    <div class="owl-wrapper-outer"><div class="owl-wrapper" style="width: 200px; left: 0px; display: block; transition: all; transform: translate3d(0px, 0px, 0px);"><div class="owl-item" style="width: 100px;"><div class="item">
+                                                <input type="hidden" name="car" value="до 20 куб">
+                                                <input type="hidden" name="price" value="180">
+                                                <input type="hidden" name="min_vremia_mkad" value="4">
+                                                <input type="hidden" name="dop_chas" value="45">
+                                                <input type="hidden" name="vyez_ttk" value="45">
+
+
+                                                <div class="foto">
+                                                    <img src="avto_new/avto-do-7.png" alt="вывезти диван">
+                                                </div>
+                                                <div class="info">
+                                                    <p class="p2">Авто до 20 куб</p>
+                                                    <p class="p3">
+                                                        34,4  м<sup>3</sup> до
+                                                        7 тонн <br>
+                                                        длина 6,2 м <br>
+                                                        высота 2,4 м <br>
+                                                        ширина 2,4 м                                                                                                                    <br> кол-во паллетов 15                                                                                                            </p>
+                                                </div>
+                                                <div class="clear"></div>
+                                            </div></div></div></div>
+                                                                            <div class="owl-controls clickable" style="display: none;"><div class="owl-pagination"><div class="owl-page active"><span class=""></span></div></div><div class="owl-buttons"><div class="owl-prev"></div><div class="owl-next"></div></div></div></div>
+                                    <!--tab END -->
+                                                                        <!--tab -->
+                                    <div class="tab_block autopark-carousel2  owl-carousel owl-theme" id="autopark-5" style="opacity: 0; display: none;">
+
+                                                                                    <div class="owl-wrapper-outer"><div class="owl-wrapper" style="width: 200px; left: 0px; display: block; transition: all; transform: translate3d(0px, 0px, 0px);"><div class="owl-item" style="width: 100px;"><div class="item">
+                                                <input type="hidden" name="car" value="Авто до 45 куб">
+                                                <input type="hidden" name="price" value="200">
+                                                <input type="hidden" name="min_vremia_mkad" value="4">
+                                                <input type="hidden" name="dop_chas" value="50">
+                                                <input type="hidden" name="vyez_ttk" value="50">
+
+
+                                                <div class="foto">
+                                                    <img src="avto_new/avto-do-20.png" alt="вывоз мусора">
+                                                </div>
+                                                <div class="info">
+                                                    <p class="p2">Авто до 45 куб</p>
+                                                    <p class="p3">
+                                                        44,7  м<sup>3</sup> до
+                                                        20 тонн <br>
+                                                        длина 13,5 м <br>
+                                                        высота 2,5 м <br>
+                                                        ширина 2,45 м                                                                                                                    <br> кол-во паллетов 32                                                                                                            </p>
+                                                </div>
+                                                <div class="clear"></div>
+                                            </div></div></div></div>
+                                                                            <div class="owl-controls clickable" style="display: none;"><div class="owl-pagination"><div class="owl-page active"><span class=""></span></div></div><div class="owl-buttons"><div class="owl-prev"></div><div class="owl-next"></div></div></div></div>
+                                    <!--tab END -->
+                                                                </div>
+
+                        </div>
+
+                    </div>
+                    <div class="right">
+                        <div class="input2 input5">
+                            <label class="name" for="kuda">Куда:</label>
+                            <input type="text" class="inp" id="kuda" name="where" value="">
+                        </div>
+                        <!--<div class="ttk">
+                            <p class="p1">
+                                <label class="change_checkbox">
+                                    <input name="ttk_enter" id="ttk_enter" type="checkbox"> Въезд в ТТК</label>
+                            </p>
+                        </div>-->
+                        <div class="gruzchik_count">
+                            <p class="p1">Количество грузчиков:</p>
+                            <div class="gruz">
+                                <a href="1"></a>
+                                <a href="2"></a>
+                                <a href="3"></a>
+                                <a href="4"></a>
+                                <a href="5"></a>
+                                <a href="6"></a>
+                                <a href="7"></a>
+                                <a href="8"></a>
+                                <a href="9"></a>
+                                <a href="10"></a>
+                                <input type="hidden" name="count_gruzchiki" value="0">
+                            </div>
+                        </div>
+                        <div class="input2 input3">
+                            <label class="name">Срок аренды: </label>
+                            <div class="inline">
+                                <input type="text" class="inp" id="srok_arendi" name="srok_arendi" values="1" readonly="" value="1">
+                                <div class="txt">час</div>
+                            </div>
+                            <button type="button" class="minus" style="display: none;"></button>
+                            <button type="button" class="plus"></button>
+                        </div>
+
+                        <div class="red_button">
+                            <button type="submit">Рассчитать</button>
+                        </div>
+                    </div>
+                </form>
+
+                <div class="clear"></div>
+            </div>
+        </div>
+        <!-- cost_on_loaders_work END-->
+
+
+    </div>
+    <!-- content END -->
+	
+	<section class="sec-step-images" id="rassroch">
+				<div class="container">
+					<div class="sec-step-image__boxks">						
+					<div class="voprosotv">
+						<h2 class="sec-title">Часто задаваемые вопросы по грузоперевозкам</h2>
+						<center><p class="sec-example__desc">Переезжаем? Легко, недорого и без стресса! Вот уже более 17 лет мы отвечаем за грузовые перевозки в Минске и по всей Минской области. Доставим в срок из точки А в точку Б и целую квартиру, и пианино, и склад. Если вам нужна перевозка грузов по Минску и области, мы это сделаем безупречно. Осуществляем грузоперевозки по городу недорого, с гарантией четкого соблюдения сроков и полной сохранности ваших вещей. Интересуют грузовые перевозки? Будем рады помочь. Закажите машину прямо сейчас!</p><br></center>
+
+		  <details>
+			<summary><h2>Сколько стоит перевозка мебели в Минске?</h2></summary>
+			<p>Цена зависит от объёма мебели, расстояния и количества грузчиков. У нас перевозка мебели недорого, стоимость рассчитывается индивидуально и без скрытых платежей.</p>
+			<p>Пожалуйста, позвоните нашему диспетчеру <a href="tel:+375445992967">+375 (44) 599-29-67</a>. И мы постараемся решить Вашу задачу в минимальные сроки.</p>
+		  </details>
+		  <details>
+			<summary><h2>Можно ли заказать грузчиков для переезда в Минске?</h2></summary>
+			<p>Да, мы предоставляем опытных грузчиков в Минске, которые аккуратно разберут, упакуют и перенесут мебель любого размера.</p>
+			<p>Если вы планируете переезд или имеете необходимость в перевозке тяжелых предметов, то, безусловно, заказ услуг грузчиков станет отличным решением. Наша компания «Perevozim» предлагает полный спектр услуг по грузоперевозкам в Минске, включая помощь квалифицированных грузчиков.
+			</p><p>Независимо от объема и сложности вашей задачи, наши специалисты готовы прийти на помощь. Мы понимаем, что процесс переезда может быть непростым, и именно поэтому предлагаем надежные услуги грузчиков, которые помогут вам быстро и безопасно осуществить перенос ваших вещей.</p>
+			<p>Заказ грузчиков у компании «Perevozim» — это гарантия качественного обслуживания и прозрачной ценовой политики. Мы ценим время наших клиентов и стремимся сделать процесс грузоперевозки максимально комфортным. Вы можете быть уверены, что ваши вещи будут в надежных руках, а грузчики команды «Perevozim» позаботятся обо всем, начиная от упаковки и заканчивая разгрузкой.</p>
+			<p>Не откладывайте на потом! Обратитесь в нашу компанию для получения дополнительной информации о грузоперевозках в Минске и услугах грузчиков. Мы рады помочь вам осуществить ваш переезд без лишних хлопот и стрессов.</p>
+			<p>Пожалуйста, позвоните нашему диспетчеру <a href="tel:+375445992967">+375 (44) 599-29-67</a>. И мы постараемся решить Вашу задачу в минимальные сроки.</p>
+		  </details>
+		  <details>
+			<summary><h2>Какая машина лучше для перевозки мебели – газель или грузовик?</h2></summary>
+			<p>Для квартирного переезда чаще всего достаточно газели для перевозки мебели в Минске. Для офисных переездов или крупных грузов используется грузовик.</p>
+			<p>Пожалуйста, позвоните нашему диспетчеру <a href="tel:+375445992967">+375 (44) 599-29-67</a>. И мы постараемся решить Вашу задачу в минимальные сроки.</p>
+		  </details>
+		  <details>
+			<summary><h2>Вы перевозите мебель только по Минску или и в область?</h2></summary>
+			<p>Мы выполняем перевозку мебели по Минску и области. Возможна доставка на дачу, в другой город или между районами столицы.</p>
+			<p>Если вам необходимо перевезти вещи из одного населенного пункта в другой, следует обратиться к проверенной компании, которая специализируется на этом. Например, грузоперевозки в Минске предлагает компания «Perevozim», которая зарекомендовала себя на рынке благодаря высокому качеству услуг и профессионализму своих грузчиков.</p>
+			<p>С командой «Perevozim» вы можете быть уверены, что ваш груз будет доставлен в срок и без повреждений. У них есть опыт в организации перевозок различной сложности, поэтому вы сможете выбрать оптимальный вариант, учитывая ваши требования и бюджет. Если вас интересует услуги грузчиков, то специалисты компании готовы помочь вам с упаковкой и погрузкой вещей, что значительно упростит процесс.</p>
+			<p>Не медлите с организацией перевозки! Свяжитесь с компанией «Perevozim» и узнайте обо всех возможностях для грузоперевозок в Минске и за его пределами. Это просто, удобно и надежно!</p>
+			<p>Пожалуйста, позвоните нашему диспетчеру <a href="tel:+375445992967">+375 (44) 599-29-67</a>. И мы постараемся решить Вашу задачу в минимальные сроки.</p>
+		  </details>
+		  <details>
+			<summary><h2>Как проходит квартирный переезд в Минске?</h2></summary>
+			<p>Мы организуем переезд «под ключ»: разборка мебели, упаковка, погрузка, доставка и сборка на новом месте. Это экономит время и силы клиента.</p>
+			
+			<h2>Сколько стоит квартирный переезд?</h2>
+			<p>Сколько стоит квартирный переезд? Этот вопрос волнует многих, кто решает сменить место жительства. Переезд — это не только немалые физические усилия, но и финансовые затраты. В Минске услуги по грузоперевозкам стали довольно популярными, и их стоимость может варьироваться в зависимости от различных факторов.</p>
+			<p>Прежде всего, цена квартирного переезда зависит от объема груза и расстояния, которое необходимо преодолеть. Если вы планируете переезд по городу, то грузовое такси станет отличным вариантом. У компании «Perevozim» вы сможете заказать услуги грузчиков, которые помогут аккуратно упаковать и перенести ваши вещи.</p>
+			<p>Не забывайте учитывать дополнительные услуги, такие как упаковка, разборка мебели и доставка ваших вещей на новое место. Во многих случаях сотрудничество с профессиональными грузчиками значительно упрощает процесс переезда и экономит ваше время.</p>
+			<p>Для точной оценки стоимости вам стоит обратиться в компанию «Perevozim», где опытные специалисты рассчитают цену, учитывая все нюансы вашего переезда. Так, грузоперевозки в Минске могут обойтись вам совсем недорого, если вы правильно организуете процесс и воспользуетесь услугами квалифицированной команды.</p>
+			<p>Не откладывайте свой переезд на потом — свяжитесь с «Perevozim», и мы сделаем ваш переход в новое жилье легким и комфортным!</p>
+			<p>Пожалуйста, позвоните нашему диспетчеру <a href="tel:+375445992967">+375 (44) 599-29-67</a>. И мы постараемся решить Вашу задачу в минимальные сроки.</p>
+		  </details>
+		  <details>
+			<summary><h2>Можно ли заказать офисный переезд в Минске?</h2></summary>
+			<p>Да, мы выполняем офисные переезды в Минске, включая демонтаж и перевозку мебели, техники и документации.</p>
+			<p>Пожалуйста, позвоните нашему диспетчеру <a href="tel:+375445992967">+375 (44) 599-29-67</a>. И мы постараемся решить Вашу задачу в минимальные сроки.</p>
+		  </details>
+		  <details>
+			<summary><h2>Гарантируете ли вы сохранность мебели при перевозке?</h2></summary>
+			<p>Да, вся мебель тщательно упаковывается и фиксируется в машине. Мы отвечаем за сохранность вашего имущества на всех этапах перевозки.</p>
+			<p>Пожалуйста, позвоните нашему диспетчеру <a href="tel:+375445992967">+375 (44) 599-29-67</a>. И мы постараемся решить Вашу задачу в минимальные сроки.</p>
+		  </details>
+
+			<details>
+			<summary><h2>Почему заказывать недорогие грузоперевозки по Минску стоит у нас?</h2></summary>
+			<p>Мы предлагаем разнообразные услуги по перевозке: квартирные и офисные переезды, транспортировку мебели, вещей, торгового оборудования и многое другое. <b>Вот что мы предоставляем:</b></p>
+			<p><b>Доступные цены на грузоперевозки по Беларуси:</b> найти недорогих грузчиков — задача не из легких. Мы понимаем, как важен вопрос стоимости, и стремимся предложить выгодные условия для наших клиентов. С нашим тарифом вы всегда будете осведомлены о своих расходах.</p>
+			<p><b>Квалифицированные специалисты:</b> каждый член нашей команды обладает значительным опытом, поэтому вам не стоит беспокоиться о сохранности и безопасности ваших вещей. У нас вы сможете быстро и удобно организовать грузоперевозки по разумной цене.</p>
+			<p><b>Широкий ассортимент транспорта:</b> в нашем автопарке представлены машины различных типов — от компактных фургонов до грузовых автомобилей. Это позволяет нам эффективно справляться с транспортировкой различных объемов.</p>
+			<p><b>Индивидуальный подход:</b> мы осознаем, что у каждого клиента свои уникальные требования. Поэтому мы решаем все вопросы индивидуально, чтобы вы могли организовать грузоперевозки по Беларуси с максимальным удобством.</p>
+			<p><b>Гибкость в расписании:</b> наши сотрудники легко подстраиваются под ваши временные рамки, что особенно актуально в условиях городского ритма. Мы работаем без выходных, чтобы вы могли не отвлекаться от своих важных дел.</p>
+			<p><b>Осторожное обращение с вашим имуществом:</b> в зависимости от характера груза, мы предоставляем рекомендации по оптимальной упаковке или берем на себя упаковку ваших вещей в специальные материалы. Для хрупких предметов мы используем дополнительные защитные средства.</p>
+			<p>Некоторые клиенты могут переживать, что придется долго ждать автомобиль. На самом деле у нас достаточно машин, и мы всегда готовы предложить вам транспорт в кратчайшие сроки. Мы заранее согласуем с вами время и место подачи автомобиля, чтобы вы могли быть уверены, что все пройдет согласно плану.</p>
+			<p>Кроме того, вы можете не беспокоиться об опоздании. Мы внимательно следим за графиком отправления и учитываем пробки на маршруте, чтобы обеспечить своевременную доставку вашего груза.</p>
+			<p>Пожалуйста, позвоните нашему диспетчеру <a href="tel:+375445992967">+375 (44) 599-29-67</a>. И мы постараемся решить Вашу задачу в минимальные сроки.</p>
+		  </details>
+		  <details>
+			<summary><h2>Как узнать стоимость и заказать грузоперевозку в Минске?</h2></summary>
+			<p>Если вам требуется узнать стоимость и заказать грузоперевозки, первым шагом станет выбор надежной транспортной компании, такой как «Perevozim», которая предлагает услуги грузоперевозок в Минске. В условиях современного рынка представлено множество предложений, и важно найти вариант, соответствующий вашим требованиям и финансовым возможностям.</p>
+			<p>Чтобы определить стоимость грузоперевозок в Минске с помощью «Perevozim», вам нужно предоставить информацию о характере груза, его объеме и весе, а также расстоянии, которое необходимо преодолеть. Компания предлагает удобные онлайн-калькуляторы, которые помогут вам быстро под рассчитать примерную цену перевозки.</p>
+			<p>Если вы ищете максимально комфортное решение, стоит рассмотреть услуги перевозок "под ключ". Это означает, что «Perevozim» возьмет на себя все этапы – от упаковки и погрузки до доставки и разгрузки. Такой подход особенно удобен для тех, кто ценит свое время и стремится избежать лишних хлопот.</p>
+			<p>Не забудьте ознакомиться с отзывами клиентов, чтобы удостовериться в надежности компании «Perevozim». Выбирая профессионалов, вы обеспечите безопасность вашего груза и сделаете процесс перевозки максимально комфортным.</p>
+			<p>Заказать грузоперевозки в Минске с «Perevozim» стало проще простого: достаточно лишь связаться с компанией, уточнить детали и согласовать время отправления. Таким образом, вы сможете успешно организовать перевозку и быть уверенными в качестве обслуживания.</p>
+			<p>Пожалуйста, позвоните нашему диспетчеру <a href="tel:+375445992967">+375 (44) 599-29-67</a>. И мы постараемся решить Вашу задачу в минимальные сроки.</p>
+		  </details>
+		  <details>
+			<summary><h2>Можно ли организовать перевозку на выходные или ночью?</h2></summary>
+			<p>Заключение договора на грузоперевозки для юридических лиц — это важный этап в организации логистических процессов компании. Если вас интересует, как это работает в Минске, то компания «Perevozim» готова предложить свои услуги. Мы понимаем, что для юридических лиц критически важна надежность и пунктуальность при доставке грузов, и именно поэтому мы предлагаем специальные условия, адаптированные под нужды бизнеса.</p>
+			<p>Грузоперевозки в Минске с нашей компанией — это гарантированное качество обслуживания и профессиональный подход. Мы предоставляем не только услуги грузового такси, но и опытных грузчиков, которые помогут вам с погрузкой и разгрузкой. Заключив договор с «Perevozim», вы получаете возможность планировать логистику своей компании с максимальной эффективностью и минимальными затратами.</p>
+			<p>Каждый договор индивидуален, и его условия могут включать различные аспекты — от сроков доставки до специфики транспортируемого груза. Наша команда всегда готова обсудить ваши требования и предложить оптимальные решения. Мы ценим своих клиентов и стремимся к долгосрочному сотрудничеству, предоставляя высококачественные услуги грузоперевозок, которые соответствуют всем юридическим и техническим нормам.</p>
+			<p>Если вам нужно организовать грузоперевозки в Минске, обращайтесь в компанию «Perevozim» — мы поможем вам сделать это быстро и без хлопот.</p>
+			<p>Пожалуйста, позвоните нашему диспетчеру <a href="tel:+375445992967">+375 (44) 599-29-67</a>. И мы постараемся решить Вашу задачу в минимальные сроки.</p>
+		  </details>
+		  <details>
+			<summary><h2>Могу ли я изменить дату или время заказа грузоперевозки?</h2></summary>
+			<p>Если вы хотите изменить дату или время заказа грузоперевозки, предоставляемой нашей компанией «Perevozim», это вполне возможно. Мы понимаем, что планы могут меняться, и готовы адаптироваться к вашим потребностям. Чтобы внести изменения, просто свяжитесь с нами по удобному для вас каналу — наш менеджер грузоперевозок в Минске с радостью поможет вам.</p>
+			<p>Компания «Perevozim» предоставляет комплексные услуги по грузоперевозкам в Минске, включая услуги грузчиков и грузового такси. Будьте уверены, что наши профессионалы всегда готовы прийти на помощь и предложить оптимальное решение, учитывающее ваш новый график.</p>
+			<p>Пожалуйста, учитывайте, что для изменения времени или даты заказа рекомендуем сообщить нам как можно раньше. Это позволит нам лучше организовать процесс и гарантировать, что все пройдет гладко. Мы ценим ваше время и стараемся обеспечить высокий уровень сервиса на каждом этапе взаимодействия.</p>
+			<p>Пожалуйста, позвоните нашему диспетчеру <a href="tel:+375445992967">+375 (44) 599-29-67</a>. И мы постараемся решить Вашу задачу в минимальные сроки.</p>
+		  </details>
+		  
+					</div></div>
+				</div>
+	</section>
+	
+	
+    <div class="pfooter"></div>
+</div>
+<!-- wrap end -->
+<!-- footer begin -->
+
+
+    
+
+<footer id="footer">
+    <div class="wrapper">
+        <div class="contacts">
+        <a href="" class="logo" title="Перевозки Дешево"><img src="images/flogo.png" alt="Грузоперевозки Минск" title="Перевозки Дешево" class="logos"></a>
+        </div>
+        <div class="contacts">
+            <p class="tel"><a href="tel:+375445992967" class="tel" title="Заказать грузовые перевозки на Газели">+375 (44) 599-29-67</a></p>
+            <p class="anytime">Звоните круглосуточно! Мы работаем каждый день.</p>
+            <p class="address">Адрес офиса: г. Минск, ул. Толстого д. 10</p>
+        </div>
+        <div class="copyright">
+
+            <div class="wrapper-links">
+    <ul class="links-bottom">
+        <li class="links-bottom__item"><a href="#">Офисный переезд</a></li>
+        <li class="links-bottom__item"><a href="#">Перевозка мебели</a></li>
+        <li class="links-bottom__item"><a href="https://perevozim.by/kvartirnyj-pereezd">Квартирный переезд</a></li>
+        <li class="links-bottom__item"><a href="#">Дачный переезд</a></li>
+        <li class="links-bottom__item"><a href="#">Грузовое такси</a></li>
+    </ul>
+    <ul class="links-bottom">
+        <li class="links-bottom__item"><a href="#">Заказ грузоперевозки</a></li>
+        <li class="links-bottom__item"><a href="#">Перевозка грузов</a></li>
+        <li class="links-bottom__item"><a href="#">Транспортные услуги</a></li>
+        <li class="links-bottom__item"><a href="#">Машина с грузчиками</a></li>
+        <li class="links-bottom__item"><a href="#">Грузоперевозки</a></li>
+    </ul>
+</div>
+    
+
+        </div>
+        <div class="clear">
+            <div class="developercopy">
+			<p>2008 - <script type="text/javascript">document.write(new Date().getFullYear());</script>2026 © Copyright УНП 691180627 Грузоперевозки в Минске. Все права защищены.<br> Информация на данном интернет-сайте носит исключительно ознакомительный характер и ни при каких условиях не является публичной офертой.<br>
+			Все материалы сайта защищены законом Республики Беларусь от 17 мая 2011 года №262-З "Об авторском праве и смежных правах" Копирование и распространение материалов без согласия владельцев сайта запрещено.</p>
+            </div>
+            <noindex><!--<div class="developer">
+                <a href="http://t.me/pandas_web" title="Создание и продвижение сайта" target="_blank"><img src="images/pandasw.svg"
+                                                                                             alt="Создание и продвижение сайта PandasWeb"
+                                                                                             title="Создание и продвижение сайта">
+                    поддержка и продвижение сайта
+                </a>
+            </div>--></noindex>
+			           
+        </div>
+        <div class="clear"></div>
+    </div>
+</footer>
+<!-- footer end -->
+<div id="onTop_bg" style="display: none;">
+    <div class="wrapper">
+        <a href="#вверх" title="Грузоперевозки на Газели в МИНСКЕ" id="onTop"></a>
+    </div>
+</div>
+
+<a href="javascript:;" id="cheepy_not_exist" title="Самые дешевые грузоперевозки на Газели" onclick=" open_popup('#spec_sentence_popup');" style="display: inline;">
+    <span class="p1">ДЕШЕВЛЕ<br> НЕ БЫВАЕТ</span>
+    <span class="p2">%</span>
+</a>
+<div id="want_evaluation" style="display: block;">
+    <a href="javascript:;" title="Оценка перевозки грузов на Газели" class="closer close"></a>
+    <a href="javascript:;" class="block" onclick="open_popup('#free_evaluation_popup'); cat_item_jcarousel(200,'#date_slider','circular',false);">
+        <p class="p1">ХОТИТЕ <br> ОЦЕНКУ <br>СЕГОДНЯ?</p>
+        <p class="p3">
+            <span class="p2">осталось&nbsp; <br> мест:</span>
+            <span class="num">7</span>
+        </p>
+    </a>
+</div>
+
+<a href="javascript:;" title="Бесплатная оценка перевозки грузов на Газели" id="popup_bg"></a>
+
+<!--free_evaluation_popup-->
+<div class="popup_block" id="free_evaluation_popup" style="display: none;">
+    <a href="javascript:;" title="Запись на бесплатную оценку перевозки грузов на Газели" class="closer close">×</a>
+    <div class="heading">Запись на бесплатную оценку</div>
+    <p class="p1">стоимости перевозки с выездом <br>менеджера к вам на адрес</p>
+    <form action="/" method="post" id="free_evaluation_form">
+        <input type="hidden" name="gorod" value="">
+        <div class="dates">
+            <div class="date_block" id="date_slider">
+                <p class="jcarousel-pagination"></p>
+                <a href="javascript:;" class="jcarousel-control-prev" title="Выбор даты грузовых перевозок на Газели"></a>
+                <div class="jcarousel">
+                    <ul>
+
+                                                    <li>
+                                <label for="radio_x_0">
+                                    <input type="radio" name="when" val="dogovors_0" value="" class="radio_hide" checked="" id="radio_x_0">
+                                    <span class="today">
+                	сегодня                </span>
+                                    <span class="day"></span>
+                                    <span class="month"></span>
+                                </label>
+                            </li>
+                                                    <li>
+                                <label for="radio_x_1">
+                                    <input type="radio" name="when" val="dogovors_1" value="" class="radio_hide" id="radio_x_1">
+                                    <span class="today">
+                	завтра                </span>
+                                    <span class="day"></span>
+                                    <span class="month"></span>
+                                </label>
+                            </li>
+                                                    <li>
+                                <label for="radio_x_2">
+                                    <input type="radio" name="when" val="dogovors_2" value="" class="radio_hide" id="radio_x_2">
+                                    <span class="today">
+                	послезавтра                </span>
+                                    <span class="day"></span>
+                                    <span class="month"></span>
+                                </label>
+                            </li>
+                                 <!--                   <li>
+                                <label for="radio_x_3">
+                                    <input type="radio" name="when" val="dogovors_3"
+                                           value="26.10.2021"
+                                           class="radio_hide"                                            id="radio_x_3">
+                                    <span class="today">
+                	&nbsp;                </span>
+                                    <span class="day">26</span>
+                                    <span class="month">октября</span>
+                                </label>
+                            </li>
+                                                    <li>
+                                <label for="radio_x_4">
+                                    <input type="radio" name="when" val="dogovors_3"
+                                           value="27.10.2021"
+                                           class="radio_hide"                                            id="radio_x_4">
+                                    <span class="today">
+                	&nbsp;                </span>
+                                    <span class="day">27</span>
+                                    <span class="month">октября</span>
+                                </label>
+                            </li>
+                                                    <li>
+                                <label for="radio_x_5">
+                                    <input type="radio" name="when" val="dogovors_3"
+                                           value="28.10.2021"
+                                           class="radio_hide"                                            id="radio_x_5">
+                                    <span class="today">
+                	&nbsp;                </span>
+                                    <span class="day">28</span>
+                                    <span class="month">октября</span>
+                                </label>
+                            </li>
+                                                    <li>
+                                <label for="radio_x_6">
+                                    <input type="radio" name="when" val="dogovors_3"
+                                           value="29.10.2021"
+                                           class="radio_hide"                                            id="radio_x_6">
+                                    <span class="today">
+                	&nbsp;                </span>
+                                    <span class="day">29</span>
+                                    <span class="month">октября</span>
+                                </label>
+                            </li>-->
+                        
+                    </ul>
+                </div>
+                <a href="javascript:;" class="jcarousel-control-next" title="Записаться"></a>
+            </div>
+            <div class="people">
+
+                                    <div id="dogovors_0" class="dogovors" style="display:block;">
+                        <dl>
+                            <dt>13</dt>
+                            <dd>человек записалось</dd>
+                            <dt class="red">7</dt>
+                            <dd>свободных<br> мест</dd>
+                            <dt>12</dt>
+                            <dd>договоров<br> заключено</dd>
+                        </dl>
+                    </div>
+                                        <div id="dogovors_1" class="dogovors">
+                        <dl>
+                            <dt>7</dt>
+                            <dd>человек записалось</dd>
+                            <dt class="red">13</dt>
+                            <dd>свободных<br> мест</dd>
+                            <dt>6</dt>
+                            <dd>договоров<br> заключено</dd>
+                        </dl>
+                    </div>
+                                        <div id="dogovors_2" class="dogovors">
+                        <dl>
+                            <dt>5</dt>
+                            <dd>человек записалось</dd>
+                            <dt class="red">15</dt>
+                            <dd>свободных<br> мест</dd>
+                            <dt>5</dt>
+                            <dd>договоров<br> заключено</dd>
+                        </dl>
+                    </div>
+                                        <div id="dogovors_3" class="dogovors">
+                        <dl>
+                            <dt>3</dt>
+                            <dd>человек записалось</dd>
+                            <dt class="red">17</dt>
+                            <dd>свободных<br> мест</dd>
+                            <dt>3</dt>
+                            <dd>договоров<br> заключено</dd>
+                        </dl>
+                    </div>
+                                        <div id="dogovors_4" class="dogovors">
+                        <dl>
+                            <dt>5</dt>
+                            <dd>человек записалось</dd>
+                            <dt class="red">15</dt>
+                            <dd>свободных<br> мест</dd>
+                            <dt>5</dt>
+                            <dd>договоров<br> заключено</dd>
+                        </dl>
+                    </div>
+                                        <div id="dogovors_5" class="dogovors">
+                        <dl>
+                            <dt>3</dt>
+                            <dd>человек записалось</dd>
+                            <dt class="red">17</dt>
+                            <dd>свободных<br> мест</dd>
+                            <dt>3</dt>
+                            <dd>договоров<br> заключено</dd>
+                        </dl>
+                    </div>
+                                        <div id="dogovors_6" class="dogovors">
+                        <dl>
+                            <dt>4</dt>
+                            <dd>человек записалось</dd>
+                            <dt class="red">16</dt>
+                            <dd>свободных<br> мест</dd>
+                            <dt>4</dt>
+                            <dd>договоров<br> заключено</dd>
+                        </dl>
+                    </div>
+                                        <div id="dogovors_7" class="dogovors">
+                        <dl>
+                            <dt>4</dt>
+                            <dd>человек записалось</dd>
+                            <dt class="red">16</dt>
+                            <dd>свободных<br> мест</dd>
+                            <dt>4</dt>
+                            <dd>договоров<br> заключено</dd>
+                        </dl>
+                    </div>
+                    
+
+            </div>
+            <div class="clear"></div>
+        </div>
+        <div class="form_box">
+
+            <input type="hidden" name="email">
+            <input type="hidden" name="subject" value="Запись на бесплатную оценку">
+            <dl>
+                <dt class="dt4"><span class="tel_icon">&nbsp;</span> Телефон:</dt>
+                <dd class="dd4"><input type="tel" name="tel" class="input"></dd>
+            </dl>
+            <div class="red_button">
+                <button type="submit">Записаться</button>
+            </div>
+
+        </div>
+    </form>
+    <div class="tel_block">
+        <div class="txt">
+            подробности&nbsp; <br>
+            по телефону:
+        </div>
+        <a href="tel:+375445992967" class="tel" title="Записаться на оценку">+375 (44) 599-29-67</a>
+        <div class="clear"></div>
+    </div>
+
+</div>
+<!--free_evaluation_popup END-->
+
+<!--spec_sentence_popup-->
+<div class="popup_block" id="spec_sentence_popup" style="display: none;">
+    <a href="javascript:;" class="closer close" title="Получить специальное предложение на перевозку грузов">×</a>
+    <div class="heading">Получить специальное <br> предложение</div>
+
+    <form action="/" method="post" id="spec_sentence_form" novalidate="novalidate">
+        <input type="hidden" name="gorod" value="">
+        <div class="form_box">
+            <input type="hidden" name="email">
+            <input type="hidden" name="subject" value="ПОЛУЧИТЬ СПЕЦИАЛЬНОЕ ПРЕДЛОЖЕНИЕ">
+
+            <dl>
+                <dt class="dt8">Имя:</dt>
+                <dd class="dd8"><input type="text" name="name" class="input"></dd>
+            </dl>
+            <dl>
+                <dt class="dt7"> Телефон:</dt>
+                <dd class="dd7"><input type="tel" name="tel" class="input"></dd>
+            </dl>
+            <div class="red_button">
+                <button type="submit">ОТПРАВИТЬ</button>
+            </div>
+
+        </div>
+    </form>
+    <div class="tel_block">
+        <div class="txt">
+            подробности&nbsp; <br>
+            по телефону:
+        </div>
+        <a href="tel:+375445992967" class="tel" title="Получить специальное предложение по грузоперевозкам">+375 (44) 599-29-67</a>
+        <div class="clear"></div>
+    </div>
+
+</div>
+<!--spec_sentence_popup END-->
+
+<!--tarif_popup-->
+<div class="popup_block" id="tarif_popup" style="display: none;">
+    <a href="javascript:;" class="closer close" title="Заявка на перевозку грузов на Газели">×</a>
+    <div class="heading"></div>
+
+    <form action="/" method="post" id="tarif_form" novalidate="novalidate">
+        <input type="hidden" name="gorod" value="">
+        <div class="form_box">
+            <input type="hidden" name="email">
+            <input type="hidden" name="subject" value="">
+            <input type="hidden" name="tarif">
+            <input type="hidden" name="evant">
+            <dl>
+                <dt class="dt8">Имя:</dt>
+                <dd class="dd8"><input type="text" name="name" class="input"></dd>
+            </dl>
+            <dl>
+                <dt class="dt7"> Телефон:</dt>
+                <dd class="dd7"><input type="tel" name="tel" class="input"></dd>
+            </dl>
+            <div class="red_button">
+                <button type="submit">ОТПРАВИТЬ</button>
+            </div>
+            <!--            <div class="input_check_sogl">-->
+            <!--                <label class=""><input id="checkbox_soglashenie" name="checkbox_soglashenie3" type="checkbox"-->
+            <!--                                       checked>-->
+            <!--                    <span>Я соглашаюсь на обработку персональных данных.</span> <a href="/politika.pdf" target="_blank">Соглашение</a></label>-->
+            <!--            </div>-->
+
+        </div>
+    </form>
+    <div class="tel_block">
+        <div class="txt">
+            подробности&nbsp; <br>
+            по телефону:
+        </div>
+        <a href="tel:+375445992967" class="tel" title="Тарифы на грузоперевозки">+375 (44) 599-29-67</a>
+        <div class="clear"></div>
+    </div>
+
+</div>
+<!--tarif_popup END-->
+
+<!-- stoimost_perevozki -->
+<div class="popup_block" id="stoimost_perevozki" style="display: none;">
+    <a href="javascript:;" class="closer close">×</a>
+
+    <div class="yellow_block">
+        <div class="txt1">Стоимость перевозки вашего груза:</div>
+        <div class="price">от <span class="num">170</span> руб.</div>
+        <div class="dop">
+            <div class="txt2">Доп.час:</div>
+            <div class="dop_price"><span class="num">600</span> руб.</div>
+        </div>
+        <div class="description">Цена указана за <span id="chasi_s">2 часа</span> аренды авто <span id="gruzchiki_s">+ 2 грузчиков</span> - цена носит ознакомительный характер и ни при каких условиях не является публичной офертой.</div>
+    </div>
+    <p class="p1">Вы согласны, что наше предложение самое выгодное в Минске?</p>
+    <div class="wrop">
+        <div class="da ">
+            <form action="/" method="post" id="stoimost_perevozki_form2">
+                <input type="hidden" name="subject" value="Согласен с расчетом">
+                <input type="hidden" name="from">
+                <input type="hidden" name="where">
+                <input type="hidden" name="price">
+                <input type="hidden" name="car">
+                <input type="hidden" name="dop_chas">
+                <input type="hidden" name="count_gruzchiki">
+                <input type="hidden" name="srok_arendi">
+                <div class="pos">ДА</div>
+                <p class="p2">- для оформления заказа позвоните по телефону</p>
+                <p class="p3"><a href="tel:+375445992967">+375 (44) 599-29-67</a></p>
+
+
+            </form>
+        </div>
+
+        <div class="da da1">
+            <form action="/" method="post" id="stoimost_perevozki_form" novalidate="novalidate">
+                <input type="hidden" name="subject" value="Не согласен с расчетом">
+                <input type="hidden" name="from">
+                <input type="hidden" name="where">
+                <input type="hidden" name="price">
+                <input type="hidden" name="car">
+                <input type="hidden" name="dop_chas">
+                <input type="hidden" name="count_gruzchiki">
+                <input type="hidden" name="srok_arendi">
+
+                <div class="pos">НЕТ</div>
+                <p class="p2">- оставьте свой номер, мы пересчитаем и перезвоним Вам через 1 минуту</p>
+                <p class="p4"><input type="tel" class="inp" placeholder="Номер телефона:" name="tel"></p>
+            </form>
+        </div>
+
+        <div class="red_button">
+            <button type="button">отправить</button>
+        </div>
+
+    </div>
+
+</div>
+<!-- stoimost_perevozki END-->
+
+<!-- map_block -->
+<div class="popup_block" id="map_block" style="display: none;">
+    <div class="top_names">
+        <div class="bg">
+            <span class="name">откуда</span><br>
+            <span class="address"></span>
+        </div>
+    </div>
+    <a href="javascript:;" class="closer close">×</a>
+    <div id="YMapsID" class="yandex_map"><ymaps class="ymaps-map ymaps-i-ua_js_yes" style="z-index: 0; width: 0px; height: 0px;"><ymaps class="ymaps-glass-pane ymaps-events-pane" style="z-index: 500; position: absolute; width: 0px; height: 0px; left: 0px; top: 0px; user-select: none; cursor: url(&quot;https://yastatic.net/s3/front-maps-static/maps-front-jsapi-v2-0/17321100/out/src/client/./images/ef50ac9e93aaebe3299791c79f277f8e.cur&quot;) 16 16, url(&quot;https://yastatic.net/s3/front-maps-static/maps-front-jsapi-v2-0/17321100/out/src/client/./images/ef50ac9e93aaebe3299791c79f277f8e.cur&quot;), move;" unselectable="on"></ymaps><ymaps class="ymaps-layers-pane" style="z-index: 100; position: absolute; left: 0px; top: 0px;"><ymaps style="z-index: 150; position: absolute; transform: translate3d(0px, 0px, 0px) scale(1);"><ymaps style="position: absolute; transform: translate3d(0px, 0px, 0px) scale(1); left: 0px; top: 0px;"><ymaps style="opacity: 1; background-size: 100% 100%; position: absolute; user-select: none; background-repeat: no-repeat; background-image: url(&quot;https://core-renderer-tiles.maps.yandex.net/tiles?l=map&amp;v=26.10.07-0~b:261012113130~ia:26.09.28-0~ib:26.10.07-4&amp;x=2475&amp;y=1283&amp;z=12&amp;scale=1&amp;lang=ru_RU&quot;); width: 256px; height: 256px; left: -270px; top: -274px; transition-duration: 300ms; transition-property: opacity;" unselectable="on"></ymaps><ymaps style="opacity: 1; background-size: 100% 100%; position: absolute; user-select: none; background-repeat: no-repeat; background-image: url(&quot;https://core-renderer-tiles.maps.yandex.net/tiles?l=map&amp;v=26.10.07-0~b:261012113130~ia:26.09.28-0~ib:26.10.07-4&amp;x=2475&amp;y=1284&amp;z=12&amp;scale=1&amp;lang=ru_RU&quot;); width: 256px; height: 256px; left: -270px; top: -18px; transition-duration: 300ms; transition-property: opacity;" unselectable="on"></ymaps><ymaps style="opacity: 1; background-size: 100% 100%; position: absolute; user-select: none; background-repeat: no-repeat; background-image: url(&quot;https://core-renderer-tiles.maps.yandex.net/tiles?l=map&amp;v=26.10.07-0~b:261012113130~ia:26.09.28-0~ib:26.10.07-4&amp;x=2476&amp;y=1283&amp;z=12&amp;scale=1&amp;lang=ru_RU&quot;); width: 256px; height: 256px; left: -14px; top: -274px; transition-duration: 300ms; transition-property: opacity;" unselectable="on"></ymaps><ymaps style="opacity: 1; background-size: 100% 100%; position: absolute; user-select: none; background-repeat: no-repeat; background-image: url(&quot;https://core-renderer-tiles.maps.yandex.net/tiles?l=map&amp;v=26.10.07-0~b:261012113130~ia:26.09.28-0~ib:26.10.07-4&amp;x=2476&amp;y=1284&amp;z=12&amp;scale=1&amp;lang=ru_RU&quot;); width: 256px; height: 256px; left: -14px; top: -18px; transition-duration: 300ms; transition-property: opacity;" unselectable="on"></ymaps></ymaps></ymaps></ymaps><ymaps class="ymaps-copyrights-pane" style="z-index: 1000; position: absolute;"><ymaps><ymaps class="ymaps-copyrights-logo"><ymaps class="ymaps-logotype-div"><a target="_blank" class="ymaps-logo-link ymaps-logo-link-ru" href="https://yandex.ru/maps/?origin=jsapi&amp;ll=37.622093,55.753994&amp;z=12&amp;l="><ymaps class="ymaps-logo-link-wrap"></ymaps></a></ymaps></ymaps><ymaps class="ymaps-copyrights-legend"><ymaps class="ymaps-copyright-legend-container"><ymaps class="ymaps-copyright-legend"><ymaps class="ymaps-copyright-legend-element ymaps-copyright-legend-element-black"><ymaps style="display: inline;">© Яндекс</ymaps></ymaps></ymaps><ymaps class="ymaps-copyright-agreement ymaps-copyright-agreement-black"><a href="https://yandex.ru/legal/maps_termsofuse/?lang=ru" target="_blank">Условия использования</a></ymaps></ymaps></ymaps></ymaps></ymaps><ymaps style="z-index: 850; height: 0px; width: 0px; bottom: 0px; left: 0px; position: absolute;"><ymaps style="bottom: 5px; left: 0px; position: absolute;"><iframe src="https://api-maps.yandex.ru/services/inception/?lang=ru_RU&amp;iframe_id=id_1791811748541480330&amp;api_version=2.0&amp;url=%2Fmap&amp;data=%7B%22mapState%22%3A%7B%22origin%22%3A%22jsapi_2_0%22%2C%22source%22%3A%22api-maps%22%2C%22from%22%3A%22api-maps%22%2C%22host%22%3A%22perevozim.by%22%7D%7D" width="0" height="7" scrolling="no" style="overflow: hidden;" frameborder="0"></iframe></ymaps></ymaps><ymaps class="ymaps-controls-pane" style="z-index: 800; position: static;"><ymaps class="ymaps-controls-lefttop" style="z-index: 800;"><ymaps style="top: 75px; left: 5px; position: absolute;" class="ymaps-b-zoom_hints-pos_right"><ymaps><ymaps class="ymaps-b-zoom"><ymaps class="ymaps-b-zoom__button ymaps-b-zoom__button_type_minus" unselectable="on" style="user-select: none;"><ymaps class="ymaps-b-form-button ymaps-b-form-button_size_sm ymaps-b-form-button_theme_grey-sm ymaps-b-form-button_height_26 ymaps-i-bem" role="button"><ymaps class="ymaps-b-form-button__left"></ymaps><ymaps class="ymaps-b-form-button__content"><ymaps class="ymaps-b-form-button__text"><ymaps class="ymaps-b-zoom__sprite"></ymaps></ymaps></ymaps></ymaps></ymaps><ymaps class="ymaps-b-zoom__scale" style="height: 132.667px; user-select: none;" unselectable="on"><ymaps class="ymaps-b-zoom__scale-bg"></ymaps><ymaps class="ymaps-b-zoom__mark" style="top: 87px;"><ymaps class="ymaps-b-zoom__mark-inner"><ymaps class="ymaps-b-zoom__sprite"></ymaps></ymaps></ymaps><ymaps class="ymaps-b-hint-placeholder"><ymaps><ymaps><ymaps class="ymaps-b-zoom__hint" style="top: 17px;"><ymaps class="ymaps-b-zoom__hint-left"><ymaps class="ymaps-b-zoom__sprite"></ymaps></ymaps><ymaps class="ymaps-b-zoom__hint-content"><ymaps class="ymaps-b-zoom__hint-text">мир</ymaps></ymaps><ymaps class="ymaps-b-zoom__hint-right"><ymaps class="ymaps-b-zoom__sprite"></ymaps></ymaps></ymaps></ymaps></ymaps><ymaps><ymaps><ymaps class="ymaps-b-zoom__hint" style="top: 38px;"><ymaps class="ymaps-b-zoom__hint-left"><ymaps class="ymaps-b-zoom__sprite"></ymaps></ymaps><ymaps class="ymaps-b-zoom__hint-content"><ymaps class="ymaps-b-zoom__hint-text">страна</ymaps></ymaps><ymaps class="ymaps-b-zoom__hint-right"><ymaps class="ymaps-b-zoom__sprite"></ymaps></ymaps></ymaps></ymaps></ymaps><ymaps><ymaps><ymaps class="ymaps-b-zoom__hint" style="top: 66px;"><ymaps class="ymaps-b-zoom__hint-left"><ymaps class="ymaps-b-zoom__sprite"></ymaps></ymaps><ymaps class="ymaps-b-zoom__hint-content"><ymaps class="ymaps-b-zoom__hint-text">город</ymaps></ymaps><ymaps class="ymaps-b-zoom__hint-right"><ymaps class="ymaps-b-zoom__sprite"></ymaps></ymaps></ymaps></ymaps></ymaps><ymaps><ymaps><ymaps class="ymaps-b-zoom__hint" style="top: 94px;"><ymaps class="ymaps-b-zoom__hint-left"><ymaps class="ymaps-b-zoom__sprite"></ymaps></ymaps><ymaps class="ymaps-b-zoom__hint-content"><ymaps class="ymaps-b-zoom__hint-text">улица</ymaps></ymaps><ymaps class="ymaps-b-zoom__hint-right"><ymaps class="ymaps-b-zoom__sprite"></ymaps></ymaps></ymaps></ymaps></ymaps><ymaps><ymaps><ymaps class="ymaps-b-zoom__hint" style="top: 115px;"><ymaps class="ymaps-b-zoom__hint-left"><ymaps class="ymaps-b-zoom__sprite"></ymaps></ymaps><ymaps class="ymaps-b-zoom__hint-content"><ymaps class="ymaps-b-zoom__hint-text">дом</ymaps></ymaps><ymaps class="ymaps-b-zoom__hint-right"><ymaps class="ymaps-b-zoom__sprite"></ymaps></ymaps></ymaps></ymaps></ymaps></ymaps></ymaps><ymaps class="ymaps-b-zoom__button ymaps-b-zoom__button_type_plus" unselectable="on" style="user-select: none;"><ymaps class="ymaps-b-form-button ymaps-b-form-button_size_sm ymaps-b-form-button_theme_grey-sm ymaps-b-form-button_height_26 ymaps-i-bem" role="button"><ymaps class="ymaps-b-form-button__left"></ymaps><ymaps class="ymaps-b-form-button__content"><ymaps class="ymaps-b-form-button__text"><ymaps class="ymaps-b-zoom__sprite"></ymaps></ymaps></ymaps></ymaps></ymaps></ymaps></ymaps></ymaps><ymaps style="top: 10px; left: 3px; position: absolute; user-select: none;" unselectable="on"><ymaps><ymaps class="ymaps-b-form-button ymaps-b-form-button_type_tool ymaps-b-form-button_valign_middle ymaps-b-form-button_theme_grey-no-transparent-26 ymaps-b-form-button_height_26 ymaps-i-bem" title="Определить местоположение"><ymaps class="ymaps-b-form-button__left"></ymaps><ymaps class="ymaps-b-form-button__content"><ymaps class="ymaps-b-form-button__text"><ymaps id="id_179181174854148032_0"><ymaps><ymaps><ymaps class="ymaps-content-icon"><ymaps class="ymaps-b-ico" style="background-image: url(&quot;/images/wifi.png&quot;); width: 17px; height: 17px;"></ymaps></ymaps></ymaps></ymaps></ymaps></ymaps></ymaps></ymaps></ymaps></ymaps></ymaps></ymaps><ymaps class="ymaps-overlay-stepwise-pane" style="z-index: 600; position: absolute; left: 0px; top: 0px;"><ymaps class="ymaps-point-overlay" style="position: absolute; height: 0px; width: 0px; user-select: none; left: 0px; top: 0px; z-index: 650;" unselectable="on"><ymaps><ymaps class="ymaps-image-with-content" style="position: absolute; left: -10px; top: -40px; width: 37px; height: 42px; background-position: 0px 0px; background-size: 37px 42px; background-image: url(&quot;https://yastatic.net/s3/front-maps-static/maps-front-jsapi-v2-0/17321100/out/src/client/./images/88b3e0581a764c12e576db60d7c1c78e.png&quot;);"><ymaps class="ymaps-image-with-content-content" style="font: 13px Arial,sans-serif;position: absolute;text-align: center;left: 6px;top: 6px;width: 16px;height: 16px;"><ymaps id="id_179181174854148032_1"><ymaps></ymaps></ymaps></ymaps></ymaps></ymaps></ymaps></ymaps></ymaps></div>
+    <div class="red_button">
+        <button type="submit" class="close">Выбрать</button>
+    </div>
+</div>
+<!-- map_block END-->
+
+<!--order_popup-->
+<div class="popup_block" id="order_popup" style="display: none;">
+    <a href="javascript:;" class="closer close" title="Заказать авто для перевозки грузов по Минску">×</a>
+    <div class="heading">Заказать сейчас</div>
+
+
+    <div class="form_box">
+        <form action="/" method="post" id="order_popup_form" novalidate="novalidate">
+            <dl>
+                <dt class="dt5">Когда:</dt>
+                <dd class="dd5">
+                    <div class="lineForm when_select">
+                        <div class="cusel   cuselScrollArrows" id="cuselFrame-when_select" style="width:329px" tabindex="0"><div class="cuselFrameRight"></div><div data-class="" class="cuselText "><label>Сегодня</label></div><div class="cusel-scroll-wrap" style="display: none; visibility: visible;"><div class="cusel-scroll-pane" id="cusel-scroll-when_select">
+                                                            <span val="Сегодня" class="cuselItem cuselActive"><label>Сегодня</label></span>
+                                                            <span val="Завтра" class="cuselItem"><label>Завтра</label></span>
+                                                            <span val="Послезавтра" class="cuselItem"><label>Послезавтра</label></span>
+                                                            <span val="Другой день" class="cuselItem"><label>Другой день</label></span>
+                                                    </div></div><input type="hidden" id="when_select" name="when" value="Сегодня"></div>
+                    </div>
+                </dd>
+            </dl>
+            <dl>
+                <dt class="dt7">Откуда:</dt>
+                <dd class="dd7"><input type="text" value="Минске" name="from" class="input" id="inp_from"></dd>
+            </dl>
+            <dl>
+                <dt class="dt5">Куда:</dt>
+                <dd class="dd5"><input type="text" name="where" class="input" id="inp_to"></dd>
+            </dl>
+            <dl>
+                <dt class="dt6">Грузоподъемность:</dt>
+                <dd class="dd6">
+                    <div class="lineForm when_select">
+                        <div class="cusel   cuselScrollArrows" id="cuselFrame-car_type" style="width:235px" tabindex="0"><div class="cuselFrameRight"></div><div data-class="" class="cuselText "><label>1 тонна</label></div><div class="cusel-scroll-wrap" style="display: none; visibility: visible;"><div class="cusel-scroll-pane" id="cusel-scroll-car_type">
+                                                            <span val="1 тонна" class="cuselItem cuselActive"><label>1 тонна</label></span>
+                                                            <span val="1,5 тонны" class="cuselItem"><label>1,5 тонны</label></span>
+                                                            <span val="3 тонны" class="cuselItem"><label>3 тонны</label></span>
+                                                            <span val="5 тонн" class="cuselItem"><label>5 тонн</label></span>
+                                                            <span val="7 тонн" class="cuselItem"><label>7 тонн</label></span>
+                                                            <span val="20 тонн" class="cuselItem"><label>20 тонн</label></span>
+                                                    </div></div><input type="hidden" id="car_type" name="car_type" value="1 тонна"></div>
+                    </div>
+                </dd>
+            </dl>
+            <dl>
+                <dt class="dt1">Грузчики:</dt>
+                <dd class="dd1"><input type="tel" name="count_gruzchiki" class="input" placeholder="Введите количество">
+                </dd>
+            </dl>
+            <dl>
+                <dt class="dt1">Телефон:</dt>
+                <dd class="dd1"><input type="tel" name="tel" class="input"></dd>
+            </dl>
+            <div class="red_button">
+                <button type="submit">ЗАКАЗАТЬ</button>
+            </div>
+            <!--            <div class="input_check_sogl">-->
+            <!--                <label class=""><input id="checkbox_soglashenie" name="checkbox_soglashenie1" type="checkbox"-->
+            <!--                                       checked>-->
+            <!--                    <span>Я соглашаюсь на обработку персональных данных.</span> <a href="/politika.pdf" target="_blank">Соглашение</a></label>-->
+            <!--            </div>-->
+        </form>
+    </div>
+    <div class="tel_block">
+        <div class="txt">
+            подробности&nbsp; <br>
+            по телефону:
+        </div>
+        <a href="tel:+375445992967" class="tel" title="Заказ на перевозку на Газели">+375 (44) 599-29-67</a>
+        <div class="clear"></div>
+    </div>
+
+</div>
+<!--order_popup END-->
+
+<!--services_popup-->
+<div class="popup_block" id="services_popup" style="display: none;">
+    <a href="javascript:;" title="Заказать услуги по перевозке грузов на Газели" class="closer close">×</a>
+    <div class="heading"></div>
+
+    <form action="/" method="post" id="services_form" novalidate="novalidate">
+        <input type="hidden" name="gorod" value="">
+        <div class="form_box">
+            <input type="hidden" name="email">
+            <input type="hidden" name="subject" value="Услуги">
+            <input type="hidden" name="service">
+            <input type="hidden" name="evant">
+            <input type="hidden" name="price">
+            <dl>
+                <dt class="dt8">Имя:</dt>
+                <dd class="dd8"><input type="text" name="name" class="input"></dd>
+            </dl>
+            <dl>
+                <dt class="dt7"> Телефон:</dt>
+                <dd class="dd7"><input type="tel" name="tel" class="input"></dd>
+            </dl>
+            <div class="red_button">
+                <button type="submit">ОТПРАВИТЬ</button>
+            </div>
+            <!--            <div class="input_check_sogl">-->
+            <!--                <label class=""><input id="checkbox_soglashenie" name="checkbox_soglashenie4" type="checkbox"-->
+            <!--                                       checked>-->
+            <!--                    <span>Я соглашаюсь на обработку персональных данных.</span> <a href="/politika.pdf" target="_blank">Соглашение</a></label>-->
+            <!--            </div>-->
+
+        </div>
+    </form>
+    <div class="tel_block">
+        <div class="txt">
+            подробности&nbsp; <br>
+            по телефону:
+        </div>
+        <a href="tel:+375445992967" class="tel" title="Заказать переезд на Газели">+375 (44) 599-29-67</a>
+        <div class="clear"></div>
+    </div>
+
+</div>
+<!--services_popup END-->
+
+
+<noindex>
+
+    <!--services_sucess2-->
+    <div class="popup_block popup_sucess" id="services_sucess2" style="display: none;">
+        <a href="javascript:;" title="" class="closer close">×</a>
+        <div class="heading"></div>
+        <p class="p2">СПАСИБО!</p>
+        <div class="red_button close">
+            <button type="submit">ок</button>
+        </div>
+    </div>
+    <!--services_sucess2 END-->
+
+    <!--services_sucess-->
+    <div class="popup_block popup_sucess" id="services_sucess" style="display: none;">
+        <a href="javascript:;" title="Заказ услуг по перевозке грузов на Газели" class="closer close">×</a>
+        <div class="heading"></div>
+        <p class="p2">СПАСИБО!</p>
+        <div class="red_button close">
+            <button type="submit">ок</button>
+        </div>
+    </div>
+    <!--services_sucess END-->
+    <!--tarif_popup_sucess-->
+    <div class="popup_block popup_sucess" id="tarif_popup_sucess" style="display: none;">
+        <a href="javascript:;" title="Заказать услуги грузоперевозок на Газели" class="closer close">×</a>
+        <div class="heading"></div>
+        <p class="p2">СПАСИБО!</p>
+        <div class="red_button close">
+            <button type="submit">ок</button>
+        </div>
+    </div>
+    <!--tarif_popup_sucess END-->
+    <!--order_popup_sucess-->
+    <div class="popup_block popup_sucess" id="order_popup_sucess" style="display: none;">
+        <a href="javascript:;" title="Заказать перевозку на Газели дешево" class="closer close">×</a>
+        <div class="heading">Заказать сейчас</div>
+        <p class="p2">СПАСИБО!</p>
+        <div class="red_button close">
+            <button type="submit">ок</button>
+        </div>
+    </div>
+    <!--order_popup_sucess END-->
+    <!--order_popup_sucess-->
+    <div class="popup_block popup_sucess" id="spec_sentence_sucess" style="display: none;">
+        <a href="javascript:;" title="Получить специальное предложение по грузоперевозкам на Газели" class="closer close">×</a>
+        <div class="heading">Получить специальное <br>
+            предложение
+        </div>
+        <p class="p2">СПАСИБО!</p>
+        <div class="red_button close">
+            <button type="submit">ок</button>
+        </div>
+    </div>
+    <!--order_popup_sucess END-->
+    <!--free_evaluation_sucess-->
+    <div class="popup_block popup_sucess" id="free_evaluation_sucess" style="display: none;">
+        <a href="javascript:;" title="Запись на бесплатную оценку перевозки грузов" class="closer close">×</a>
+        <div class="heading">Запись на бесплатную оценку</div>
+        <p class="p2">СПАСИБО!</p>
+        <p class="p3">Поднимите трубку!<br>
+            Мы Вам уже набираем</p>
+        <div class="red_button close">
+            <button type="submit">ок</button>
+        </div>
+    </div>
+    <!--free_evaluation_sucess END-->
+    <!--cupon_discount_sucess-->
+    <div class="popup_block popup_sucess" id="cupon_discount_sucess" style="display: none;">
+        <a href="javascript:;" title="Отправить купон на скидку для услуг по перевозкам" class="closer close">×</a>
+        <div class="heading">Купон отправлен</div>
+        <p class="p3">на указанный электронный ящик</p>
+        <div class="red_button close">
+            <button type="submit">ок</button>
+        </div>
+        <div class="tel_block">
+            <div class="txt">
+                активировать<br>
+                купон:
+            </div>
+            <a href="tel:+375445992967" class="tel" title="Скидочный купон на грузоперевозки на Газели">+375 (44) 599-29-67</a>
+            <div class="clear"></div>
+        </div>
+    </div>
+    <!--cupon_discount_sucess END-->
+    <!--loaders_work_sucess-->
+    <div class="popup_block popup_sucess" id="loaders_work_sucess" style="display: none;">
+        <a href="javascript:;" title="Заказ Газели с грузчиками" class="closer close">×</a>
+        <div class="heading">Заказ авто с<br> грузчиками</div>
+        <p class="p2">СПАСИБО!</p>
+        <p class="p3">Поднимите трубку!<br>
+            Мы Вам уже набираем</p>
+        <div class="red_button close">
+            <button type="submit">ок</button>
+        </div>
+    </div>
+    <!--loaders_work_sucess END-->
+
+    <!--order_popup_sucess-->
+    <div class="popup_block popup_sucess" id="order_gazel_sucess" style="display: none;">
+        <a href="javascript:;" title="Заказать авто для переезда по Минску" class="closer close">×</a>
+        <div class="heading">Заказать авто для<br> <span class="head_text"> переезда по Минску</span></div>
+        <p class="p2">СПАСИБО!</p>
+        <div class="red_button close">
+            <button type="submit">ок</button>
+        </div>
+    </div>
+<!--order_popup_sucess END-->
+   <!-- <ul id="new_menu">
+        <li><a href="#" title="Бизнесу">Бизнесу</a>
+            <ul>
+                <li class="kak_h3">Перевозим</li>
+                <li><a href="/переезд-офиса/" title="Переезд офиса">Офисы</a></li>
+                <li><a href="/перевозка-банка/" title="Перевозка банка">Банки</a></li>
+                <li><a href="/перевозка-архива/" title="Перевозка архива">Архивы</a></li>
+                <li><a href="/переезд-склада/" title="Переезд склада">Склады</a></li>
+                <li><a href="/перевозка-магазина/" title="Перевозка магазина">Магазины</a></li>
+                <li><a href="/переезд-предприятия/" title="Переезд предприятия">Предприятия</a></li>
+
+                <li><a href="/перевозка-аптеки-и-клиники/" title="Перевозка аптеки и клиники">Аптеки и клиники</a></li>
+                <li><a href="/перевозка-ресторана-и-кафе/" title="Перевозка ресторана и кафе">Рестораны и кафе</a></li>
+                <li><a href="/перевозка-библиотеки/" title="Перевозка библиотеки">Библиотеки</a></li>
+                <li><a href="/перевозка-гостиницы/" title="Перевозка гостиницы">Гостиницы</a></li>
+                <li><a href="/перевозка-детского-сада/" title="Перевозка детского сада">Детские сады</a></li>
+                <li><a href="/перевозка-рефрижераторами/" title="Перевозка рефрижераторами">Рефрижераторами</a></li>
+
+                <li><a href="/перевозка-автосервиса/" title="Перевозка автосервиса">Автосервисы</a></li>
+                <li><a href="/перевозка-салона-красоты/" title="Перевозка салона красоты">Салоны красоты</a></li>
+                <li><a href="/перевозка-ювелирного-салона/" title="Перевозка ювелирного салона">Ювелирные салоны</a>
+                </li>
+                <li><a href="/перевозка-станков/" title="Перевозка станков">Станки</a></li>
+                <li><a href="/перевозка-серверов/" title="Перевозка серверов">Серверы</a></li>
+                <li><a href="/перевозка-банкомата-и-терминала/" title="Перевозка банкомата и терминала">Банкоматы и</br>
+                        терминалы</a></li>
+                <li><a href="/перевозка-оргтехники/" title="Перевозка оргтехники">Оргтехнику</a></li>
+                <li><a href="/перевозка-выставочного-стенда/" title="Перевозка выставочного стенда">Выставочные
+                        стенды</a></li>
+                <li><a href="/перевозка-торгового-оборудования/" title="Перевозка торгового оборудования">Торговое
+                        оборудование</a></li>
+                <li><a href="/перевозка-светового-оборудования/" title="Перевозка светового оборудования">Световое
+                        оборудование</a></li>
+                <li><a href="/перевозка-полиграфического-оборудования/" title="Перевозка полиграфического оборудования">Полиграфическое </br>
+                        оборудование</a></li>
+            </ul>
+        </li>
+        <li><a href="#" title="Частным клиентам">Частным клиентам</a>
+            <ul>
+                <li class="kak_h3">Перевозки</li>
+                <li><a href="/перевозка-бытовой-техники/" title="Перевозка бытовой техники">Перевозка бытовой
+                        техники</a></li>
+                <li><a href="/перевозка-мебели/" title="Перевозка мебели">Перевозка мебели</a></li>
+                <li><a href="/перевозка-сейфов/" title="Перевозка сейфов">Перевозка сейфов</a></li>
+                <li><a href="/перевозка-пианино-и-рояля/" title="Перевозка пианино и рояля">Перевозка пианино и
+                        рояля</a></li>
+                <li><a href="/перевозка-стройматериалов/" title="Перевозка стройматериалов">Перевозка
+                        стройматериалов</a></li>
+                <li><a href="/перевозка-антиквариата/" title="Перевозка антиквариата">Перевозка антиквариата</a></li>
+                <li><a href="/перевозка-хрупких-грузов/" title="Перевозка хрупких грузов">Перевозка хрупких грузов</a>
+                </li>
+
+                <li><a href="/перевозка-шкафа/" title="Перевозка шкафа">Перевозка шкафа</a></li>
+                <li><a href="/перевозка-дивана/" title="Перевозка дивана">Перевозка дивана</a></li>
+                <li><a href="/перевозка-кровати/" title="Перевозка кровати">Перевозка кровати</a></li>
+                <li><a href="/перевозка-холодильника/" title="Перевозка холодильника">Перевозка холодильника</a></li>
+                <li><a href="/перевозка-стиральной-машины/" title="Перевозка стиральной машины">Перевозка стиральной
+                        машины</a></li>
+                <li><a href="/перевозка-стеллажей/" title="Перевозка стеллажей">Перевозка стеллажей</a></li>
+                <li><a href="/перевозка-саженцев/" title="Перевозка саженцев">Перевозка саженцев</a></li>
+                <li class="kak_h3">Услуги</li>
+                <li><a href="/заказ-газели/" title="Заказ Газели">Заказ Газели</a></li>
+                <li><a href="/машина-с-грузчиками/" title="Машина с грузчиками">Машина с грузчиками</a></li>
+                <li><a href="/транспортные-услуги/" title="Транспортные услуги">Транспортные услуги</a></li>
+                <li><a href="/грузовое-такси/" title="Грузовое такси">Грузовое такси</a></li>
+                <li><a href="/перевозка-грузов/" title="Перевозка грузов">Перевозка грузов</a></li>
+                <li><a href="/срочный-переезд/" title="Срочный переезд">Срочный переезд</a></li>
+                <li><a href="/переезд-квартиры/" title="Переезд квартиры">Переезд квартиры</a></li>
+                <li><a href="/переезд-на-дачу/" title="Переезд на дачу">Переезд на дачу</a></li>
+                <li><a href="/переезд-в-другой-город/" title="Переезд в другой город">Переезд в другой город</a></li>
+                <li><a href="/переезд-под-ключ/" title="Переезд под ключ">Переезд под ключ</a></li>
+                <li><a href="/перевозка-личных-вещей/" title="Перевозка личных вещей">Перевозка личных вещей</a></li>
+                <li><a href="/перевозка-мотоциклов/" title="Перевозка мотоциклов">Перевозка мотоциклов</a></li>
+            </ul>
+        </li>
+    </ul>-->
+</noindex>
+
+	<div class="fixed-bottom visible-xs"> 	
+		<div class="container"> 
+			<div class="phone"> 
+				<i class="icofont-ui-touch-phone"></i>
+				<a class="short-numb" href="tel:+375445992967">+375 (44) 599-29-67</a>
+			</div> 
+		</div>
+	</div>
+				<a class="viber-ico fa-4x" rel="noopener noreferrer nofollow" href="viber://chat?number=%2B375445669931"></a>
+	
+	
+<link rel="stylesheet" type="text/css" href="owl-carousel/owl.carousel.css"><style class="darkreader darkreader--sync" media="screen"></style>
+<script src="js/jquery-1.9.0.js" type="text/javascript"></script>
+<script src="js/plugins.js" type="text/javascript"></script>
+<script src="owl-carousel/owl.carousel.min.js" type="text/javascript"></script>
+<script src="//api-maps.yandex.ru/2.0/?load=package.full&amp;lang=ru-RU" type="text/javascript"></script>
+<script src="js/geolocation-button.js" type="text/javascript"></script>
+<script type="text/javascript" src="js/jquery.slicknav.min.js" charset="UTF-8"></script>
+<script src="https://code.jquery.com/ui/1.9.1/jquery-ui.min.js"></script>
+<script src="js/script3.js" type="text/javascript"></script>
+<!--<script src="js/show.js"></script>-->
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();
+   for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+   k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(98423970, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/98423970" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+<!-- Google tag (gtag.js) -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-PQERB0V16N"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-PQERB0V16N');
+</script>
+
+<div id="cuselBox" style="display: none;"></div>
+
+
+
+Только сегодня акция -5% на заказ перевозки на завтра!
+Грузоперевозки в Минске
++375 (44) 599-29-67
+круглосуточно
+
+    Услуги Цены Автопарк Калькулятор 
+
+Грузоперевозки В МИНСКЕ И ОБЛАСТИ ПО НИЗКОЙ ЦЕНЕ
+
+Закажите грузоперевозки на 10-15% дешевле, чем в среднем по городу.
+
+СКИДКА 10%
+КВАРТИРНЫЙ ПЕРЕЕЗД
+заказать сейчас
+
+Ищете надежные грузоперевозки в Минске и области? Мы принимаем срочные и предварительные заявки на перевозки по Минску, включая квартирные и офисные переезды, а также вывоз диванов. Наши услуги охватывают перевозку любых грузов с профессиональными грузчиками, а также разборку и сборку мебели, а также предоставление упаковочных материалов для безопасной транспортировки.
+Почему выбирают именно нас? Мы предлагаем грузоперевозки по ценам на 10-15% ниже средних по Минску, что делает наши услуги особенно выгодными. Наши опытные операторы помогут подобрать оптимальный тариф, учитывая тип груза, район доставки и ваши индивидуальные пожелания. Автомобильные грузоперевозки доступны круглосуточно и в любую погоду, что обеспечивает гибкость и надежность сервиса.
+Если вам нужна недорогая автоперевозка из Минска, стоимость рассчитывается прямо на нашем сайте. Используйте наши тарифы для быстрого и точного определения стоимости грузоперевозки и планируйте переезд без лишних хлопот.
+грузоперевозки рассрочка
+
+Нас рекомендуют 97% клиентов
+
+Нам не приходится тратить огромные суммы на рекламу, ведь абсолютное большинство из тех, кто заказал у нас грузоперевозки по Минску, становятся нашими постоянными клиентами. Более 97% заказчиков готовы рекомендовать наши услуги родным, друзьям и коллегам. Чтобы отблагодарить постоянных клиентов, мы выполняем для них грузоперевозки по специальным сниженным тарифам.
+
+    от 20
+
+    рублей - стоимость на 1 час
+
+    (грузоперевозки до 15% дешевле, чем в других ТК в МИНСКЕ)
+
+    24
+
+    часа в сутки
+
+    (перевезем ваш груз в любое время суток)
+
+    105
+
+    собственных грузовиков
+
+    (быстро перевезем груз любого веса и объема)
+
+    9
+
+    лет успешной работы
+
+    (на рынке Минска и области)
+
+Заказать
+
+ГРУЗОВИК
+
+прямо сейчас:
+
+    Для переезда по городу
+    Для доставки товаров
+    Для грузоперевозки в область
+    Для перевозки мебели
+    Для прочих перевозок
+
+* Перезвоним через 3 минуты
+
+Ваше имя:
+
+Номер телефона:
+
+Авто с грузчиками
+отправить
+Самые низкие цены в МИНСКЕ
+
+Перевозим все и всех! Вот уже более 15 лет мы безупречно оказываем транспортные услуги грузоперевозок для переезда частных клиентов. Также мы готовы предложить свои услуги и для бизнеса. Грузовой переезд с нашей компанией – это услуга, в которую все включено, а именно: транспорт для переезда, погрузка и перевозка груза, транспортировка грузов, подъем на этаж.
+
+Получить специальное предложение
+
+для корпоративных клиентов
+
++375 (44) 599-29-67
+
+для юридических лиц
+
+
+Если вам нужна помощь в срочной транспортировке одного или нескольких габаритных предметов, смело обращайтесь в нашу компанию. Для мелких перевозок у нас предусмотрен компактный транспорт и выгодные тарифы. Мы делаем переезд проще! Заказ грузоперевозки можно оформить онлайн. Хотите сделать заказ грузовой машины для переезда с грузчиками, но не знаете, сколько это будет стоить? Наш сайт поможет рассчитать стоимость грузоперевозки онлайн - заполните форму и получите результат в 1 клик.
+Мини
+Мини+
+Легко
+Легко+
+Просто
+Просто+
+Максимум
+Максимум+
+Тариф "Мини"
+самый популярный
+
+    Время
+    min - 2 час
+    Грузчики
+    Без грузчика
+    Стоимость
+    20 руб
+    Доп. час
+    35 руб
+
+Авто до 10 куб
+заказать
+Тариф "Мини+"
+
+    Время
+    min - 2 часа
+    Грузчики
+    1 грузчик
+    Стоимость
+    60 руб
+    Доп. час
+    30 руб
+
+Авто до 10 куб
+заказать
+Тариф "Легко"
+
+    Время
+    min - 2 часа
+    Грузчики
+    1 человек
+    Стоимость
+    65 руб
+    Доп. час
+    20 руб
+
+Авто до 15 куб
+заказать
+Тариф "Легко+"
+
+    Время
+    min - 2 часа
+    Грузчики
+    2 человека
+    Стоимость
+    75 руб
+    Доп. час
+    40 руб
+
+Авто до 15 куб
+заказать
+Тариф "Просто"
+
+    Время
+    min - 2 часа
+    Грузчики
+    1 человек
+    Стоимость
+    70 руб
+    Доп. час
+    40 руб
+
+Авто до 20 куб
+заказать
+Тариф "Просто+"
+
+    Время
+    min - 2 часа
+    Грузчики
+    2 человека
+    Стоимость
+    85 руб
+    Доп. час
+    45 руб
+
+Авто до 20 куб
+заказать
+Тариф "Максимум"
+
+    Время
+    min - 4 часа
+    Грузчики
+    2 человека
+    Стоимость
+    240 руб
+    Доп. час
+    60 руб
+
+Авто до 20 куб
+заказать
+Тариф "Максимум+"
+
+    Время
+    min - 4 часа
+    Грузчики
+    4 человека
+    Стоимость
+    320 руб
+    Доп. час
+    80 руб
+
+Авто до 20 куб
+заказать
+Почему перевозки у нас стоят дешевле
+
+У нас собственные автопарк!
+
+Оставьте заявку на перевозки или узнайте тарифы на грузоперевозки на нашем сайте: вы убедитесь, что у нас в среднем на 10-15% дешевле, чем у большинства конкурентов в регионе. Главные причины – это использование исключительно собственного автопарка, грамотное распределение заказов для сокращения расходов, отсутствие лишнего и ненужного персонала в штате.
+
+В автопарке всегда есть свободные машины. Подадим машину через 15 МИНУТ после оформления заказа.
+УСЛУГИ ГРУЗОПЕРЕВОЗОК В МИНСКЕ:
+
+    грузоперевозки в Минске Грузоперевозки
+    Минск грузоперевозки Минск Квартирный
+    переезд Грузоперевозки мебели в Минске Грузоперевозки
+    мебели грузоперевозки в рассрочку Дачного
+    переезда Перевозка вещей в Минске Грузоперевозки
+    вещей Офисный переезд Минск Офисный
+    переезд Перевозки оборудования Минск Перевозка
+    торгового оборудования Грузоперевозки склада Грузоперевозки
+    склада Грузоперевозки фото Грузоперевозки
+    банка Грузоперевозки низкие цены Грузоперевозки
+    выставочных стендов 
+
+Дополнительные услуги:
+
+    Услуги грузчиков в Минске услуги
+    грузчиков Такелажные работы в Минске такелажные
+    работы Сборка и разборка мебели в Минске сборка/разборка
+    мебели Коробки для переезда в Минске упаковка для
+    переезда Аренда спецтехники в Минске аренда
+    спецтехники 
+
+Постоянные Скидки
+
+Предоставим дополнительную скидку 10% на услуги грузоперевозок по Минску.
+Грузоперевозки дивана
+
+Мы уверены, что наши предложения станут отличным подарком для вас!
+
+- СКИДКА ПЕНСИОНЕРАМ
+
+- СКИДКА НОВОСЕЛАМ
+
+- СКИДКА ВЕТЕРАНАМ
+
+Номер телефона:
+
+получить скидку
+подробности
+по телефону:
++375 (44) 599-29-67
+
+В нашем автопарке 110 машин
+
+    1 тонна 1,5 тонны 3 тонны 5 тонн 7 тонн 20 тонн 
+
+грузоперевозки услуги
+7 м3
+1,75 м
+1,8 м
+1,8 м
+
+АВТО ДО 10 куб
+
+от 20 руб./час
+
+Минимальное время в пределах Минска:
+    1 ч 
+Километраж за пределами МКАДа:
+    0.70 руб./км
+Безналичный расчет:
+    25 руб./час 
+Оплата минимум за:
+    3 часа
+
+Заказать +375 (44) 599-29-67
+
+! Можно заказать на сегодня - 12 октября 2026 г.
+Грузоперевозки с грузчиками – это удобно и недорого
+
+Профессиональные опытные грузчики грамотно упакуют ваши вещи перед перевозкой, аккуратно загрузят в авто, закрепят в кузове для безопасной транспортировки. У нас – самые недорогие услуги грузчиков и аренды авто в Минске и области: оставьте заявку на перевозку, и вы убедитесь в этом сами!
+
+    Перевезти холодильник
+
+    Наши грузчики
+    умеют обращаться
+    с хрупкими предметами
+
+    Перевезти диван
+
+    Рабочие в чистой униформе,
+    вежливые
+    и ответственные
+
+    Перевезти вещи Минск
+
+    Приезжаем на заказ с инструментами и упаковкой
+
+УЗНАТЬ СТОИМОСТЬ
+
+Ваше имя:
+
+Номер телефона:
+
+подробности
+по телефону:
++375 (44) 599-29-67
+Отправить
+
+* Перезвоним сразу же!
+ФОТО ВЫПОЛНЕННЫХ ГРУЗОПЕРЕВОЗОК В МИНСКЕ
+
+
+вывоз мусора дешево
+грузоперевозки квартира
+грузоперевозки Дивана
+
+грузоперевозки вещей
+вывоз мусора цены
+грузоперевозки делла
+
+грузоперевозки по Беларуси
+грузоперевозки 20 тонн
+грузчики дешево
+Дешевле
+не бывает!
+
+Перевезти:
+Диван или холодильник, или шкаф и т.д.
+
+от 50 руб.
+
+    2 часа работы
+    + грузчики
+
+Рассчитайте стоимость перевозки
+Откуда:
+
+Выбрать автомобиль:
+
+    1 тонна 1,5 тонны 3 тонны 5 тонн 7 тонн 20 тонн 
+
+грузоперевозки заказать
+
+Авто до 10 куб
+
+7 м3 до 1 тонны
+длина 1,8 м
+высота 1,75 м
+ширина 1,8 м
+Куда:
+
+Количество грузчиков:
+Срок аренды:
+час
+Рассчитать
+Часто задаваемые вопросы по грузоперевозкам
+
+Переезжаем? Легко, недорого и без стресса! Вот уже более 17 лет мы отвечаем за грузовые перевозки в Минске и по всей Минской области. Доставим в срок из точки А в точку Б и целую квартиру, и пианино, и склад. Если вам нужна перевозка грузов по Минску и области, мы это сделаем безупречно. Осуществляем грузоперевозки по городу недорого, с гарантией четкого соблюдения сроков и полной сохранности ваших вещей. Интересуют грузовые перевозки? Будем рады помочь. Закажите машину прямо сейчас!
+
+Сколько стоит перевозка мебели в Минске?
+
+Можно ли заказать грузчиков для переезда в Минске?
+
+Какая машина лучше для перевозки мебели – газель или грузовик?
+
+Вы перевозите мебель только по Минску или и в область?
+
+Как проходит квартирный переезд в Минске?
+
+Можно ли заказать офисный переезд в Минске?
+
+Гарантируете ли вы сохранность мебели при перевозке?
+
+Почему заказывать недорогие грузоперевозки по Минску стоит у нас?
+
+Как узнать стоимость и заказать грузоперевозку в Минске?
+
+Можно ли организовать перевозку на выходные или ночью?
+
+Могу ли я изменить дату или время заказа грузоперевозки?
+
+Грузоперевозки Минск
+
++375 (44) 599-29-67
+
+Звоните круглосуточно! Мы работаем каждый день.
+
+Адрес офиса: г. Минск, ул. Толстого д. 10
+
+    Офисный переезд
+    Перевозка мебели
+    Квартирный переезд
+    Дачный переезд
+    Грузовое такси
+
+    Заказ грузоперевозки
+    Перевозка грузов
+    Транспортные услуги
+    Машина с грузчиками
+    Грузоперевозки
+
+2008 - 2026 © Copyright УНП 691180627 Грузоперевозки в Минске. Все права защищены.
+Информация на данном интернет-сайте носит исключительно ознакомительный характер и ни при каких условиях не является публичной офертой.
+Все материалы сайта защищены законом Республики Беларусь от 17 мая 2011 года №262-З "Об авторском праве и смежных правах" Копирование и распространение материалов без согласия владельцев сайта запрещено.
+ДЕШЕВЛЕ
+НЕ БЫВАЕТ %
+
+ХОТИТЕ
+ОЦЕНКУ
+СЕГОДНЯ?
+
+осталось 
+мест: 7

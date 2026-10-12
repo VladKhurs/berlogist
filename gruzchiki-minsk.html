@@ -52,12 +52,26 @@
         "priceRange": "от 95 BYN",
         "address": {
             "@type": "PostalAddress",
-            "streetAddress": "ул. Вокзальная, д. 3, оф. 3",
-            "addressLocality": "Слуцк",
+            "addressLocality": "Минск",
             "addressRegion": "Минская область",
-            "postalCode": "223607",
             "addressCountry": "BY"
-        }
+        },
+        "contactPoint": [
+            {
+                "@type": "ContactPoint",
+                "telephone": "+375-33-321-78-88",
+                "contactType": "customer service",
+                "areaServed": "BY",
+                "availableLanguage": "Russian"
+            },
+            {
+                "@type": "ContactPoint",
+                "telephone": "+375-25-639-64-79",
+                "contactType": "customer service",
+                "areaServed": "BY",
+                "availableLanguage": "Russian"
+            }
+        ],
         },
       "areaServed": [
         { "@type": "City", "name": "Минск" },
@@ -81,10 +95,10 @@
         {"@type":"Question","name":"Выезжают ли грузчики в Минский район и промзоны?","acceptedAnswer":{"@type":"Answer","text":"Да, мы оперативно выезжаем на склады, производственные базы и в коттеджные поселки по всему Минскому району (Колядичи, Шабаны, Фаниполь, Боровляны и др.)."}},
         {
         "@type": "Question",
-        "name": "Какие задачи выполняют грузчики и на какой срок их можно заказать?",
+        "name": "Несете ли вы ответственность за сохранность вещей при подъеме?",
         "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Услуги крепких и аккуратных грузчиков в Минске и Минском районе: заказ от 1 часа или на рабочую смену. Ручной подъем стройматериалов на этаж без лифта, перенос тяжелой мебели, пианино и сейфов с такелажными ремнями. Разгрузка фур, контейнеров и бусов на складах. Работаем с физлицами и юрлицами по договору по безналичному расчету с закрывающими актами."
+            "text": "Да, мы несем материальную ответственность за сохранность вашего имущества. Перед транспортировкой груз осматривается, при необходимости упаковывается, а тяжелые и негабаритные предметы переносятся с использованием профессиональных такелажных ремней."
         }
         }
       ]
@@ -1717,12 +1731,13 @@
                 <svg class="bear" aria-hidden="true"><use href="#bear" /></svg>
                 <span class="logo__text">БЕРЛОГИСТ</span>
             </a>
-            <nav class="nav" aria-label="Основная навигация">
-                <a href="index.html">Все услуги</a>
-                <a href="#services" class="active">Услуги грузчиков</a>
-                <a href="#why">Преимущества</a>
-                <a href="#faq">Вопросы</a>
-                <a href="#contacts">Контакты</a>
+            <nav class="nav" itemscope itemtype="http://schema.org/SiteNavigationElement" aria-label="Основная навигация">
+                <a itemprop="url" href="https://berlogist.by/"><span itemprop="name">Главная</span></a>
+                <a itemprop="url" href="https://berlogist.by/gruzchiki-minsk.html" class="active"><span itemprop="name">Грузчики</span></a>
+                <a itemprop="url" href="https://berlogist.by/kvartirnyj-pereezd-minsk.html"><span itemprop="name">Квартирный переезд</span></a>
+                <a itemprop="url" href="https://berlogist.by/gruzovoe-taksi-minsk.html"><span itemprop="name">Грузовое такси</span></a>
+                <a itemprop="url" href="https://berlogist.by/vyvoz-musora-minsk.html"><span itemprop="name">Вывоз мусора</span></a>
+                <a itemprop="url" href="https://berlogist.by/ofisnyj-pereezd-minsk.html"><span itemprop="name">Офисный переезд</span></a>
             </nav>
             <div class="header__cta">
                 <div class="header__phones">
@@ -1988,22 +2003,14 @@
                         <h3 class="acc__h">
                             <button class="acc__head" aria-expanded="false">
                                 <span class="acc__num">05</span>
-                                <span class="acc__title">Какие задачи выполняют грузчики и на какой срок их можно заказать?</span>
+                                <span class="acc__title">Несете ли вы ответственность за сохранность вещей при подъеме?</span>
                                 <span class="acc__icon"><svg class="ic"><use href="#i-plus" /></svg></span>
                             </button>
                         </h3>
                         <div class="acc__body">
                             <div class="acc__inner">
                                 <div class="acc__content">
-                                    <p>Наши штатные грузчики в Минске и Минском районе решают широкий спектр задач любой сложности:</p>
-                                    <ul style="list-style: disc; margin-left: 20px; color: var(--muted); margin-bottom: 12px; font-size: 15px; line-height: 1.6;">
-                                        <li><strong>Почасовая аренда:</strong> заказ бригады от 1 часа на небольшие задачи или на полную рабочую смену (8–12 часов).</li>
-                                        <li><strong>Подъем стройматериалов:</strong> оперативно заносим мешки со смесями, плитку, гипсокартон и профиль по лестнице на любой этаж без лифта.</li>
-                                        <li><strong>Такелажные работы:</strong> безопасный перенос тяжелых предметов (пианино, рояли, массивные сейфы, медицинское и торговое оборудование) со спецремнями.</li>
-                                        <li><strong>Разгрузка транспорта:</strong> быстрая выгрузка фур 20 тонн, контейнеров и бусов на складах, производствах и строительных объектах.</li>
-                                        <li><strong>Разнорабочие на склад:</strong> помощь при инвентаризации, фасовке, перемещении стеллажей и расстановке продукции.</li>
-                                        <li><strong>Оплата и документы:</strong> работаем с частными клиентами и организациями по официальному договору по безналичному расчету с выдачей закрывающих актов.</li>
-                                    </ul>
+                                    <p>Да, несем полную материальную ответственность. Перед началом подъема или переноса хрупкие и ценные предметы осматриваются, при необходимости упаковываются в стретч- или воздушно-пузырьковую пленку. При работе со сложными грузами (тяжелая мебель, пианино, техника) грузчики используют такелажные ремни, что исключает падение или повреждение дверных проемов и стен.</p>
                                 </div>
                             </div>
                         </div>

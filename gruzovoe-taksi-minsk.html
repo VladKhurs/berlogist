@@ -52,12 +52,26 @@
         "priceRange": "от 95 BYN",
         "address": {
             "@type": "PostalAddress",
-            "streetAddress": "ул. Вокзальная, д. 3, оф. 3",
-            "addressLocality": "Слуцк",
+            "addressLocality": "Минск",
             "addressRegion": "Минская область",
-            "postalCode": "223607",
             "addressCountry": "BY"
-        }
+        },
+        "contactPoint": [
+            {
+                "@type": "ContactPoint",
+                "telephone": "+375-33-321-78-88",
+                "contactType": "customer service",
+                "areaServed": "BY",
+                "availableLanguage": "Russian"
+            },
+            {
+                "@type": "ContactPoint",
+                "telephone": "+375-25-639-64-79",
+                "contactType": "customer service",
+                "areaServed": "BY",
+                "availableLanguage": "Russian"
+            }
+        ],
         },
       "areaServed": [
         { "@type": "City", "name": "Минск" },
@@ -81,13 +95,13 @@
         {"@type":"Question","name":"Можно ли поехать пассажиром вместе с вещами?","acceptedAnswer":{"@type":"Answer","text":"Да, во всех наших автомобилях в кабине рядом с водителем предусмотрено от 1 до 2 свободных пассажирских мест для сопровождающих груз."}},
         {"@type":"Question","name":"Поместится ли высокий холодильник стоя?","acceptedAnswer":{"@type":"Answer","text":"Да. Высота кузова наших грузовых микроавтобусов и Газелей составляет от 1.9 до 2.2 метра, что позволяет перевозить любые бытовые холодильники строго в вертикальном положении с креплением стяжными ремнями."}},
         {
-  "@type": "Question",
-  "name": "Какой транспорт доступен для грузового такси и что можно перевезти?",
-  "acceptedAnswer": {
-    "@type": "Answer",
-    "text": "Заказ грузового такси в Минске, Минском районе и по Беларуси: аренда бусов, микроавтобусов, Газелей 3м и 4.2м, фургонов до 5 тонн с гидробортом. Быстрая перевозка диванов, мебели, техники, холодильников стоя, стройматериалов и личных вещей. Доставка для интернет-магазинов и коммерческих компаний. Прямые междугородние рейсы по всей Беларуси. Фиксированная стоимость рассчитывается до выезда машины."
-  }
-}
+        "@type": "Question",
+        "name": "Что делать, если машина задерживается из-за пробок?",
+        "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Время подачи машины составляет 30–45 минут. Оплата и время аренды грузового такси начинаются строго с момента фактического прибытия автомобиля на адрес погрузки, время на дорогу до вас клиентом не оплачивается."
+        }
+        }
       ]
     }
   ]
@@ -1718,12 +1732,13 @@
                 <svg class="bear" aria-hidden="true"><use href="#bear" /></svg>
                 <span class="logo__text">БЕРЛОГИСТ</span>
             </a>
-            <nav class="nav" aria-label="Основная навигация">
-                <a href="index.html">Все услуги</a>
-                <a href="#services" class="active">Автопарк</a>
-                <a href="#why">Почему мы</a>
-                <a href="#faq">Вопросы</a>
-                <a href="#contacts">Контакты</a>
+            <nav class="nav" itemscope itemtype="http://schema.org/SiteNavigationElement" aria-label="Основная навигация">
+                <a itemprop="url" href="https://berlogist.by/"><span itemprop="name">Главная</span></a>
+                <a itemprop="url" href="https://berlogist.by/gruzchiki-minsk.html"><span itemprop="name">Грузчики</span></a>
+                <a itemprop="url" href="https://berlogist.by/kvartirnyj-pereezd-minsk.html"><span itemprop="name">Квартирный переезд</span></a>
+                <a itemprop="url" href="https://berlogist.by/gruzovoe-taksi-minsk.html" class="active"><span itemprop="name">Грузовое такси</span></a>
+                <a itemprop="url" href="https://berlogist.by/vyvoz-musora-minsk.html"><span itemprop="name">Вывоз мусора</span></a>
+                <a itemprop="url" href="https://berlogist.by/ofisnyj-pereezd-minsk.html"><span itemprop="name">Офисный переезд</span></a>
             </nav>
             <div class="header__cta">
                 <div class="header__phones">
@@ -1989,22 +2004,14 @@
                         <h3 class="acc__h">
                             <button class="acc__head" aria-expanded="false">
                                 <span class="acc__num">05</span>
-                                <span class="acc__title">Какой транспорт доступен для грузового такси и что можно перевезти?</span>
+                                <span class="acc__title">Что делать, если машина задерживается из-за пробок?</span>
                                 <span class="acc__icon"><svg class="ic"><use href="#i-plus" /></svg></span>
                             </button>
                         </h3>
                         <div class="acc__body">
                             <div class="acc__inner">
                                 <div class="acc__content">
-                                    <p>Наш автопарк грузового такси в Минске, Минском районе и по Беларуси укомплектован под любые задачи:</p>
-                                    <ul style="list-style: disc; margin-left: 20px; color: var(--muted); margin-bottom: 12px; font-size: 15px; line-height: 1.6;">
-                                        <li><strong>Выбор машин под объем:</strong> маневренные микроавтобусы и бусы (до 1.5 т), стандартные и удлиненные Газели 3м и 4.2м (до 2.5 т), а также фургоны до 5 тонн с гидробортом.</li>
-                                        <li><strong>Мебель и бытовая техника:</strong> быстрая перевозка диванов, гарнитуров, стиральных машин и высоких холодильников строго в вертикальном положении с фиксацией ремнями.</li>
-                                        <li><strong>Стройматериалы и личные вещи:</strong> оперативная доставка покупок из строительных гипермаркетов, перевозка вещей на дачу или в гараж.</li>
-                                        <li><strong>Для интернет-магазинов и B2B:</strong> доставка заказов клиентам, перевозка партий товаров, станков и паллет с погрузкой рохлей через гидролифт.</li>
-                                        <li><strong>Междугородние рейсы по всей Беларуси:</strong> прямая доставка «от двери до двери» во все областные центры и райцентры РБ без перегрузок в пути.</li>
-                                        <li><strong>Честный тариф:</strong> фиксированная стоимость поездки рассчитывается до выезда автомобиля и не увеличивается из-за светофоров и городских пробок.</li>
-                                    </ul>
+                                    <p>Наши водители распределены по разным районам Минска, поэтому время подачи обычно составляет от 30 до 45 минут. Если в часы пик возникают дорожные заторы, диспетчер предупреждает вас заранее и направляет ближайший свободный автомобиль. Время аренды начинает отсчитываться строго с момента фактического прибытия машины к вашему подъезду, а не с момента выезда со стоянки.</p>
                                 </div>
                             </div>
                         </div>

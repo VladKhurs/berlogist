@@ -1,0 +1,756 @@
+
+    <!-- Google Tag Manager (noscript)
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MW8FLZV3"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+End Google Tag Manager (noscript) -->
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K3PB2FRK"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+    <header>
+        <div class="header__top">
+            <div class="container">
+               <div class="header">
+                   <div class="header__item">                   
+                       <div class="header__item-logo">
+                            <img class="header__logo" src="/assets/img/icons/GruzMan.svg" alt="GruzMan">
+                        </div>
+                       <div class="header__item-text">услуги грузчиков и демонтажа</div>
+                   </div>
+                   <div class="header__item">
+                       <div class="social">
+                            <ul class="social__list">
+                               <li class="social__list-item"><a href="https://t.me/gruzmans" target="_blank"><span class="icon icon_tg"></span></a></li>
+                               <li class="social__list-item"><a href="viber://chat?number=+375445663566" target="_blank"><span class="icon icon_vb"></span></a></li>
+<!--                                <li class="social__list-item"><a href="https://www.instagram.com/gruzman.by/" target="_blank"><span class="icon icon_inst"></span></a></li> -->
+                               <li class="social__list-item"><a href="https://api.whatsapp.com/send/?phone=375445663566" target="_blank"><span class="icon icon_whatsapp"></span></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="header__bottom">
+            <div class="container header">
+                <div class="header__item">
+                    <span class="icon icon_open header__icon-burger" id="burgerOpen"></span>
+                    <nav class="header__nav" id="burgerMenu">
+                        <ul class="menu__body "><li class="menu__body-item first level1">
+                                                        <a class="menu__body-item-link" href="uslugi/">Услуги                                                         <div class="arrow-4 arrow-mobile">
+                                                            <span class="arrow-4-left"></span>
+                                                            <span class="arrow-4-right"></span>
+                                                        </div> </a>
+                                                        <div class="arrow-4 arrow-pc">
+                                                            <span class="arrow-4-left"></span>
+                                                            <span class="arrow-4-right"></span>
+                                                        </div><ul class="submenu "><li class="submenu__item first level2"><a class="submenu__item-link" href="uslugi/demontazhnyie-rabotyi/">Демонтажные работы</a></li><li class="submenu__item level2"><a class="submenu__item-link" href="uslugi/takelazhnyie-rabotyi/">Такелажные работы</a></li><li class="submenu__item level2"><a class="submenu__item-link" href="uslugi/pogruzo-razgruzochnyie-rabotyi/">Погрузо-разгрузочные работы</a></li><li class="submenu__item last level2"><a class="submenu__item-link" href="uslugi/pereezdyi/">Переезды</a></li></ul>
+                                                    </li><li class="menu__body-item level1"><a class="menu__body-item-link" href="czenyi/">Цены</a></li><li class="menu__body-item last level1"><a class="menu__body-item-link" href="kontaktyi/">Контакты</a></li></ul>
+                   </nav>
+               </div>
+               <div class="phone">
+                   <div class="phone__item"><a href="tel:+375445663566"><img src="assets/img/icons/phone-header.svg" alt=""></a></div>
+                   <div class="phone__item">
+                       <a href="tel:+375445663566">+375 (44) 566-3-566</a>
+                       <div class="work-time">Пн-Вс: 09:00 - 21:00</div>
+                   </div>
+                   
+               </div>
+            </div>
+        </div>
+    <script type="application/ld+json">
+{
+"@context": "https://schema.org",
+"@type": "WPHeader",
+"headline": "Грузчики в Минске | Заказать услуги перевозки на час",
+"description": "Услуги грузчиков на час в Минске ✓ Заказать переезд (перевозку) ✓ Качественное оборудование ✓ Оптимальные цены ☎ +375-44-566-35-66"
+}
+</script>
+
+    </header>
+    <section class="section heading-main">
+    <div class="slider single-item slick-initialized slick-slider slick-dotted"><button class="slick-prev slick-arrow" aria-label="Previous" type="button" style="">Previous</button>
+         <div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 8162px; transform: translate3d(-1166px, 0px, 0px);"><div class="slider__item slick-slide slick-cloned" data-slick-index="-1" id="" aria-hidden="true" style="width: 1166px;" tabindex="-1">
+     <div class="slider-img" style="background-image:url('/assets/img/services/pogruz-razgruz/gm-img-baner-pogruzo-razgruzochnye-raboty-2.webp')"></div>
+    <div class="container">
+        <div class="slider-content">
+            <div class="title">Погрузо-разгрузочные работы</div>
+            <div class="text"></div>
+            <div class="btn"><a class="modal" href="" tabindex="-1">Заказать услугу</a><a class="custom-btn" href="czenyi/" tabindex="-1">Наши цены</a></div>
+        </div>
+    </div>
+</div><div class="slider__item slick-slide slick-current slick-active" data-slick-index="0" aria-hidden="false" style="width: 1166px;" tabindex="0" role="tabpanel" id="slick-slide00" aria-describedby="slick-slide-control00">
+     <div class="slider-img" style="background-image:url('/assets/img/services/gm-img-baner-demontazh-4.webp')"></div>
+    <div class="container">
+        <div class="slider-content">
+            <div class="title">Демонтажные работы </div>
+            <div class="text"></div>
+            <div class="btn"><a class="modal" href="" tabindex="0">Заказать услугу</a><a class="custom-btn" href="czenyi/" tabindex="0">Наши цены</a></div>
+        </div>
+    </div>
+</div><div class="slider__item slick-slide" data-slick-index="1" aria-hidden="true" style="width: 1166px;" tabindex="-1" role="tabpanel" id="slick-slide01" aria-describedby="slick-slide-control01">
+     <div class="slider-img" style="background-image:url('/assets/img/services/gm-img-baner-takelazh-3.webp')"></div>
+    <div class="container">
+        <div class="slider-content">
+            <div class="title">Такелажные работы</div>
+            <div class="text"><p>Наша компания предлагает такелажные работы для перевозки различных предметов и оборудования</p></div>
+            <div class="btn"><a class="modal" href="" tabindex="-1">Заказать услугу</a><a class="custom-btn" href="czenyi/" tabindex="-1">Наши цены</a></div>
+        </div>
+    </div>
+</div><div class="slider__item slick-slide" data-slick-index="2" aria-hidden="true" style="width: 1166px;" tabindex="-1" role="tabpanel" id="slick-slide02" aria-describedby="slick-slide-control02">
+     <div class="slider-img" style="background-image:url('/assets/img/services/pogruz-razgruz/gm-img-baner-pogruzo-razgruzochnye-raboty-2.webp')"></div>
+    <div class="container">
+        <div class="slider-content">
+            <div class="title">Погрузо-разгрузочные работы</div>
+            <div class="text"></div>
+            <div class="btn"><a class="modal" href="" tabindex="-1">Заказать услугу</a><a class="custom-btn" href="czenyi/" tabindex="-1">Наши цены</a></div>
+        </div>
+    </div>
+</div><div class="slider__item slick-slide slick-cloned" data-slick-index="3" id="" aria-hidden="true" style="width: 1166px;" tabindex="-1">
+     <div class="slider-img" style="background-image:url('/assets/img/services/gm-img-baner-demontazh-4.webp')"></div>
+    <div class="container">
+        <div class="slider-content">
+            <div class="title">Демонтажные работы </div>
+            <div class="text"></div>
+            <div class="btn"><a class="modal" href="" tabindex="-1">Заказать услугу</a><a class="custom-btn" href="czenyi/" tabindex="-1">Наши цены</a></div>
+        </div>
+    </div>
+</div><div class="slider__item slick-slide slick-cloned" data-slick-index="4" id="" aria-hidden="true" style="width: 1166px;" tabindex="-1">
+     <div class="slider-img" style="background-image:url('/assets/img/services/gm-img-baner-takelazh-3.webp')"></div>
+    <div class="container">
+        <div class="slider-content">
+            <div class="title">Такелажные работы</div>
+            <div class="text"><p>Наша компания предлагает такелажные работы для перевозки различных предметов и оборудования</p></div>
+            <div class="btn"><a class="modal" href="" tabindex="-1">Заказать услугу</a><a class="custom-btn" href="czenyi/" tabindex="-1">Наши цены</a></div>
+        </div>
+    </div>
+</div><div class="slider__item slick-slide slick-cloned" data-slick-index="5" id="" aria-hidden="true" style="width: 1166px;" tabindex="-1">
+     <div class="slider-img" style="background-image:url('/assets/img/services/pogruz-razgruz/gm-img-baner-pogruzo-razgruzochnye-raboty-2.webp')"></div>
+    <div class="container">
+        <div class="slider-content">
+            <div class="title">Погрузо-разгрузочные работы</div>
+            <div class="text"></div>
+            <div class="btn"><a class="modal" href="" tabindex="-1">Заказать услугу</a><a class="custom-btn" href="czenyi/" tabindex="-1">Наши цены</a></div>
+        </div>
+    </div>
+</div></div></div>  
+    <button class="slick-next slick-arrow" aria-label="Next" type="button" style="">Next</button><ul class="slick-dots" style="" role="tablist"><li class="slick-active" role="presentation"><button type="button" role="tab" id="slick-slide-control00" aria-controls="slick-slide00" aria-label="1 of 3" tabindex="0" aria-selected="true">1</button></li><li role="presentation"><button type="button" role="tab" id="slick-slide-control01" aria-controls="slick-slide01" aria-label="2 of 3" tabindex="-1">2</button></li><li role="presentation"><button type="button" role="tab" id="slick-slide-control02" aria-controls="slick-slide02" aria-label="3 of 3" tabindex="-1">3</button></li></ul></div>
+</section>
+    <section class="section">
+    <div class="container">
+        <div class="h2">Услуги</div>
+        <div class="services-main services-list">
+            <div class="services-main__item">
+    <a class="absolute-link" href="/uslugi/takelazhnyie-rabotyi/"></a>
+    <div class="services-main__item-img"><img src="assets/img/services/gm-services-takelazh.webp" alt="Такелажные работы"></div>
+    <div class="services-main__item-title">Такелажные работы</div>
+</div>
+<div class="services-main__item">
+    <a class="absolute-link" href="/uslugi/pogruzo-razgruzochnyie-rabotyi/"></a>
+    <div class="services-main__item-img"><img src="assets/img/services/services.webp" alt="Погрузо-разгрузочные работы"></div>
+    <div class="services-main__item-title">Погрузо-разгрузочные работы</div>
+</div>
+<div class="services-main__item">
+    <a class="absolute-link" href="/uslugi/pereezdyi/"></a>
+    <div class="services-main__item-img"><img src="assets/img/services/gm.webp" alt="Переезды"></div>
+    <div class="services-main__item-title">Переезды</div>
+</div>
+<div class="services-main__item">
+    <a class="absolute-link" href="/uslugi/demontazhnyie-rabotyi/"></a>
+    <div class="services-main__item-img"><img src="assets/img/services/gm-services-demontazh.webp" alt="Демонтажные работы"></div>
+    <div class="services-main__item-title">Демонтажные работы</div>
+</div>
+        </div>
+    </div>
+</section>
+    <section class="section about">
+    <div class="about-img"><img src="assets/img/main/car-min.png" alt=""></div>
+    <div class="container">
+        <div class="h2">О компании <span>Gruz</span>Man</div>
+        <div class="about__body">
+            <p>Компания "GruzMan" предоставляет полный спектр услуг по грузоперевозкам и организации переездов в Беларуси. Наша специализация:</p>
+<ul>
+<li>Такелажные работы</li>
+<li>Демонтажные работы</li>
+<li>Погрузочно-разгрузочные работы</li>
+<li>Квартирные и офисные переезды</li>
+</ul>
+<p>Доставляем грузы из Минска и Минской области в любую точку Беларуси, гарантируя сохранность вещей и соблюдение сроков.</p>
+        </div>
+<!--         <div class="btn"><a href="">Подробнее</a></div> -->
+    </div>
+</section>
+    <section class="section">
+    <div class="container">
+        <div class="section__heading">Наши преимущества</div>
+        <div class="advant-blocks__body">
+            <div class="advant-blocks__body-item">
+                <div class="advant-blocks__img"><img src="assets/img/add-services/hours.png" alt=""></div>
+                <div class="advant-blocks__text">Работа 24/7</div>
+                <div class="advant-blocks__sub-text">предоставляем услуги в любое удобное для вас время</div>
+            </div>
+            <div class="advant-blocks__body-item">
+                <div class="advant-blocks__img"><img src="assets/img/add-services/service.png" alt=""></div>
+                <div class="advant-blocks__text">Комплексный подход</div>
+                <div class="advant-blocks__sub-text">всегда готовы выполнить несколько видов работ за один выезд</div>
+            </div>
+            <div class="advant-blocks__body-item">
+                <div class="advant-blocks__img"><img src="assets/img/add-services/shield.png" alt=""></div>
+                <div class="advant-blocks__text">Гарантия сохранности</div>
+                <div class="advant-blocks__sub-text">несем ответственность за&nbsp;сохранность ваших вещей при&nbsp;переезде, демонтаже, такелажных работах и&nbsp;т.д.</div>
+            </div>
+        </div>
+    </div>
+</section>
+<!--     <section class="section faq">
+    <div class="container">
+        <div class="h2">Часто задаваемые <span>вопросы</span> </div>
+        <div class="faq__body one ">
+            <div class="faq__body-item ">
+    <div class="title faq__item-head">Сколько стоят ваши услуги?</div>
+    <div class="description faq__item-desc"><p><a href="czenyi/">цена по прайсу</a>, но каждый заказ как и клиент дорог нам поэтому возможны индивидуальные предложения</p></div>
+</div><div class="faq__body-item ">
+    <div class="title faq__item-head">Как быстро можете быть?</div>
+    <div class="description faq__item-desc"><p>В течение 1-1.30 часа в пределах МКАД</p></div>
+</div><div class="faq__body-item ">
+    <div class="title faq__item-head">Кто будет выполнять мой заказ?</div>
+    <div class="description faq__item-desc"><p>Наша команда специалисты в своём деле, НЕ студенты или люди с алкогольной зависимостью</p></div>
+</div>
+        </div>
+    </div>
+</section> -->
+    <section class="section review">
+    <div class="container ">
+        <div class="section-bg">
+            <div class="h2">О нас говорят</div>
+            <div class="slider multiple-items slick-initialized slick-slider"><button class="slick-prev slick-arrow" aria-label="Previous" type="button" style="">Previous</button>
+                <div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 3904px; transform: translate3d(-976px, 0px, 0px);"><div class="slider-item slick-slide slick-cloned" data-slick-index="-2" id="" aria-hidden="true" style="width: 488px;" tabindex="-1">
+    <div class="text">
+        <p><b>Заказ:</b> Демонтаж пола, кладовой, межкомнатных дверей; вынос на площадку для КГО </p>
+        <p>Потрясающие ребята! В срок, быстро, убрали за собой. Отличная коммуникация, всё заранее проговорили, обсудили. Результат - отлично! (цена подросла от начальной, но это я дополнительные "хочухи" озвучил - всё равно получилось дешевле, чем стартовое предложение от многих других). Рекомендую!</p>
+    </div>
+    <div class="name">
+        Владимир 
+            <div class="review-logo"><img src="" alt=""></div>  
+    </div>
+    <div class="date">12.07.2022</div>
+</div><div class="slider-item slick-slide slick-cloned" data-slick-index="-1" id="" aria-hidden="true" style="width: 488px;" tabindex="-1">
+    <div class="text">
+        <p><b>Заказ:</b> Вынести строительный мусор прибл. 90 мешков </p>
+        <p>Быстро согласовали дату и время, цена как и договаривались, после себя убрали, приятные, вежливые ребята. Буду и дальше обращаться к ним по потребности</p>
+    </div>
+    <div class="name">
+        Артем 
+            <div class="review-logo"><img src="" alt=""></div>  
+    </div>
+    <div class="date">25.05.2022</div>
+</div><div class="slider-item slick-slide slick-current slick-active" data-slick-index="0" aria-hidden="false" style="width: 488px;" tabindex="0">
+    <div class="text">
+        <p><b>Заказ:</b> Поднять деревянную дверь в картонной упаковке разм 2600×1000 по лестнице на 18-й этаж ул Васнецова </p>
+        <p>Все отлично. Ребята приехали заранее. Подождали опаздывающий транспорт без вопросов. Все сделали предельно аккуратно и очень быстро. Рекомендую!</p>
+    </div>
+    <div class="name">
+        <a class="review-link" href="https://yandex.by/" tabindex="0">
+            Алексей 
+            <div class="review-logo"><img src="assets/img/icons/yandex-icon.webp" alt=""></div>
+        </a>  
+    </div>
+    <div class="date">05.06.2022</div>
+</div><div class="slider-item slick-slide slick-active" data-slick-index="1" aria-hidden="false" style="width: 488px;" tabindex="0">
+    <div class="text">
+        <p><b>Заказ:</b> Демонтаж пола, кладовой, межкомнатных дверей; вынос на площадку для КГО </p>
+        <p>Потрясающие ребята! В срок, быстро, убрали за собой. Отличная коммуникация, всё заранее проговорили, обсудили. Результат - отлично! (цена подросла от начальной, но это я дополнительные "хочухи" озвучил - всё равно получилось дешевле, чем стартовое предложение от многих других). Рекомендую!</p>
+    </div>
+    <div class="name">
+        Владимир 
+            <div class="review-logo"><img src="" alt=""></div>  
+    </div>
+    <div class="date">12.07.2022</div>
+</div><div class="slider-item slick-slide" data-slick-index="2" aria-hidden="true" style="width: 488px;" tabindex="-1">
+    <div class="text">
+        <p><b>Заказ:</b> Вынести строительный мусор прибл. 90 мешков </p>
+        <p>Быстро согласовали дату и время, цена как и договаривались, после себя убрали, приятные, вежливые ребята. Буду и дальше обращаться к ним по потребности</p>
+    </div>
+    <div class="name">
+        Артем 
+            <div class="review-logo"><img src="" alt=""></div>  
+    </div>
+    <div class="date">25.05.2022</div>
+</div><div class="slider-item slick-slide slick-cloned" data-slick-index="3" id="" aria-hidden="true" style="width: 488px;" tabindex="-1">
+    <div class="text">
+        <p><b>Заказ:</b> Поднять деревянную дверь в картонной упаковке разм 2600×1000 по лестнице на 18-й этаж ул Васнецова </p>
+        <p>Все отлично. Ребята приехали заранее. Подождали опаздывающий транспорт без вопросов. Все сделали предельно аккуратно и очень быстро. Рекомендую!</p>
+    </div>
+    <div class="name">
+        <a class="review-link" href="https://yandex.by/" tabindex="-1">
+            Алексей 
+            <div class="review-logo"><img src="assets/img/icons/yandex-icon.webp" alt=""></div>
+        </a>  
+    </div>
+    <div class="date">05.06.2022</div>
+</div><div class="slider-item slick-slide slick-cloned" data-slick-index="4" id="" aria-hidden="true" style="width: 488px;" tabindex="-1">
+    <div class="text">
+        <p><b>Заказ:</b> Демонтаж пола, кладовой, межкомнатных дверей; вынос на площадку для КГО </p>
+        <p>Потрясающие ребята! В срок, быстро, убрали за собой. Отличная коммуникация, всё заранее проговорили, обсудили. Результат - отлично! (цена подросла от начальной, но это я дополнительные "хочухи" озвучил - всё равно получилось дешевле, чем стартовое предложение от многих других). Рекомендую!</p>
+    </div>
+    <div class="name">
+        Владимир 
+            <div class="review-logo"><img src="" alt=""></div>  
+    </div>
+    <div class="date">12.07.2022</div>
+</div><div class="slider-item slick-slide slick-cloned" data-slick-index="5" id="" aria-hidden="true" style="width: 488px;" tabindex="-1">
+    <div class="text">
+        <p><b>Заказ:</b> Вынести строительный мусор прибл. 90 мешков </p>
+        <p>Быстро согласовали дату и время, цена как и договаривались, после себя убрали, приятные, вежливые ребята. Буду и дальше обращаться к ним по потребности</p>
+    </div>
+    <div class="name">
+        Артем 
+            <div class="review-logo"><img src="" alt=""></div>  
+    </div>
+    <div class="date">25.05.2022</div>
+</div></div></div>
+            <button class="slick-next slick-arrow" aria-label="Next" type="button" style="">Next</button></div>
+        </div>
+    </div>
+</section>
+    
+<section class="section">
+    <div class="container">
+        <div class="seo-text">
+            
+                <div class="seo-text-body">
+                    <h1>Услуги грузчиков в Минске – такелажные работы, разгрузка фур, демонтаж, переезды</h1>
+<p>Компания Gruzman – это профессиональные грузчики в Минске. Мы выполняем все виды профильных работ:</p>
+<ul>
+<li>демонтаж и вынос старой мебели, покрытий и техники;</li>
+<li>погрузка-разгрузка материалов или товаров на предприятиях и в торговых точках;</li>
+<li>такелажные – работы с тяжелыми, крупногабаритными и нестандартными по форме грузами;</li>
+<li>вывоз мусора;</li>
+<li>помощь с переездом – перевозка мебели и вещей.</li>
+</ul>
+<p>В Минске можем приехать на срочный заказ в течение 1-1,5 часов после получения. Также принимаем заявки на грузоперевозки между городами и предоставляем услуги грузчиков во всех городах Беларуси.</p>
+<p>Заявки принимаются ежедневно до 21:00, а работаем мы круглосуточно.</p>
+<h2>Услуги грузчиков в Минске – профессиональная команда, гибкий подход и средние цены</h2>
+<p>Gruzman – команда опытных грузчиков, такелажников и демонтажников. Мы помогаем разгружать партии товаров, перевозить на производство тяжелую технику, организовывать переезды в новые офисы и квартиры, поднимать пианино на этаж.</p>
+<p>Среди наших сотрудников нет начинающих, подрабатывающих студентов и случайных людей. Мы ценим опыт и сплоченность, потому что именно они помогают нам выполнять свою работу быстро и профессионально, браться за задачи любой сложности. А также предоставлять гарантию на сохранность груза в первоначальном состоянии.</p>
+<p>У нас нет диспетчера или управляющего, мы сами контролируем свои заказы. Так удобнее:</p>
+<ul>
+<li>Согласуем дату и время быстро, потому что не нужно ни у кого уточнять, и легко подстраиваемся под клиента.</li>
+<li>Точно рассчитываем цены, поскольку разбираемся в сложности разных работ и грузов.</li>
+<li>Без проблем договариваемся о дополнительных услугах уже во время выполнения заказа. Если вы внезапно вспомнили, что нужно перенести или убрать что-то еще, мы с радостью поможем. И прямо на месте добавим еще пункт в итоговый прайс – ничего не придется пересоставлять.</li>
+<li>Принимаем решения об индивидуальных условиях сами – у нас нет начальников, с которыми нужно это согласовывать.</li>
+</ul>
+<p>Цены в Gruzman средние по рынку Минска – стоимость работ рассчитывается из времени, а также сложности грузов.</p>
+<p>Оставляйте свои контакты в форме обратной связи или пишите в онлайн-чат. Проконсультируем, сообщим предварительную стоимость и договоримся о дате и времени.</p>
+                </div>
+                    
+        </div>
+    </div>
+</section>
+    <section class="section open-form">
+    <div class="container">
+        <div class="open-form__body">
+            <div class="open-form__body-item">
+                <div class="title">Обратный звонок</div>
+                <div class="description">Оставьте свои контактные данные, и мы презвоним Вам в ближайшее время</div>
+            </div>
+            <div class="open-form__body-item open-form__order">
+                 <form action="" method="post" class="ajax-open-form ajax_form">
+    <div class="form-group__body">
+        <div class="form-group__body-item ajax-open-form-content">
+            <div class="form-group">
+                <label class="control-label" for="af_name">Имя<span>*</span></label>
+                <div class="controls">
+                    <input type="text" id="af_name" name="name" value="" placeholder="Ваше Имя" class="form-control">
+                    <span class="error_name"></span>
+                </div>
+            </div>
+        
+            <div class="form-group">
+                <label class="control-label" for="af_phone">Телефон<span>*</span></label>
+                <div class="controls">
+                    <input type="text" id="af_phone" name="phone" value="" placeholder="+375" class="form-control">
+                    <span class="error_phone"></span>
+                </div>
+            </div>
+        </div>
+        <div class="form-group__body-item">
+            <div class="form-group form-group-checkbox">
+                <input class="form__checkbox order__form-checkbox" type="checkbox" id="orderPolicy" name="policy[]" required="">
+                <label class="form__checkbox-label" for="orderPolicy"> 
+                    Я согласен на <a href="privacy/">обработку персональных данных</a> компанией GruzMan
+                </label>
+            </div>
+        </div> 
+    </div>
+    <div class="form-group">
+        <div class="controls">
+            <button type="submit" class="btn btn-primary">Перезвонить</button>
+        </div>
+    </div>
+
+    
+    
+
+	<input type="hidden" name="af_action" value="634fc741c983650e743c69de3f991fc0">
+</form>
+            </div>
+        </div>
+    </div>
+</section>
+    <footer>
+    <div class="footer">
+    <div class="container">
+        <div class="footer__body">
+                <div class="footer__item">
+                    <ul class="footer__info">
+                        <li><a href="tel:+375445663566">+375 (44) 566-3-566</a></li>
+                        <li><a href="mailto:gruzman.by@gmail.com">gruzman.by@gmail.com</a></li>
+                        <li>220140, г. Минск, ул. Домбровская 9, офис 12.1.3.6</li>
+                        <li>Пн-Вс: 09:00 - 21:00</li>
+                    </ul>
+                    <div class="social">
+                        <ul class="social__list">
+                           <li class="social__list-item">
+                               <a href="https://t.me/gruzmans" target="_blank">
+                                   <span class="icon icon_tg"></span>
+                               </a>
+                           </li>
+                           <li class="social__list-item">
+                               <a href="viber://chat?number=+375445663566" target="_blank">
+                                   <span class="icon icon_vb"></span>
+                               </a>
+                            </li>
+                           <li class="social__list-item">
+                               <a href="https://api.whatsapp.com/send/?phone=375445663566" target="_blank">
+                                   <span class="icon icon_whatsapp"></span>
+                               </a>
+                            </li>
+<!--                            <li class="social__list-item">
+    <a href="https://www.instagram.com/gruzman.by/" target="_blank">
+        <span class="icon icon_inst"></span>
+    </a>
+ </li> -->
+                        </ul>
+                    </div>
+                    <div class="footer__logo"><div class="footer__logo-img"><img src="assets/img/icons/GruzMan-footer.svg" alt=""></div></div>
+                </div>
+                <div class="footer__item footer__menu">
+                    <div class="footer__menu-item">
+                        <div class="h3">Информация</div>
+                        <ul class=""><li class="first"><a href="czenyi/">Цены</a></li><li class="last"><a href="kontaktyi/">Контакты</a></li></ul>
+                    </div>
+                                        <div class="footer__menu-item">
+                        <div class="h3">Переезды</div>
+                        <ul class=""><li class="first"><a href="uslugi/pereezdyi/kvartirnyij-pereezd/">Квартирный переезд</a></li><li><a href="uslugi/pereezdyi/ofisnyij-pereezd/">Офисный переезд</a></li><li><a href="uslugi/pereezdyi/perevozka-byitovoj-texniki/">Перевозка бытовой техники</a></li><li class="last"><a href="uslugi/pereezdyi/sborka-i-razborka-mebeli/">Сборка и разборка мебели</a></li></ul>
+                    </div>
+                                        <div class="footer__menu-item">
+                        <div class="h3">Демонтажные работы</div>
+                        <ul class=""><li class="first"><a href="uslugi/demontazhnyie-rabotyi/demontazh-polov/">Демонтаж полов</a></li><li><a href="uslugi/demontazhnyie-rabotyi/demontazh-mebeli/">Демонтаж мебели</a></li><li><a href="uslugi/demontazhnyie-rabotyi/demontazh-sten/">Демонтаж стен</a></li><li><a href="uslugi/demontazhnyie-rabotyi/demontazh-plitki/">Демонтаж плитки</a></li><li class="last"><a href="uslugi/demontazhnyie-rabotyi/demontazh-peregorodok/">Демонтаж перегородок</a></li></ul>
+                    </div>
+                   
+
+
+
+
+                    <div class="footer__menu-item">
+                        <div class="h3">Погрузо-разгрузочные работы</div>
+                        <ul class=""><li class="first"><a href="uslugi/pogruzo-razgruzochnyie-rabotyi/uslugi-gruzchikov/">Услуги грузчиков</a></li><li><a href="uslugi/pogruzo-razgruzochnyie-rabotyi/podnyatie-gruzov-na-etazh/">Поднятие грузов на этаж</a></li><li><a href="uslugi/pogruzo-razgruzochnyie-rabotyi/podem-i-spusk-xrupkix-gruzov/">Подъем и спуск хрупких грузов</a></li><li><a href="uslugi/pogruzo-razgruzochnyie-rabotyi/podem-stoleshnicz/">Подъем столешниц</a></li><li class="last"><a href="uslugi/pogruzo-razgruzochnyie-rabotyi/podnyatie-plitki/">Поднятие плитки</a></li></ul>
+                    </div>
+                    <div class="footer__menu-item">
+                        <div class="h3">Такелажные работы</div>
+                        <ul class=""><li class="first"><a href="uslugi/takelazhnyie-rabotyi/perevozka-sejfov/">Перевозка сейфов</a></li><li><a href="uslugi/takelazhnyie-rabotyi/perevozka-bankomatov/">Перевозка банкоматов</a></li><li><a href="uslugi/takelazhnyie-rabotyi/perevozka-pianino/">Перевозка пианино</a></li><li><a href="uslugi/takelazhnyie-rabotyi/perevozka-oborudovaniya/">Перевозка производственного оборудования и станков</a></li><li class="last"><a href="uslugi/takelazhnyie-rabotyi/perevozka-kholodilnogo-oborudovaniya/">Перевозка холодильного оборудования</a></li></ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="copyright">
+            <div class="copyright__item">©2024, GruzMan</div>
+            <div class="copyright__item"><a href="privacy/">Политика конфиденциальности</a> </div>
+            <div class="copyright__item"><a href="https://starpointup.by/">Разработка и продвижение сайта: Starpointup.by</a></div>
+        </div>
+    </div>
+<script type="application/ld+json">
+{
+"@context": "https://schema.org",
+"@type": "WPFooter",
+"copyrightYear": "2024",
+"copyrightHolder": "GruzMan"
+}
+</script>
+</footer>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "GruzMan",
+  "alternateName": "Грузчики в Минске | Заказать услуги перевозки на час",
+  "url": "https://gruzman.by/",
+  "logo": "https://gruzman.by/assets/img/icons/GruzMan.svg",
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+375 (29) 692-0-788",
+    "email": "gruzman.by@gmail.com",
+    "contactType": "customer service",
+    "areaServed": "BY",
+    "availableLanguage": ["Russian"]
+  },
+ "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "ул. Домбровская 9, офис 12.1.3.6",
+    "addressLocality": "Минск",
+    "addressCountry": "BY"
+  },  
+  "sameAs": [
+    "https://t.me/gruzmans",
+    "viber://chat?number=+375445663566",
+    "https://api.whatsapp.com/send/?phone=375445663566"
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "GruzMan",
+  "image": "https://gruzman.by/assets/img/icons/GruzMan.svg",
+  "@id": "https://gruzman.by/",
+  "url": "https://gruzman.by/",
+  "telephone": "+375 (29) 692-0-788",
+  "priceRange": "BYN",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "ул. Домбровская 9, офис 12.1.3.6",
+    "addressLocality": "Минск",
+    "addressCountry": "BY"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 53.911333, 
+    "longitude": 27.454563
+  },
+  "openingHoursSpecification": {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday",
+      "Sunday"
+    ],
+    "opens": "09:00",
+    "closes": "21:00"
+  },
+  "sameAs": [
+    "https://t.me/gruzmans",
+    "viber://chat?number=+375445663566",
+    "https://api.whatsapp.com/send/?phone=375445663566"
+  ] 
+}
+</script>
+<div id="overlay"></div>
+<div id="modal_form">
+    <div class="modal__form">
+        <a class="exit"><img src="assets/img/icons/close-x.svg" alt=""></a>
+        <div class="modal-title">Оставьте заявку</div>
+        <div class="modal_sub-text">Мы Вам обязательно перезвоним и проконсультируем</div>
+        <form method="post" class="ajax_form af_example">
+    <input type="hidden" name="title" value="Главная">
+    <input type="hidden" name="link" value="index/">
+    <input type="text" class="hidden-input" name="site_message" value="">
+    <div class="form__body">
+        <div class="form__body-items">
+            <div class="form__body-item">Ваше имя <span>*</span></div>
+            <input type="text" placeholder="" value="" name="name" id="name" class="">
+            <span class="error_message"></span>
+        </div>
+        <div class="form__body-items">
+            <div class="form__body-item">Телефон <span>*</span></div>
+            <input type="text" class="tel" placeholder="" name="phone" value="" id="phone">
+            <span class="error_message"></span>
+        </div>
+        <div class="form__body-items">
+            <div class="form__body-item">Сообщение </div>
+            <textarea id="af_message" name="message" class="form-control" rows="3" placeholder="Чем мы можем вам помочь?"></textarea>
+            <span class="error_message"></span>
+        </div>
+        <div class="form-group">
+            <input class="form__checkbox order__form-checkbox" type="checkbox" id="orderPolicy" name="policy[]" required="">
+            <label class="form__checkbox-label" for="orderPolicy"> 
+                Я согласен на <a href="privacy/">обработку персональных данных</a> компанией GruzMan
+            </label>
+        </div>
+        <div class="form__btn">
+            <input class="btn" type="submit" value="Отправить заявку">
+        </div>
+    </div>
+
+	<input type="hidden" name="af_action" value="e950da2d445d74a8ddef867128387520">
+</form>
+    </div>
+</div>
+<link rel="stylesheet" href="/assets/styles/slick-theme.css"><style class="darkreader darkreader--sync" media="screen"></style>
+<link rel="stylesheet" href="/assets/styles/slick.css"><style class="darkreader darkreader--sync" media="screen"></style>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+<script src="assets/js/slick.min.js"></script>
+<script src="assets/js/script.js"></script>
+<script src="assets/js/phonemask.js"></script>
+<script async="" src="//app.call-tracking.by/scripts/phones.js?58b8d6ce-e9fb-405f-957e-e5b9918e9f19"></script>
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();
+   for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+   k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(91902792, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/91902792" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+    <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "GruzMan",
+    "item": "https://gruzman.by/"
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "☎️ +375 (29) 692-0-788",
+    "item": "https://gruzman.by/#"
+  }]
+}
+</script>
+
+<script src="/assets/components/ajaxform/js/default.js"></script>
+<script type="text/javascript">AjaxForm.initialize({"assetsUrl":"\/assets\/components\/ajaxform\/","actionUrl":"\/assets\/components\/ajaxform\/action.php","closeMessage":"\u0437\u0430\u043a\u0440\u044b\u0442\u044c \u0432\u0441\u0435","formSelector":"form.ajax_form","pageId":1});</script><script src="/assets/components/ajaxform/js/lib/jquery.form.min.js"></script><script src="/assets/components/ajaxform/js/lib/jquery.jgrowl.min.js"></script>
+
+
+GruzMan
+услуги грузчиков и демонтажа
+
+    Услуги
+    Цены
+    Контакты
+
++375 (44) 566-3-566
+Пн-Вс: 09:00 - 21:00
+Услуги
+Такелажные работы
+Такелажные работы
+Погрузо-разгрузочные работы
+Погрузо-разгрузочные работы
+Переезды
+Переезды
+Демонтажные работы
+Демонтажные работы
+О компании GruzMan
+
+Компания "GruzMan" предоставляет полный спектр услуг по грузоперевозкам и организации переездов в Беларуси. Наша специализация:
+
+    Такелажные работы
+    Демонтажные работы
+    Погрузочно-разгрузочные работы
+    Квартирные и офисные переезды
+
+Доставляем грузы из Минска и Минской области в любую точку Беларуси, гарантируя сохранность вещей и соблюдение сроков.
+Наши преимущества
+Работа 24/7
+предоставляем услуги в любое удобное для вас время
+Комплексный подход
+всегда готовы выполнить несколько видов работ за один выезд
+Гарантия сохранности
+несем ответственность за сохранность ваших вещей при переезде, демонтаже, такелажных работах и т.д.
+О нас говорят
+Услуги грузчиков в Минске – такелажные работы, разгрузка фур, демонтаж, переезды
+
+Компания Gruzman – это профессиональные грузчики в Минске. Мы выполняем все виды профильных работ:
+
+    демонтаж и вынос старой мебели, покрытий и техники;
+    погрузка-разгрузка материалов или товаров на предприятиях и в торговых точках;
+    такелажные – работы с тяжелыми, крупногабаритными и нестандартными по форме грузами;
+    вывоз мусора;
+    помощь с переездом – перевозка мебели и вещей.
+
+В Минске можем приехать на срочный заказ в течение 1-1,5 часов после получения. Также принимаем заявки на грузоперевозки между городами и предоставляем услуги грузчиков во всех городах Беларуси.
+
+Заявки принимаются ежедневно до 21:00, а работаем мы круглосуточно.
+Услуги грузчиков в Минске – профессиональная команда, гибкий подход и средние цены
+
+Gruzman – команда опытных грузчиков, такелажников и демонтажников. Мы помогаем разгружать партии товаров, перевозить на производство тяжелую технику, организовывать переезды в новые офисы и квартиры, поднимать пианино на этаж.
+
+Среди наших сотрудников нет начинающих, подрабатывающих студентов и случайных людей. Мы ценим опыт и сплоченность, потому что именно они помогают нам выполнять свою работу быстро и профессионально, браться за задачи любой сложности. А также предоставлять гарантию на сохранность груза в первоначальном состоянии.
+
+У нас нет диспетчера или управляющего, мы сами контролируем свои заказы. Так удобнее:
+
+    Согласуем дату и время быстро, потому что не нужно ни у кого уточнять, и легко подстраиваемся под клиента.
+    Точно рассчитываем цены, поскольку разбираемся в сложности разных работ и грузов.
+    Без проблем договариваемся о дополнительных услугах уже во время выполнения заказа. Если вы внезапно вспомнили, что нужно перенести или убрать что-то еще, мы с радостью поможем. И прямо на месте добавим еще пункт в итоговый прайс – ничего не придется пересоставлять.
+    Принимаем решения об индивидуальных условиях сами – у нас нет начальников, с которыми нужно это согласовывать.
+
+Цены в Gruzman средние по рынку Минска – стоимость работ рассчитывается из времени, а также сложности грузов.
+
+Оставляйте свои контакты в форме обратной связи или пишите в онлайн-чат. Проконсультируем, сообщим предварительную стоимость и договоримся о дате и времени.
+Обратный звонок
+Оставьте свои контактные данные, и мы презвоним Вам в ближайшее время
+Имя*
+Телефон*
+Я согласен на обработку персональных данных компанией GruzMan
+Перезвонить
+
+    +375 (44) 566-3-566
+    gruzman.by@gmail.com
+    220140, г. Минск, ул. Домбровская 9, офис 12.1.3.6
+    Пн-Вс: 09:00 - 21:00
+
+Информация
+
+    Цены
+    Контакты
+
+Переезды
+
+    Квартирный переезд
+    Офисный переезд
+    Перевозка бытовой техники
+    Сборка и разборка мебели
+
+Демонтажные работы
+
+    Демонтаж полов
+    Демонтаж мебели
+    Демонтаж стен
+    Демонтаж плитки
+    Демонтаж перегородок
+
+Погрузо-разгрузочные работы
+
+    Услуги грузчиков
+    Поднятие грузов на этаж
+    Подъем и спуск хрупких грузов
+    Подъем столешниц
+    Поднятие плитки
+
+Такелажные работы
+
+    Перевозка сейфов
+    Перевозка банкоматов
+    Перевозка пианино
+    Перевозка производственного оборудования и станков
+    Перевозка холодильного оборудования
+
+©2024, GruzMan
+Политика конфиденциальности
+Разработка и продвижение сайта: Starpointup.by

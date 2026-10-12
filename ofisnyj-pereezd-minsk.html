@@ -52,12 +52,26 @@
         "priceRange": "от 95 BYN",
         "address": {
             "@type": "PostalAddress",
-            "streetAddress": "ул. Вокзальная, д. 3, оф. 3",
-            "addressLocality": "Слуцк",
+            "addressLocality": "Минск",
             "addressRegion": "Минская область",
-            "postalCode": "223607",
             "addressCountry": "BY"
-        }
+        },
+        "contactPoint": [
+            {
+                "@type": "ContactPoint",
+                "telephone": "+375-33-321-78-88",
+                "contactType": "customer service",
+                "areaServed": "BY",
+                "availableLanguage": "Russian"
+            },
+            {
+                "@type": "ContactPoint",
+                "telephone": "+375-25-639-64-79",
+                "contactType": "customer service",
+                "areaServed": "BY",
+                "availableLanguage": "Russian"
+            }
+        ],
         },
       "areaServed": [
         { "@type": "City", "name": "Минск" },
@@ -80,12 +94,12 @@
         {"@type":"Question","name":"Можно ли провести переезд в выходные, чтобы не прерывать работу?","acceptedAnswer":{"@type":"Answer","text":"Да, большинство офисных переездов мы организуем именно с вечера пятницы по воскресенье. В понедельник утром ваши сотрудники приходят на новые рабочие места и сразу приступают к работе."}},
         {"@type":"Question","name":"Предоставляете ли вы закрывающие документы для бухгалтерии?","acceptedAnswer":{"@type":"Answer","text":"Да. Мы работаем строго официально по договору с юридическими лицами. Оплата осуществляется по безналичному расчету (с НДС и без), а оригиналы актов выполненных работ предоставляются сразу после завершения переезда."}},
         {"@type":"Question","name":"Как упаковывается офисная оргтехника и сервера?","acceptedAnswer":{"@type":"Answer","text":"Мониторы, системные блоки и МФУ упаковываются в специальную воздушно-пузырьковую пленку и промаркированные короба. Серверные стойки и телекоммуникационные шкафы фиксируются в фургоне стяжными ремнями."}},
-      {
+        {
         "@type": "Question",
-        "name": "На каких условиях вы работаете с юридическими лицами и компаниями?",
+        "name": "Возможна ли отсрочка платежа для организаций?",
         "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Офисный переезд для юрлиц в Минске и по Беларуси: перевозка рабочих мест, оргтехники, серверов, архивов и сейфов. Работаем вечером и в выходные дни. Предоставляем официальный договор, смету, безналичный расчет (с НДС и без) и закрывающие акты. Автопарк до 5 тонн с гидробортом."
+            "text": "Да, условия оплаты закрепляются в официальном договоре. Возможна оплата по безналичному расчету после выполнения всех работ и подписания акта сдачи-приемки."
         }
         }
         ]
@@ -1718,12 +1732,13 @@
                 <svg class="bear" aria-hidden="true"><use href="#bear" /></svg>
                 <span class="logo__text">БЕРЛОГИСТ</span>
             </a>
-            <nav class="nav" aria-label="Основная навигация">
-                <a href="index.html">Все услуги</a>
-                <a href="#services" class="active">Офисный переезд</a>
-                <a href="#why">Условия для юрлиц</a>
-                <a href="#faq">Вопросы</a>
-                <a href="#contacts">Контакты</a>
+            <nav class="nav" itemscope itemtype="http://schema.org/SiteNavigationElement" aria-label="Основная навигация">
+                <a itemprop="url" href="https://berlogist.by/"><span itemprop="name">Главная</span></a>
+                <a itemprop="url" href="https://berlogist.by/gruzchiki-minsk.html"><span itemprop="name">Грузчики</span></a>
+                <a itemprop="url" href="https://berlogist.by/kvartirnyj-pereezd-minsk.html"><span itemprop="name">Квартирный переезд</span></a>
+                <a itemprop="url" href="https://berlogist.by/gruzovoe-taksi-minsk.html"><span itemprop="name">Грузовое такси</span></a>
+                <a itemprop="url" href="https://berlogist.by/vyvoz-musora-minsk.html"><span itemprop="name">Вывоз мусора</span></a>
+                <a itemprop="url" href="https://berlogist.by/ofisnyj-pereezd-minsk.html" class="active"><span itemprop="name">Офисный переезд</span></a>
             </nav>
             <div class="header__cta">
                 <div class="header__phones">
@@ -1989,20 +2004,14 @@
                         <h3 class="acc__h">
                             <button class="acc__head" aria-expanded="false">
                                 <span class="acc__num">05</span>
-                                <span class="acc__title">На каких условиях вы работаете с юридическими лицами и компаниями?</span>
+                                <span class="acc__title">Возможна ли отсрочка платежа для организаций?</span>
                                 <span class="acc__icon"><svg class="ic"><use href="#i-plus" /></svg></span>
                             </button>
                         </h3>
                         <div class="acc__body">
                             <div class="acc__inner">
                                 <div class="acc__content">
-                                    <p>Мы организуем офисные переезды в Минске и по всей Беларуси с полным документальным сопровождением под ключ:</p>
-                                    <ul style="list-style: disc; margin-left: 20px; color: var(--muted); margin-bottom: 12px; font-size: 15px; line-height: 1.6;">
-                                        <li><strong>Без остановки бизнеса:</strong> работаем в нерабочее время — вечером, ночью и в выходные дни. В понедельник сотрудники уже на готовых рабочих местах.</li>
-                                        <li><strong>Безопасность имущества:</strong> бережно перевозим рабочие станции, оргтехнику, серверы, архивы документации и тяжелые сейфы.</li>
-                                        <li><strong>Собственный транспорт:</strong> крепкие грузчики и чистые мебельные фургоны до 5 тонн с гидробортом.</li>
-                                        <li><strong>Для бухгалтерии:</strong> официальный договор, фиксированная смета без скрытых доплат, безналичный расчет (с НДС и без), закрывающие акты в день сдачи работ.</li>
-                                    </ul>
+                                    <p>Да, для корпоративных клиентов условия оплаты прописываются индивидуально в договоре. Мы работаем по безналичному расчету как по предоплате, так и с постоплатой после подписания двустороннего акта сдачи-приемки работ в течение установленного договором банковского срока.</p>
                                 </div>
                             </div>
                         </div>

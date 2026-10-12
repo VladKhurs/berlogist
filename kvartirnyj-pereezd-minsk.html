@@ -52,12 +52,26 @@
         "priceRange": "от 95 BYN",
         "address": {
             "@type": "PostalAddress",
-            "streetAddress": "ул. Вокзальная, д. 3, оф. 3",
-            "addressLocality": "Слуцк",
+            "addressLocality": "Минск",
             "addressRegion": "Минская область",
-            "postalCode": "223607",
             "addressCountry": "BY"
-        }
+        },
+        "contactPoint": [
+            {
+                "@type": "ContactPoint",
+                "telephone": "+375-33-321-78-88",
+                "contactType": "customer service",
+                "areaServed": "BY",
+                "availableLanguage": "Russian"
+            },
+            {
+                "@type": "ContactPoint",
+                "telephone": "+375-25-639-64-79",
+                "contactType": "customer service",
+                "areaServed": "BY",
+                "availableLanguage": "Russian"
+            }
+        ],
         },
       "areaServed": [
         { "@type": "City", "name": "Минск" },
@@ -89,13 +103,13 @@
         }
         },
         {
-  "@type": "Question",
-  "name": "Что входит в квартирный переезд под ключ и как он организован?",
-  "acceptedAnswer": {
-    "@type": "Answer",
-    "text": "Квартирный переезд в Минске, Минском районе и по Беларуси под ключ: перевозка мебели, диванов, кухонь и техники. Перевозка холодильников строго стоя с фиксацией ремнями. Спуск и подъем на этаж без лифта, разборка и сборка мебели собственным инструментом, предоставление коробок и упаковки. Фиксированная стоимость рассчитывается до выезда машины."
-  }
-}
+        "@type": "Question",
+        "name": "Как происходит оплата переезда и когда рассчитываться?",
+        "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Оплата производится по факту выполнения работ после выгрузки и проверки сохранности мебели. Никаких предоплат не требуется, стоимость фиксируется до начала переезда."
+        }
+        }
         ]
     }
   ]
@@ -1726,12 +1740,13 @@
                 <svg class="bear" aria-hidden="true"><use href="#bear" /></svg>
                 <span class="logo__text">БЕРЛОГИСТ</span>
             </a>
-            <nav class="nav" aria-label="Основная навигация">
-                <a href="index.html">Все услуги</a>
-                <a href="#services" class="active">Этапы переезда</a>
-                <a href="#why">Почему мы</a>
-                <a href="#faq">Вопросы</a>
-                <a href="#contacts">Контакты</a>
+            <nav class="nav" itemscope itemtype="http://schema.org/SiteNavigationElement" aria-label="Основная навигация">
+                <a itemprop="url" href="https://berlogist.by/"><span itemprop="name">Главная</span></a>
+                <a itemprop="url" href="https://berlogist.by/gruzchiki-minsk.html"><span itemprop="name">Грузчики</span></a>
+                <a itemprop="url" href="https://berlogist.by/kvartirnyj-pereezd-minsk.html" class="active"><span itemprop="name">Квартирный переезд</span></a>
+                <a itemprop="url" href="https://berlogist.by/gruzovoe-taksi-minsk.html"><span itemprop="name">Грузовое такси</span></a>
+                <a itemprop="url" href="https://berlogist.by/vyvoz-musora-minsk.html"><span itemprop="name">Вывоз мусора</span></a>
+                <a itemprop="url" href="https://berlogist.by/ofisnyj-pereezd-minsk.html"><span itemprop="name">Офисный переезд</span></a>
             </nav>
             <div class="header__cta">
                 <div class="header__phones">
@@ -1997,22 +2012,14 @@
                         <h3 class="acc__h">
                             <button class="acc__head" aria-expanded="false">
                                 <span class="acc__num">05</span>
-                                <span class="acc__title">Что входит в квартирный переезд под ключ и как он организован?</span>
+                                <span class="acc__title">Как происходит оплата переезда и когда рассчитываться?</span>
                                 <span class="acc__icon"><svg class="ic"><use href="#i-plus" /></svg></span>
                             </button>
                         </h3>
                         <div class="acc__body">
                             <div class="acc__inner">
                                 <div class="acc__content">
-                                    <p>Комплексный квартирный переезд по Минску, Минскому району и городам Беларуси организован «от двери до двери» и включает:</p>
-                                    <ul style="list-style: disc; margin-left: 20px; color: var(--muted); margin-bottom: 12px; font-size: 15px; line-height: 1.6;">
-                                        <li><strong>Бережная перевозка:</strong> аккуратно доставляем диваны, шкафы, кухонные гарнитуры, бытовую технику и коробки с личными вещами.</li>
-                                        <li><strong>Холодильники только стоя:</strong> перевозим любые холодильники строго в вертикальном положении с фиксацией ремнями, исключая поломку компрессора.</li>
-                                        <li><strong>Разборка и сборка мебели:</strong> грузчики имеют при себе весь необходимый инструмент, разбирают габаритную мебель и собирают её на новом адресе.</li>
-                                        <li><strong>Спуск и подъем на этаж:</strong> заносим вещи вручную по лестнице на любой этаж без лифта с помощью такелажных ремней.</li>
-                                        <li><strong>Упаковочные материалы:</strong> при необходимости привозим прочные картонные коробки, скотч, воздушно-пузырчатую и стрейч-пленку.</li>
-                                        <li><strong>Честный расчет:</strong> окончательная стоимость фиксируется диспетчером до выезда бригады и не меняется по окончании работ.</li>
-                                    </ul>
+                                    <p>Расчет происходит только после полного завершения всех работ: когда мебель занесена в квартиру, собрана и расставлена по местам, а вы проверили целостность вещей. Мы не берем предоплату с физических лиц. Оплатить можно наличными водителю или банковской картой/переводом по факту сдачи заказа.</p>
                                 </div>
                             </div>
                         </div>
