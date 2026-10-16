@@ -1910,6 +1910,175 @@
                 grid-template-columns: 1fr
             }
         }
+
+        /* ===== КИБЕР-ГЛИТЧ БАННЕРЫ С ПЛАВНЫМ ПЕРЕХОДОМ ===== */
+        .photo-banner {
+            position: relative;
+            overflow: hidden;
+            background: #000;
+            /* Срезанные по-военному / глитчевые углы */
+            clip-path: polygon(
+                0 18px, 18px 0, 
+                calc(100% - 24px) 0, 100% 24px, 
+                100% calc(100% - 18px), calc(100% - 18px) 100%, 
+                24px 100%, 0 calc(100% - 24px)
+            );
+            filter: contrast(1.05);
+            transition: filter .3s var(--ease);
+        }
+
+        .photo-banner img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            display: block;
+            filter: grayscale(18%) brightness(0.92);
+            transition: transform .6s var(--ease), filter .4s ease;
+        }
+
+        .photo-banner::before {
+            content: "";
+            position: absolute;
+            inset: 0;
+            z-index: 2;
+            pointer-events: none;
+            background: 
+                /* Легкая фоновая виньетка */
+                radial-gradient(ellipse at center, transparent 52%, rgba(10, 10, 10, 0.25) 85%, rgba(10, 10, 10, 0.45) 100%),
+                /* Плавный переход снизу (на те же 16%, но полупрозрачный) */
+                linear-gradient(to top, rgba(10, 10, 10, 0.48) 0%, rgba(10, 10, 10, 0.18) 8%, transparent 16%),
+                /* Плавный переход сверху (на те же 14%, но полупрозрачный) */
+                linear-gradient(to bottom, rgba(10, 10, 10, 0.4) 0%, rgba(10, 10, 10, 0.14) 7%, transparent 14%);
+        }
+
+        /* Светлая секция Услуг (#F4F2ED) с уменьшенной прозрачностью */
+        .sec--paper .photo-banner::before {
+            background: 
+                /* Легкая светлая виньетка */
+                radial-gradient(ellipse at center, transparent 55%, rgba(244, 242, 237, 0.22) 86%, rgba(244, 242, 237, 0.42) 100%),
+                /* Переход снизу */
+                linear-gradient(to top, rgba(244, 242, 237, 0.45) 0%, rgba(244, 242, 237, 0.16) 8%, transparent 16%),
+                /* Переход сверху */
+                linear-gradient(to bottom, rgba(244, 242, 237, 0.38) 0%, rgba(244, 242, 237, 0.12) 7%, transparent 14%);
+        }
+
+        /* Бегущая линия кибер-сканирования (HUD scanline) */
+        .photo-banner::after {
+            content: "";
+            position: absolute;
+            left: 0;
+            right: 0;
+            height: 2px;
+            top: -10%;
+            background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.8), transparent);
+            box-shadow: 0 0 12px #fff;
+            opacity: .4;
+            z-index: 3;
+            pointer-events: none;
+            animation: scanGlitch 5s linear infinite;
+        }
+
+        @keyframes scanGlitch {
+            0% { top: -5%; opacity: 0; }
+            15% { opacity: 0.5; }
+            50% { top: 105%; opacity: 0.5; }
+            51% { top: -5%; opacity: 0; }
+            100% { top: -5%; opacity: 0; }
+        }
+
+        /* Декоративные глитч-уголки (прицелы) */
+        .photo-banner .glitch-frame {
+            position: absolute;
+            inset: 0;
+            z-index: 4;
+            pointer-events: none;
+            border: 1px solid rgba(255, 255, 255, 0.12);
+        }
+
+        .photo-banner .glitch-frame::before,
+        .photo-banner .glitch-frame::after {
+            content: "";
+            position: absolute;
+            width: 14px;
+            height: 14px;
+            border: 2px solid #fff;
+        }
+        .photo-banner .glitch-frame::before {
+            top: 6px;
+            left: 6px;
+            border-right: none;
+            border-bottom: none;
+        }
+        .photo-banner .glitch-frame::after {
+            bottom: 6px;
+            right: 6px;
+            border-left: none;
+            border-top: none;
+        }
+
+        .sec--paper .photo-banner .glitch-frame {
+            border-color: rgba(20, 20, 20, 0.15);
+        }
+        .sec--paper .photo-banner .glitch-frame::before,
+        .sec--paper .photo-banner .glitch-frame::after {
+            border-color: #141414;
+        }
+
+        /* Эффект глитча и зума при наведении */
+        .photo-banner:hover img {
+            transform: scale(1.03);
+            filter: grayscale(0%) brightness(1);
+        }
+
+        .photo-banner:hover {
+            filter: drop-shadow(0 0 16px rgba(255, 255, 255, 0.18));
+            animation: shakeGlitch 0.35s ease forwards;
+        }
+
+        @keyframes shakeGlitch {
+            0% { transform: translate(0, 0); }
+            20% { transform: translate(-2px, 1px); }
+            40% { transform: translate(2px, -1px); }
+            60% { transform: translate(-1px, 2px); }
+            80% { transform: translate(1px, 0); }
+            100% { transform: translate(0, 0); }
+        }
+
+        /* Размеры и расположение блоков */
+        .hero-grid {
+            display: grid;
+            grid-template-columns: 1.12fr 0.88fr;
+            gap: clamp(24px, 4vw, 56px);
+            align-items: center;
+        }
+
+        .hero__media {
+            height: clamp(340px, 46vh, 520px);
+        }
+
+        .services-preview__img {
+            height: clamp(280px, 38vw, 460px);
+        }
+
+        .team-section {
+            padding: clamp(20px, 4vw, 50px) 0 clamp(40px, 6vw, 70px);
+            background: var(--bg);
+        }
+
+        .team-section__img {
+            height: clamp(290px, 42vw, 540px);
+        }
+
+        @media (max-width: 900px) {
+            .hero-grid {
+                grid-template-columns: 1fr;
+            }
+            .hero__media {
+                order: -1;
+                height: 300px;
+                margin-bottom: 12px;
+            }
+        }
     </style>
 </head>
 
@@ -2023,16 +2192,24 @@
             <img class="hero__bear hero__bear--img" src="logo.jpg" alt="" aria-hidden="true">
             <svg class="hero__bear hero__bear--svg" aria-hidden="true"><use href="#bear" /></svg>
             <div class="container">
-                <div class="hero-tag" data-reveal><i></i>Минск, вся Беларусь · Пн–Вс 8:00–22:00</div>
-                <h1>
-                    <span class="h1line" aria-hidden="true"><span style="--d:.1s">Переезд,</span></span>
-                    <span class="h1line h1line--2" aria-hidden="true"><span style="--d:.22s" class="outline">который не хочется</span></span>
-                    <span class="h1line" aria-hidden="true"><span style="--d:.34s">вспоминать как <s class="strike">кошмар</s></span></span>
-                </h1>
-                <div class="hero-actions" data-reveal style="--d:.45s">
-                    <button class="btn btn--acc" data-scroll="#order">Оставить заявку <svg class="ic"><use href="#i-arrow" /></svg></button>
-                    <a class="btn btn--ghost btn--tel" href="tel:+375333217888"><svg class="ic"><use href="#i-phone" /></svg>+375 (33) 321-78-88</a>
-                    <a class="btn btn--ghost btn--tel" href="tel:+375256396479"><svg class="ic"><use href="#i-phone" /></svg>+375 (25) 639-64-79</a>
+                <div class="hero-grid">
+                    <div>
+                        <div class="hero-tag" data-reveal><i></i>Минск, вся Беларусь · Пн–Вс 8:00–22:00</div>
+                        <h1>
+                            <span class="h1line" aria-hidden="true"><span style="--d:.1s">Переезд,</span></span>
+                            <span class="h1line h1line--2" aria-hidden="true"><span style="--d:.22s" class="outline">который не хочется</span></span>
+                            <span class="h1line" aria-hidden="true"><span style="--d:.34s">вспоминать как <s class="strike">кошмар</s></span></span>
+                        </h1>
+                        <div class="hero-actions" data-reveal style="--d:.45s">
+                            <button class="btn btn--acc" data-scroll="#order">Оставить заявку <svg class="ic"><use href="#i-arrow" /></svg></button>
+                            <a class="btn btn--ghost btn--tel" href="tel:+375333217888"><svg class="ic"><use href="#i-phone" /></svg>+375 (33) 321-78-88</a>
+                            <a class="btn btn--ghost btn--tel" href="tel:+375256396479"><svg class="ic"><use href="#i-phone" /></svg>+375 (25) 639-64-79</a>
+                        </div>
+                    </div>
+                    <div class="photo-banner hero__media" data-reveal style="--d:.3s">
+                        <div class="glitch-frame"></div>
+                        <img src="loader-hero.jpg" alt="Крепкий грузчик БЕРЛОГИСТ" loading="eager">
+                    </div>
                 </div>
                 <ul class="hero-meta" data-reveal style="--d:.55s">
                     <li>Ответ ~15 минут</li>
@@ -2073,6 +2250,10 @@
                 <div class="sec-head" data-reveal>
                     <span class="sec-tag">/ 01 — Услуги</span>
                     <h2>Грузоперевозки и переезды <span class="o">в Минске и по всей Беларуси</span></h2>
+                </div>
+                <div class="photo-banner services-preview__img" data-reveal style="margin-bottom: clamp(28px, 4vw, 44px);">
+                    <div class="glitch-frame"></div>
+                    <img src="apartment-packing.jpg" alt="Бережная упаковка дивана перед переездом" loading="lazy">
                 </div>
                 <div class="acc-list" data-reveal style="--d:.1s">
                     <div class="acc">
@@ -2468,6 +2649,15 @@
             </div>
         </section>
 
+        <section class="team-section">
+            <div class="container">
+                <div class="photo-banner team-section__img" data-reveal>
+                    <div class="glitch-frame"></div>
+                    <img src="team-car.jpg" alt="Автопарк и грузчики БЕРЛОГИСТ" loading="lazy">
+                </div>
+            </div>
+        </section>
+
         <section class="sec" style="padding: 40px 0; border-top: 1px solid var(--line);">
             <div class="container">
                 <div class="sec-head" style="margin-bottom: 24px;">
@@ -2505,8 +2695,8 @@
                     </a>
                     <p class="footer__about">Грузоперевозки, грузовое такси, переезды под ключ, грузчики и вывоз мусора в Минске и по всей Беларуси. Физлицам и юрлицам.</p>
                     <div class="socials">
-                        <a href="#" aria-label="Telegram" rel="noopener"><svg class="ic"><use href="#i-send" /></svg></a>
-                        <a href="#" aria-label="Instagram" rel="noopener"><svg class="ic"><use href="#i-ig" /></svg></a>
+                        <a href="https://t.me/berlogist" target="_blank" rel="noopener noreferrer" aria-label="Telegram БЕРЛОГИСТ"><svg class="ic"><use href="#i-send" /></svg></a>
+                        <a href="https://www.instagram.com/berlogist?obrf=bGYyOW9sNGk3ZHo0" target="_blank" rel="noopener noreferrer" aria-label="Instagram БЕРЛОГИСТ"><svg class="ic"><use href="#i-ig" /></svg></a>
                     </div>
                 </div>
                 <div>
