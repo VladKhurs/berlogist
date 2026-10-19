@@ -2070,24 +2070,11 @@
         }
 
         @media (max-width: 900px) {
-            .hero .container {
-                display: flex;
-                flex-direction: column;
-            }
             .hero-grid {
-                display: contents;
-            }
-            .hero-grid > div:first-child {
-                order: 1;
-            }
-            .hero-meta {
-                order: 2;
+                grid-template-columns: 1fr;
             }
             .hero__media {
-                order: 3;
-                height: clamp(280px, 45vw, 420px);
-                margin-top: clamp(24px, 4vw, 36px);
-                margin-bottom: 0;
+                display: none;
             }
         }
     </style>
