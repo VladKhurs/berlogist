@@ -1927,6 +1927,80 @@
                 right: 12px;
                 max-width: none
             }
+            
+            /* Включаем горизонтальный скролл */
+            .cl-grid,
+            .revs {
+                display: flex !important;
+                overflow-x: auto !important;
+                scroll-snap-type: x mandatory;
+                -webkit-overflow-scrolling: touch;
+                gap: 16px;
+                padding-bottom: 18px; /* место под полосу прокрутки */
+                margin-left: -20px;
+                margin-right: -20px;
+                padding-left: 20px;
+                padding-right: 20px;
+            }
+
+            /* Размеры карточек при прокрутке */
+            .cl-card {
+                flex: 0 0 86vw !important;
+                max-width: 330px;
+                scroll-snap-align: start;
+            }
+
+            .rev {
+                flex: 0 0 84vw !important;
+                max-width: 310px;
+                scroll-snap-align: start;
+            }
+
+            /* ===== ВИДИМАЯ ПОЛОСА ПРОКРУТКИ ===== */
+            /* Для Firefox */
+            .cl-grid {
+                scrollbar-width: thin;
+                scrollbar-color: #111111 #dedad2;
+            }
+            .revs {
+                scrollbar-width: thin;
+                scrollbar-color: #ffffff #242424;
+            }
+
+            /* Для Chrome, Safari, мобильных браузеров */
+            .cl-grid::-webkit-scrollbar,
+            .revs::-webkit-scrollbar {
+                display: block !important;
+                height: 5px; /* толщина полоски */
+            }
+
+            /* Дорожка полосы в светлом блоке "Клиентам" */
+            .cl-grid::-webkit-scrollbar-track {
+                background: rgba(0, 0, 0, 0.08);
+                border-radius: 4px;
+                margin: 0 20px;
+            }
+            /* Ползунок в светлом блоке "Клиентам" */
+            .cl-grid::-webkit-scrollbar-thumb {
+                background: #111111;
+                border-radius: 4px;
+            }
+
+            /* Дорожка полосы в темном блоке "Отзывы" */
+            .revs::-webkit-scrollbar-track {
+                background: #1e1e1e;
+                border-radius: 4px;
+                margin: 0 20px;
+            }
+            /* Ползунок в темном блоке "Отзывы" */
+            .revs::-webkit-scrollbar-thumb {
+                background: #ffffff;
+                border-radius: 4px;
+            }
+
+            .field :is(input, select, textarea) {
+                font-size: 16px
+            }
         }
 
         @media (max-width:440px) {
